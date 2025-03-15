@@ -16,6 +16,10 @@
 | **Google Pixel 9 Pro XL**  | `komodo`     |
 | **Galaxy A71 4G**          | `a71`        |
 | **Motorola G54**           | `cancunf`    |
+| **Oneplus 8**              | `instantnoodle`|
+| **Oneplus 8 Pro**          | `instantnoodlep`|
+| **Oneplus 8T**             | `kebab`      |
+| **Oneplus 9R**             | `lemonades`  |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X**         | `alioth`     |
 | **POCO F5**                | `marble`     |
@@ -40,6 +44,7 @@
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
 - **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
+- **[Itachi](https://github.com/manidweep)** (Oneplus 8 series and Pixel 9 series)
 - **[Rve](https://github.com/Rve27)** (POCO F1)
 - **[Pabloescobar](https://github.com/pabloescobar-reborn)** (POCO F5)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
@@ -54,3 +59,4 @@
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro, POCO F3/Mi 11X)
 - **[amritokun](https://github.com/amritokun)** (Redmi Note 11E Pro, Redmi Note 11 Pro 5G, POCO X4 Pro 5G )
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
+

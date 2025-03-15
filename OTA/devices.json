@@ -46,17 +46,17 @@
   },
   "tokay": {
     "device_name": "Google Pixel 9",
-    "maintainer": "manid_reddy",
+    "maintainer": "Itachi",
     "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "caiman": {
     "device_name": "Google Pixel 9 Pro",
-    "maintainer": "manid_reddy",
+    "maintainer": "Itachi",
     "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "komodo": {
     "device_name": "Google Pixel 9 Pro XL",
-    "maintainer": "manid_reddy",
+    "maintainer": "Itachi",
     "support_group": "https://t.me/AxionAOSP_PixelsSupport"
   },
   "a71": {
@@ -68,6 +68,26 @@
     "device_name": "Motorola G54",
     "maintainer": "Ayan",
     "support_group": "https://t.me/cancunf_support"
+  },
+  "instantnoodle": {
+    "device_name": "Oneplus 8",
+    "maintainer": "Itachi",
+    "support_group": "https://t.me/ItachiRomSupport"
+  },
+  "instantnoodlep": {
+    "device_name": "Oneplus 8 Pro",
+    "maintainer": "Itachi",
+    "support_group": "https://t.me/ItachiRomSupport"
+  },
+  "kebab": {
+    "device_name": "Oneplus 8T",
+    "maintainer": "Itachi",
+    "support_group": "https://t.me/ItachiRomSupport"
+  },
+  "lemonades": {
+    "device_name": "Oneplus 9R",
+    "maintainer": "Itachi",
+    "support_group": "https://t.me/ItachiRomSupport"
   },
   "beryllium": {
     "device_name": "POCO F1",

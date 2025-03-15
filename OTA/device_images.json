@@ -123,6 +123,22 @@
     {
       "codename": "surya",
       "imageUrl": "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png"
+    },
+    {
+      "codename": "instantnoodle",
+      "imageUrl": "https://wiki.lineageos.org/images/devices/instantnoodle.png"
+    },
+    {
+      "codename": "instantnoodlep",
+      "imageUrl": "https://wiki.lineageos.org/images/devices/instantnoodlep.png"
+    },
+    {
+      "codename": "kebab",
+      "imageUrl": "https://wiki.lineageos.org/images/devices/kebab.png"
+    },
+    {
+      "codename": "lemonades",
+      "imageUrl": "https://wiki.lineageos.org/images/devices/lemonades.png"
     }
   ]
 }
