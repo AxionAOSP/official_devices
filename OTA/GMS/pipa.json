@@ -1,12 +1,13 @@
+
 {
     "response": [
         {
-            "datetime": 1742696454,
-            "filename": "axion-1.2-BETA-20250323-IQ-GMS-pipa.zip",
-            "id": "f5063a43765e194ab770e84f63a7dbab",
+            "datetime": 1742837883,
+            "filename": "axion-1.2-BETA-20250324-IQ-GMS-pipa.zip",
+            "id": "31fc13983ec10a0e560790149ad4ee9b",
             "romtype": "IQ",
-            "size": 1712822999,
-            "url": "https://github.com/ai94iq/axion-pipa-releases/releases/download/axion-1.2-BETA-20250323/axion-1.2-BETA-20250323-IQ-GMS-pipa.zip",
+            "size": 1724198767,
+            "url": "https://github.com/ai94iq/axion-pipa-releases/releases/download/axion-1.2-BETA-20250324/axion-1.2-BETA-20250324-IQ-GMS-pipa.zip",
             "version": "1.2"
         }
     ]
