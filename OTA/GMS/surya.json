@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1744553588,
-            "filename": "axion-1.3-BETA-20250413-OFFICIAL-GMS-surya.zip",
-            "id": "920b1676653c5f4acef1c3e8c7f99c12",
+            "datetime": 1744992908,
+            "filename": "axion-1.3-NIGHTLY-20250418-OFFICIAL-GMS-surya.zip",
+            "id": "93c0b46047290e3988805716f538711a",
             "romtype": "OFFICIAL",
-            "size": 2260633175,
-            "url": "https://sourceforge.net/projects/arata-labs/files/AxionAOSP/GMS/axion-1.3-BETA-20250413-OFFICIAL-GMS-surya.zip/download",
+            "size": 2260579472,
+            "url": "https://sourceforge.net/projects/arata-labs/files/AxionAOSP/GMS/axion-1.3-NIGHTLY-20250418-OFFICIAL-GMS-surya.zip/download",
             "version": "1.3"
         }
     ]

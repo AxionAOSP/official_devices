@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1744557193,
-            "filename": "axion-1.3-BETA-20250413-OFFICIAL-VANILLA-surya.zip",
-            "id": "8a83b3648888d0bc272d3a6c6f200ad0",
+            "datetime": 1744991565,
+            "filename": "axion-1.3-NIGHTLY-20250418-OFFICIAL-VANILLA-surya.zip",
+            "id": "37a9558a96557c63a32e64905a42b486",
             "romtype": "OFFICIAL",
-            "size": 1857935418,
-            "url": "https://sourceforge.net/projects/arata-labs/files/AxionAOSP/VANILLA/axion-1.3-BETA-20250413-OFFICIAL-VANILLA-surya.zip/download",
+            "size": 1857787613,
+            "url": "https://sourceforge.net/projects/arata-labs/files/AxionAOSP/VANILLA/axion-1.3-NIGHTLY-20250418-OFFICIAL-VANILLA-surya.zip/download",
             "version": "1.3"
         }
     ]
