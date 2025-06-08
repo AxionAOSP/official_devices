@@ -24,7 +24,7 @@
     {
       "device_name": "Google Pixel 7a",
       "codename": "lynx",
-      "maintainer": "rmp22",
+      "maintainer": "EliteDarkKaiser",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/lynx.png"
     },
@@ -43,23 +43,30 @@
       "image_url": "https://wiki.lineageos.org/images/devices/cheetah.png"
     },
     {
+      "device_name": "Google Pixel Tablet",
+      "codename": "tangorpro",
+      "maintainer": "EliteDarkKaiser",
+      "support_group": "https://t.me/AxionAOSP_PixelsSupport",
+      "image_url": "https://wiki.lineageos.org/images/devices/tangorpro.png"
+    },
+    {
       "device_name": "Google Pixel 8a",
       "codename": "akita",
-      "maintainer": "rmp22",
+      "maintainer": "EliteDarkKaiser",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/akita.png"
     },
     {
       "device_name": "Google Pixel 8",
       "codename": "shiba",
-      "maintainer": "rmp22",
+      "maintainer": "EliteDarkKaiser",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/shiba.png"
     },
     {
       "device_name": "Google Pixel 8 Pro",
       "codename": "husky",
-      "maintainer": "rmp22",
+      "maintainer": "EliteDarkKaiser",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/husky.png"
     },

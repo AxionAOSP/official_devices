@@ -8,6 +8,7 @@
 | **Google Pixel 7a**        | `lynx`       |
 | **Google Pixel 7**         | `panther`    |
 | **Google Pixel 7 Pro**     | `cheetah`    |
+| **Google Pixel Tablet**    | `tangorpro`  |
 | **Google Pixel 8a**        | `akita`      |
 | **Google Pixel 8**         | `shiba`      |
 | **Google Pixel 8 Pro**     | `husky`      |
@@ -65,3 +66,4 @@
 - **[Steven (superxorn)](https://github.com/superxorn)** (Mi 9T)
 - **[Byben](https://github.com/ramaadni)** (Redmi Note 13 Pro 5G / POCO X6 5G)
 - **[Hexdare](https://github.com/Hexdare)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro+)
+- **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)
