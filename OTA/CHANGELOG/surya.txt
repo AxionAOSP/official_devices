@@ -1,0 +1,7 @@
+AxionOS v1.6 Final
+Build Date : 06/22/2025
+- No more KernelSU-Next support
+- Nuke XiaomiParts
+- Compile HWUI for performance
+- Make it support Leica again
+- More stability improvements
