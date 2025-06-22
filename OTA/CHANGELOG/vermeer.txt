@@ -1,0 +1,11 @@
+AxionOS v1.4
+Build Date : 08/05/2025
+- May 2025 security patch.
+- Update blobs from OS2.0.100.0.VNKMIXM
+- Added "Lift to wake" option
+- Added high rate option for Touch Sampling 
+- KernelOss Update to 5.15.176
+- Include Miui camera and Dolby
+- Include Miui Gallery
+- Includes Firmware 2.0.100.0.VNKMIXM
+- Clean Flash Required!!!

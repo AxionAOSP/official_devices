@@ -1,0 +1,19 @@
+Axion v1.6 Final
+Build Date 20/06/2025
+-Updated Blobs to OS2.0.4.0.UMSMIXM
+-Added Game bar
+-excluded firmware
+-Make less cores available for background tasks
+
+AxionOS v1.5
+Build Date 08/06/2025
+- Moto Dolby interface
+- sony dolby1.3
+- removed deprecated config_mobile_tcp_buffers
+- Switch to common AIDL IR service
+
+AxionOS v1.4
+Build Date : 17/05/2025
+- Dolby Low sound issue fixed
+- Added Torch control
+- Back to Sony dolby1.0

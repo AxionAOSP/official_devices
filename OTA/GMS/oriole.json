@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1745167684,
-            "filename": "axion-1.3-NIGHTLY-20250420-OFFICIAL-GMS-oriole.zip",
-            "id": "343a2ecf08d83ce2baa1e37ac9ddaae4",
+            "datetime": 1750464980,
+            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-GMS-oriole.zip",
+            "id": "b044df57dfd573d2144d5167b8ebe47a",
             "romtype": "OFFICIAL",
-            "size": 1825620325,
-            "url": "https://www.pling.com/p/2259442/",
-            "version": "1.3"
+            "size": 1821545145,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250620-OFFICIAL-GMS-oriole.zip",
+            "version": "1.6"
         }
     ]
 }

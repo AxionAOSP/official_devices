@@ -1,0 +1,22 @@
+AxionOS v1.4 Changelogs for peridot:
+
+Build Date : 14/06/2025
+- Update blobs to OS2.0.104.0.VNPMIXM
+- Migrate to common libqti-perfd-client and power-libperfmgr
+- parts: Drop per-app Thermal Profile
+- parts: Refactor Thermal Tile Service and CPU Governor Management
+- parts: Rebrand Thermal Profile to Power Profile
+- parts: Introduce Per-App HTSR
+- parts: Integrate HTSR activation for performance profile
+- parts: Introduce QCOM Bypass Charging with QS Title and Per-App
+- Add DSPVolumeSynchronizer
+- Enable Spatial Audio
+- Fix flickering AOD
+- Set 1100mhz GPU Freq in Performance Power Profile
+- Improve Stability n Smoothness
+- ඞ
+
+Build Date : 08/05/2025
+- Update blobs to OS2.0.102.0.VNPMIXM
+- Switch to armv9-a ARCH variant
+- XiaomiParts: Add Turbo Charging

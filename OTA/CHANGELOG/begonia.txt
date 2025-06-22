@@ -1,0 +1,32 @@
+AxionOS v1.6
+Build Date : 20/06/2025
+- Final A15 Build
+- Silence HWUI logspam
+- Shut hwcomposer spam
+- Added Few More bpf patches
+- Few More misc changes
+
+AxionOS v1.5
+Build Date : 14/06/2025
+- Imported Missing Camera Library
+- Added more bpf patches
+- More misc changes
+
+AxionOS v1.4
+Build Date : 25/05/2025
+- Built Common FMRadio
+- Move to OSS Libfmjni
+- Improved DT2W services using Xiaomi-touch
+- Dropped unused 64-bit Audio blobs
+- Dropped unused 32-bit Bluetooth blobs
+- Dropped unused 32-bit Camera blobs
+- Move to Lineage light hal
+- Included Latest PoWeR Kernel
+
+AxionOS v1.3
+Build Date : 18/04/2025
+- Included Los apps
+- Optimized native executables
+- Imported audio policy volumes from AOSP
+- Enabled LTO and inline optimization
+- Many other Misc changes in kernel

@@ -1,0 +1,5 @@
+AxionOS v1.4
+Build Date : 08/05/2025
+- Upstream Kernel to 5.10.237
+- Remove Saturated and Adaptive Color Modes
+- Enable WPA3-SAE for SoftAP

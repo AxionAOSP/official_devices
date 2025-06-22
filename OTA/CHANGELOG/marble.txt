@@ -1,0 +1,80 @@
+Device: Poco F5/ Redmi Note 12 Turbo
+Device code name : marble
+Device maintainer: PabloEscobar
+
+Date - 15/06/2025
+=================
+- Fixup! Add support for Dolby Spatial Audio
+- Improved Dolby sound
+- init: Configure max values for background and dex2oat groups
+- zram: Add writeback properties
+- Enable Client Composition Cache
+- Enable HWUI adpf
+- Build android.media.audio.common.types-V2-cpp
+- parts: Move GameBar to system settings and add Icon as well
+- overlay: Make the UI smoother
+- overlay: set config_wallpaperMaxScale to 1
+- overlay: Downscale task snapshots to 80%
+- overlay: Set config_use16BitTaskSnapshotPixelFormat to true
+- overlay: Use 4G instead of LTE icon for save statusbar space
+- Switch to common AIDL IR service
+
+Date - 20/05/2025
+=================
+-Fixed Goodix_fp 
+-Added DOLBY VISION support
+-Import LDAC & LHDC Bluetooth audio codecs 
+-Switched back to Qti_perf
+-Nuked powerhint
+-Firmware not included
+
+Date - 08/05/2025
+=================
+-Switched to libperfmgr
+-Split and configure perf tuning (from Aospa)
+-Remove QTI perfd
+-Migrate to common libqti-perfd-client and power-libperfmgr
+-Drop libadreno_app_profiles
+->powerhint:
+-Import powerhint.json from lahaina
+-Adapt and tune for SM8475 (cape)
+-Follow taro's CPU freqs for little cluster
+-Handle thermal profile state via powerhint
+-Drop CPU freqs boosting on INTERACTION
+->props:
+-Enable usage of dex2oat64
+-Disable Skia tracing by default
+-Disable phantom process monitoring
+-Do not use phase offsets as duration fixes random qs lags
+-Sync vsync work duration with gs201
+-Set debug.sf.layer_caching_active_layer_timeout_ms to 1000
+-rootdir: Kill WALT CPU boosting
+-init: Kill statsd service
+-init: Give proper permissions for /dev/diag
+-sensors: add more padding to _oem_msg
+-overlay: configure SQLite to operate in MEMORY mode
+-sepolicy: Allow powerhal write to /proc
+
+Date - 07/05/2025
+=================
+- Update blobs & fp from  OS2.0.4.0.VMRMIXM
+- Switched to OSS Audio HAL.
+- Fixed Goodix fp 
+- Add Dolby Atmos support. All credits goes to HellBoy
+- Fixed & add tools for thermals. All creidts goes to Kenway
+- Added Gamebar 4.0
+- Import QCOM audio effects from OnePlus 9R
+- use QCOM Implementation for Audio Effects
+- Add a property to enable prefetching video
+- Add missing layer buffer slots cache clear property
+- Extend audio offload buffer size to 256kb
+- Disable continuous transaction tracing on all build types
+- Set game refresh rate override to 120
+- Enable frame pacing for smoother visual performance
+- Allow more cached apps in the background
+- Apply dex2oat optimizations
+- Disable debug.sf.latch_unsignaled
+- Do not balance msm_drm and kgsl_3d0 IRQs
+- Dynamically set IRQ affinity for KGSL and MSM_DRM
+- Use HintManager for HWUI
+- Enable support for kernel idle timer

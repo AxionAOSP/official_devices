@@ -1,0 +1,6 @@
+AxionOS v1.4
+Build Date : 2025/05/29
+
+- [XiaomiParts] Added initial support for stylus function customization -
+- Minor cleanups in the Nanosic module (for the official Xiaomi keyboard) -
+- Adjusted lid sensor logic to use threshold-based detection for improved precision -

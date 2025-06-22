@@ -1,0 +1,12 @@
+AxionOS v1.6
+Build Date: 22.06.2025
+- Updated vendor from RMX3371_14.0.0.1800
+- Updated Dolby blobs
+- Some Kernel Tweaks
+
+
+AxionOS v1.4
+Build Date : 07/05/2025
+- Synced with latest sources
+- May Security Patch
+- Kernel optimizations

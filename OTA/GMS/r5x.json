@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1743751902,
-            "filename": "axion-1.2-BETA-20250404-OFFICIAL-GMS-r5x.zip",
-            "id": "d466f5d26319774d27bcc91855be1b6f",
+            "datetime": 1750564038,
+            "filename": "axion-1.6-FINAL-20250622-OFFICIAL-GMS-r5x.zip",
+            "id": "83671e2e5d9344d7fa3eb9cc2f4f71e3",
             "romtype": "OFFICIAL",
-            "size": 2005578730,
-            "url": "https://sourceforge.net/projects/realme5series/files/axion-1.2-BETA-20250404-OFFICIAL-GMS-r5x.zip/download",
-            "version": "1.2"
+            "size": 1839514038,
+            "url": "https://sourceforge.net/projects/realme5series/files/axion-1.6-FINAL-20250622-OFFICIAL-GMS-r5x.zip/download",
+            "version": "1.6"
         }
     ]
 }

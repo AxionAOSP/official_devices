@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1745203530,
-            "filename": "axion-1.3-NIGHTLY-20250421-OFFICIAL-GMS-akita.zip",
-            "id": "e0235d383c96faf4c57854734bd2bbf3",
+            "datetime": 1749439072,
+            "filename": "axion-1.5-NIGHTLY-20250609-OFFICIAL-GMS-akita.zip",
+            "id": "a8021bea0ed2ee41493b036799152351",
             "romtype": "OFFICIAL",
-            "size": 1876493899,
-            "url": "https://www.pling.com/p/2259442/",
-            "version": "1.3"
+            "size": 1885747374,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/akita/1.x/gapps/axion-1.5-NIGHTLY-20250609-OFFICIAL-GMS-akita.zip/download",
+            "version": "1.5"
         }
     ]
 }

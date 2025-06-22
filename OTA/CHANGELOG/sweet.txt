@@ -1,0 +1,19 @@
+AxionOS v1.5
+Build Date : 06/11/2025
+- Remove BCR
+- Drop some unused refresh rates (eg. 30Hz and 50Hz)
+- Enhanced Per-app refresh rates and thermal profile selection logic
+- Disable content detection for refresh rates
+- Add support for Bypass Charging feature
+- Compile HWUI for performance
+- Fully disable blur by default
+- Disable FRP by default
+- Set appropriate dalvik props for 8GB RAM
+- Disable vsync for CPU rendered apps
+- Fix PowerHAL nodes
+- Convert overlays to standalone RRO packages
+- switch to common AIDL IR service
+- Disable Kernel Page Table Isolation (KPTI)
+- Migrate to lmkd-based memory management
+- Avoid access of deprecated LocUnorderedSetMap entry
+- Use NCM function for USB tethering

@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1744470993,
-            "filename": "axion-1.3-BETA-20250412-OFFICIAL-GMS-alioth.zip",
-            "id": "dc0742ddb9f5ce685f73a3f06c2cd2fe",
+            "datetime": 1750529210,
+            "filename": "axion-1.6-FINAL-20250621-OFFICIAL-GMS-alioth.zip",
+            "id": "5535d938f6885732a9ed9dcf587547f0",
             "romtype": "OFFICIAL",
-            "size": 1890379324,
-            "url": "https://sourceforge.net/projects/sanjis-releses/files/alioth/AxionAOSP/axion-1.3-BETA-20250412-OFFICIAL-GMS-alioth.zip/download",
-            "version": "1.3"
+            "size": 2014847143,
+            "url": "https://sourceforge.net/projects/sanjis-releses/files/alioth/AxionAOSP/axion-1.6-FINAL-20250621-OFFICIAL-GMS-alioth.zip/download",
+            "version": "1.6"
         }
     ]
 }

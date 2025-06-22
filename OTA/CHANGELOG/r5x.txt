@@ -1,0 +1,23 @@
+AxionOS v1.6
+Build Date : 22/06/2025
+
+- Final A15 Build
+- Switched to user build type
+- Remove unused odex/oat files from pinner list.
+- overlay: Remove unused BT related configs
+- Move Bluetooth power overlays to sysprops
+- overlay: Force enable PowerOffAlarmService
+- Checkout Bluetooth and Ant+ props/flags from sm6150-common
+- sepolicy: label more sysfs wakeup node
+- Drop Duplicate genfs wakeup nodes
+
+AxionOS v1.4
+Build Date : 16/05/2025
+
+- Decrease swappiness to 60
+- Add context_hub into audio hal group
+- Add "system" group to Audio HAL
+- audio: switch to open source sound trigger hal
+- Enable WPA2 to WPA3 auto-upgrade
+- Switch to AIDL USB HAL
+- Fixed Random reboot bug

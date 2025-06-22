@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1745197262,
-            "filename": "axion-1.3-NIGHTLY-20250420-OFFICIAL-VANILLA-husky.zip",
-            "id": "50979828087543367682c303a44feab8",
+            "datetime": 1749433267,
+            "filename": "axion-1.5-NIGHTLY-20250609-OFFICIAL-VANILLA-husky.zip",
+            "id": "ee50454c5757428235e274716af9f690",
             "romtype": "OFFICIAL",
-            "size": 1508706032,
-            "url": "https://www.pling.com/p/2259442/",
-            "version": "1.3"
+            "size": 1510269567,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/husky/1.x/vanilla/axion-1.5-NIGHTLY-20250609-OFFICIAL-VANILLA-husky.zip/download",
+            "version": "1.5"
         }
     ]
 }

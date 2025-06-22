@@ -1,0 +1,14 @@
+AxionOS v1.5 Nightly
+Build Date : 12/06/2025
+- Drop TARGET_RECOVERY_DEVICE_MODULES
+- gps: Avoid access of deprecated LocUnorderedSetMap entry
+- Include LineageOS prebuilts for non-GMS builds
+- Set vendor init lib via soong config
+- sepolicy: Remove duplicate /dev/lirc0 label
+- touch: Convert to Rust AIDL HAL
+- touch: Fully move to /vendor as temp workaround
+- touch: Apply luca's suggestion edit
+
+AxionOS v1.4 Nightly
+Build Date : 11/05/2025
+- Initial release

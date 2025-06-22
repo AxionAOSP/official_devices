@@ -1,0 +1,306 @@
+Changelogs For AxionAOSP v1.6 Final Update
+Build Date: 22/06/2025
+
+- Add back 4.9 leica 
+
+- Add back missing OMX dolby codecs e.g eac3,ac3.ac4
+
+- Turned off audit config on kernel
+
+- Removed bootlager from device tree
+
+
+
+Changelogs For AxionAOSP v1.5 Update
+Build Date: 14/06/2025
+
+- Downgraded to old nO kernel fork
+
+- Updated leica to 5.0 from johnmart
+
+- Added missing Dirac prefernce strings
+
+- Build libartpalette
+ * F linker  : CANNOT LINK EXECUTABLE "/apex/com.android.art/bin/dex2oat64": library "libartpalette.so" not found: needed by main executable
+
+- Audio: Use QCOM implementation for audio effects
+ * AOSP effects doesn't give as thicc'n'sicc bass boost as the QC effects do.
+
+- Migrate to soong_config_set,camera,override_format_from_reserved
+
+- Move Lineage Health HAL to select()
+ * Its deprecated
+
+- Drop TARGET_INIT_VENDOR_LIB from common tree and move it to soong_config
+ * fixes nfc on alioth and baseband issue on aliothin
+
+- Updated cpuset placement on irq affinity
+
+- Other Little changes for better stability and bb 
+
+Changelogs For AxionAOSP v1.4 Update
+Build Date: 08/05/2025
+
+- Shipped with latest nO kernel
+
+- Charging bypass dropped 
+ * you can flash old kernel to enable it
+
+- Downgraded to leica 4.9 as for user request 
+
+- Address some Bluetooth and Wifi denials
+
+- Adjust thread count and cpuset after setup wizard
+
+- removed ro.config.avoid_gfx_accel=true as its breaking sidebar 
+
+- Allow untrusted_app to getopt zygote
+ * avc: denied { getopt } for path="/dev/socket/usap_pool_primary" scontext=u:r:untrusted_app:s0:c129,c256,c512,c768 tcontext=u:r:zygote:s0 tclass=unix_stream_socket permissive=1 app=com.android.deskclock
+
+- Allow zygote to access unix_stream_socket
+ * 03-17 17:28:10.546  2409  2409 I FinalizerDaemon: type=1400 audit(0.0:669): avc:  denied  { getopt } for  path="/dev/socket/usap_pool_primary" scontext=u:r:untrusted_app_32:s0:c135,c256,c512,c768 tcontext=u:r:zygote:s0 tclass=unix_stream_socket permissive=1 app=com.android.deskclock
+
+- Nuked lineage dependencies
+
+- Disable QCOM system daemon
+ * For factory use only and has real performance costs.
+
+- Remove unnecessary QTI logkit directories
+ * We do not use logkit
+
+- Update pinner configuration
+ * Pin critical graphics libraries
+
+   Inspired from AOSPA/android_vendor_aospa@c33cdcb
+
+- Enable 64-bit inode version support for ext4
+ * https://jtlayton.wordpress.com/2016/12/16/the-inode-i_version-counter-in-linux/
+
+- Speed profile services and wifi-service to reduce RAM and storage
+
+- Limit AOD & Ambient Display refresh rate to 60Hz 
+
+- Enable display async powermode
+ * All xiaomi sm8250 devices have it enabled in stock.
+
+- Add some libraries to pinner list
+ * Add some librart which will load during camera launch to reduce camera
+   launch time in I/O busy case.
+
+- Frameworks: Update pinner configuration
+ * Drop unused 32-bit libs.
+   Drop RS libs as they're deprecated since 12.
+   Add few adreno (EGL) libs, taken from MIUI.
+   Add libipebpsstriping170 for yupik camx.
+
+- Reduce aod brightness value from 17 to 12
+
+- props: Clean up useless logspams
+
+- Disable logging sensors-hal events
+ * This sets log_level to 0
+   10-14 14:17:17.674 14629 14629 I sensors-hal: get_system_config:67, log_level: 0
+
+   This is done especially to disable spammy logging of ambient light sensor events
+   10-14 14:17:12.821 12603 14590 I sensors-hal: handle_ambient_light_event:157, _ambient_light: ts=3858719100254, lux=11, data_c=0, delta_ms=0, data_cnt=0
+
+- Provide thermal profile permissions
+
+- Disable kpti
+ * As per qualcomm - SM8150/SM8250/SM8350/SM7250/SM7150/SM6150 - KPTI Not required.
+ * It can also help increase performance by a lot in some scenarios.
+ 
+- Move DPM feature property to /system_ext
+ * DPM blobs are under /system_ext.
+
+- Disable DRC
+ * DRC is audio policy to 'compress' volume table, which causes low max volume. Disable it for now
+
+- disable proximity usage during doze
+
+- Address more denials
+
+- Don't pin some adreno libs
+ * they can't be anyways pinned until system_server selinux access
+ * avc:  denied  { read } for  name="libgpudataproducer.so" dev="dm-4" ino=1081 scontext=u:r:system_server:s0
+ * avc:  denied  { read } for  name="libgpudataproducer.so" dev="dm-4" ino=1799 scontext=u:r:system_server:s0
+ * avc:  denied  { read } for  name="libipebpsstriping.so" dev="dm-4" ino=1819 scontext=u:r:system_server:s0
+
+- Label nr_requests
+ * W init    : type=1400 audit(0.0:46): avc:  denied  { write } for  name="nr_requests" dev="sysfs" ino=70247 scontext=u:r:init:s0
+
+- Address no fingerprint denials
+ * W init    : type=1400 audit(0.0:55): avc:  denied  { mounton } for  path="/vendor/etc/permissions/android.hardware.wifi.aware.xml" dev="dm-4" ino=632 scontext=u:r:init:s0 tcontext=u:object_r:vendor_configs_file:s0 tclass=file permissive=0
+
+     -----  following are wifi related changes ----
+ 
+- Increase max bss count
+ * QCOM's driver can support a max of 512 scan results. Ensure that
+   wpa_supplicant is in sync with that number.
+
+- Disable RX wakelock feature
+- Relax WiFi re-association RSSI thresholds
+- No BSS flush for 2018 devices
+- Disable TDLS offchannel
+ * TDLS off-channel feature is needed only for
+   certification. Disable the feature in production
+   builds.
+
+- Remove entry for gEnableNUDTracking
+ * Currently Min, Max and default values of gEnableNUDTracking in
+     code are:
+     Min: 0 (Driver will not track the NUD failures, and ignore the same)
+     Max: 2 (Driver will track the NUD failures and if honoured will roam
+	away from the connected BSSID to a new BSSID to retain the
+	data connectivity).
+     Default: 2
+ 
+     In order to enable NUD tracking after NUD failure by default,
+     remove entry for gEnableNUDTracking from ini file.
+
+- Remove TxPower2g and 5g
+ * Ini config values TxPower2g and TxPower5g are not
+   getting used anymore.
+   Remove TxPower2g and TxPower5g from WCNSS_qcom_cfg.ini
+   for all the targets.
+
+- set inactivity time
+ * Wait for 1 second to let wifi driver do
+   complete clean reset of SW/HW.
+
+- Bind mount Wifi Aware feature permissions.
+ * Fixes issues when GPS and Wifi are switched on simultaneously.
+   * Also kills logspam regarding NAN.
+
+- Extend gInterfaceChangeWait to 2 seconds for avoid crash when "adb reboot"
+
+
+
+
+
+Changelogs For AxionAOSP v1.3 BETA Update
+Build Date: 12/04/2025
+
+- Cleanup OMX Dependencies for latest sources
+- sepolicy: Remove duplicate snxxx AIDL rules
+ * These are now part of qcom/sepolicy_vndr.
+
+- These are now part of qcom/sepolicy_vndr.
+ * NfcNci and SecureElement are built by handheld_system.mk
+
+- Implant bypass charging and address appropriate sepolicy rules
+ * thanks @Rve27 for the kernel side work
+
+- Resolving AxionOS Kernel Tuning/Performance Mode Denials and address SELinux denials for VM tuning
+- Address more sepolicy 
+ * Resolve mediacodec denials
+ * Allow mdm_helper to use fowner capability
+ * allow usbd binder call
+ * Address schedtune denials
+ * allow vendor_init to read fingerprint_data_file
+
+- Moving some properties from vendor.prop to system.prop to make selinux happy 
+ * ro.hwui.render_ahead
+ * persist.mm.enable.prefetch
+ * ro.config.avoid_gfx_accel
+ * property=persist.radio.NO_STAPA
+ * property=persist.radio.VT_HYBRID_ENABLE
+ * persist.radio.dynamic_sar
+
+- Move rild.libpath to system prop and set it manually
+ * Nuked from init.qcom.rc
+
+- Remove unexported property triggers from rootdir
+- Resolve GNSS denial
+- Tetheroffload: Version 1.1
+- Build vendor.display.config@1.9
+ * getTransport: Cannot find entry vendor.display.config@1.9::IDisplayConfig/default in either framework or device VINTF manifest.
+
+   [ERROR][FORMAT ] camxdisplayconfig.cpp:124 Initialize() IDisplayConfig service is NULL, version 1.9
+
+- Manually place msm_drm and msm_kgsl_3d0 IRQs
+ * After unbalancing, move these IRQs to separate cores to improve latency.
+
+- Set LTE+ threshold bandwidth to 0
+ * so LTE+ icon will show whenever it's available
+
+- Set 5G threshold bandwidth to 0
+ * So that 5G+ icon will show whenever it's available
+
+- Compact cached app heaps in the background
+ * Background ART heap compaction for cached apps has been
+   recommended for Android Go devices for a while, and Google has enabled it for
+   the Pixel 5 on RQ1A.201205.010. This feature should help fit more cached apps
+   in memory
+
+- Rm package cache on early boot
+ * Because Android won't do it on a dirty flash so certain elements will be broken if something is changed in UI.
+
+- Disable turbulence noise
+- Offload WM shell to another thread
+ * Reduces jitter/jank when pulling down shade
+
+- Disable debug.sf.latch_unsignaled
+ *  debug.sf.latch_unsignaled - This causes SurfaceFlinger to latch   buffers
+ even if their fences haven't signaled
+
+ * Disabling this helps reduces notification QS lag, UI performance is not impacted.
+
+  - Unicote:
+    Also fixes live wallpapers lags
+
+- Increase max fling velocity
+ * Allow scrolling faster, corresponding to our reduced scroll friction.
+
+- Give proper permissions for /dev/diag
+ * This gives proper permission to /dev/diag node so that diag driver can load successfully
+
+   Before in log:
+   Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+
+   After in log:
+   Diag_Lib: qpLogDiagInit <== result : 1
+   Diag_Lib: QMID : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled
+   0, gIsIMSLogsDisabled 0
+
+-  Silence some spammy logging
+ * HWC and cit sensor logspam is so intense it bumps up logd's idle CPU
+   usage up to over 3%. With this change, logs are much cleaner and logd
+   idle CPU usage is reduced to under 1%, while still allowing error logs
+   to pass through.
+   - Do this only in user/debug builds (except eng).
+
+- Disable Chimera.GmsIntentOperationService and Disable collective Device administrators GMS components
+ * Inspired from universal gms doze magisk module.
+
+- Disable adsprpcd_sensorspd.daemon
+ * 69 spamming error in logs
+  vendor/qcom/proprietary/adsprpc/src/log_config.c:268:Error 0x200: fopen failed for /vendor/lib/rfsa/adsp/adsprpcd.farf
+  vendor/qcom/proprietary/adsprpc/src/log_config.c:268:Error 0x200: fopen failed for /vendor/dsp/adsp/adsprpcd.farf
+  vendor/qcom/proprietary/adsprpc/src/log_config.c:268:Error 0x200: fopen failed for /vendor/dsp/adsprpcd.farf.
+
+- Introduce GameBar v2.0 by @kenway214
+
+- Move gamebar to system settings and add icon as well
+- Move to M3 switch for gamespace2.0
+
+- Comming back to lineage-libperfmgr from pixel-libperfmgr
+ * switching to los power hal cause more flexibility
+
+- Addresss more denials 
+
+
+
+Changelogs For AxionAOSP v1.2 BETA Update
+Build Date: 23/03/2025
+
+- Initial qpr2 build
+- Dolby,leica 5.0 and gamebar 2.0 included 
+- Report bugs with proper logs in support group
+
+CREDITS:
+• @johnmart19 for his work on trees and leica implantation 
+
+• @EmanuelCN0 for the awesome kernel
+
+• Lineage devs for their work on common trees

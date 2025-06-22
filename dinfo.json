@@ -24,7 +24,7 @@
     {
       "device_name": "Google Pixel 7a",
       "codename": "lynx",
-      "maintainer": "rmp22",
+      "maintainer": "EliteDarkKaiser",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/lynx.png"
     },
@@ -43,44 +43,51 @@
       "image_url": "https://wiki.lineageos.org/images/devices/cheetah.png"
     },
     {
+      "device_name": "Google Pixel Tablet",
+      "codename": "tangorpro",
+      "maintainer": "EliteDarkKaiser",
+      "support_group": "https://t.me/AxionAOSP_PixelsSupport",
+      "image_url": "https://wiki.lineageos.org/images/devices/tangorpro.png"
+    },
+    {
       "device_name": "Google Pixel 8a",
       "codename": "akita",
-      "maintainer": "rmp22",
+      "maintainer": "EliteDarkKaiser",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/akita.png"
     },
     {
       "device_name": "Google Pixel 8",
       "codename": "shiba",
-      "maintainer": "rmp22",
+      "maintainer": "EliteDarkKaiser",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/shiba.png"
     },
     {
       "device_name": "Google Pixel 8 Pro",
       "codename": "husky",
-      "maintainer": "rmp22",
+      "maintainer": "EliteDarkKaiser",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/husky.png"
     },
     {
       "device_name": "Google Pixel 9",
       "codename": "tokay",
-      "maintainer": "manid_reddy",
+      "maintainer": "Itachi",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/tokay.png"
     },
     {
       "device_name": "Google Pixel 9 Pro",
       "codename": "caiman",
-      "maintainer": "manid_reddy",
+      "maintainer": "Itachi",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/caiman.png"
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
       "codename": "komodo",
-      "maintainer": "nivlafx",
+      "maintainer": "Itachi",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/komodo.png"
     },
@@ -97,6 +104,20 @@
       "maintainer": "Steven (superxorn)",
       "support_group": "https://t.me/superxornplayground",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-9t-0.jpg"
+    },
+        {
+      "device_name": "Mi 10T/Mi 10T pro",
+      "codename": "apollo",
+      "maintainer": "Murtaza Kolachi",
+      "support_group": "https://t.me/Murtazasapollocommunity",
+      "image_url": "https://www.bug.hr/img/xiaomi-mi-10t-serija-telefona-za-kreativce_oFqltN.png"
+    },
+    {
+      "device_name": "Mi 11X Pro/Mi 11i/Redmi K40 Pro+",
+      "codename": "haydn",
+      "maintainer": "Hexdare",
+      "support_group": "https://t.me/AsimBuildSupport",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi11x-pro-0.jpg"
     },
     {
       "device_name": "Motorola G54",
@@ -148,18 +169,18 @@
       "image_url": "https://wiki.lineageos.org/images/devices/alioth.png"
     },
     {
-      "device_name": "POCO F4/Redmi K40S",
-      "codename": "munch",
-      "maintainer": "masarou",
-      "support_group": "https://t.me/masarou7A",
-      "image_url": "https://wiki.lineageos.org/images/devices/munch.png"
-    },
-    {
       "device_name": "POCO F5",
       "codename": "marble",
       "maintainer": "Pabloescobar",
       "support_group": "https://t.me/pablo_laboratory",
       "image_url": "https://i.postimg.cc/3NP59Rrg/1000003700.png"
+    },
+    {
+      "device_name": "POCO F5 Pro",
+      "codename": "mondrian",
+      "maintainer": "DqrKnz",
+      "support_group": "https://t.me/MondrianDevelopment",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-pro-2.jpg"
     },
     {
       "device_name": "POCO F6",
@@ -183,11 +204,11 @@
       "image_url": "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png"
     },
     {
-      "device_name": "POCO X4 PRO 5G",
-      "codename": "veux",
-      "maintainer": "amritokun",
-      "support_group": "https://t.me/veuxplayground",
-      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg"
+      "device_name": "POCO X5 Pro 5G",
+      "codename": "redwood",
+      "maintainer": "Mayur_U",
+      "support_group": "https://t.me/Mayurbuilds",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg"
     },
     {
       "device_name": "POCO X6 Pro 5G",
@@ -205,10 +226,17 @@
     },
     {
       "device_name": "Realme GT Neo 3T",
-      "codename": "spartan",
+      "codename": "rmx3371",
       "maintainer": "Ryuk",
       "support_group": "https://t.me/ryukftw9",
       "image_url": "https://i.postimg.cc/ncJDcTFs/original-imaghyc7gkgg6qzf.webp"
+    },
+    {
+      "device_name": "Redmi Mi8937_4_19 Series",
+      "codename": "Mi8937_4_19",
+      "maintainer": "Rve",
+      "support_group": "https://t.me/rvosuniverse",
+      "image_url": "https://wiki.lineageos.org/images/devices/Mi8937_variant5_6.png"
     },
     {
       "device_name": "Redmi Note 8 Pro",
@@ -218,18 +246,18 @@
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-pro-.jpg"
     },
     {
-      "device_name": "Redmi Note 10 Pro",
+      "device_name": "Redmi Note 10 Pro/Pro Max",
       "codename": "sweet",
-      "maintainer": "donjohanliebert",
-      "support_group": "https://t.me/donjohanliebert_sg",
+      "maintainer": "eidawon1402",
+      "support_group": "https://t.me/eidawonsg",
       "image_url": "https://wiki.lineageos.org/images/devices/sweet.png"
     },
     {
-      "device_name": "Redmi Note 11 Pro Series",
-      "codename": "veux",
-      "maintainer": "amritokun",
-      "support_group": "https://t.me/veuxplayground",
-      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg"
+      "device_name": "Redmi Note 13 Pro 5G / POCO X6 5G",
+      "codename": "garnet",
+      "maintainer": "Byben",
+      "support_group": "https://t.me/rmdnsupport",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6.jpg"
     },
     {
       "device_name": "Redmi K60 Pro",
@@ -239,24 +267,10 @@
       "image_url": "https://wiki.lineageos.org/images/devices/socrates.png"
     },
     {
-      "device_name": "TECNO POVA 4 Pro",
-      "codename": "LG8n",
-      "maintainer": "Shirayuki39",
-      "support_group": "https://t.me/shirayuki428sg",
-      "image_url": "https://fdn2.gsmarena.com/vv/pics/tecno/tecno-pova4-pro-1.jpg"
-    },
-    {
-      "device_name": "TECNO POVA 4",
-      "codename": "LG7n",
-      "maintainer": "Shirayuki39",
-      "support_group": "https://t.me/shirayuki428sg",
-      "image_url": "https://fdn2.gsmarena.com/vv/pics/tecno/tecno-pova4-1.jpg"
-    },
-    {
       "device_name": "Xiaomi Pad 6",
       "codename": "pipa",
-      "maintainer": "Abdulwahab (ai94iq)",
-      "support_group": "https://t.me/mipad6",
+      "maintainer": "rmux",
+      "support_group": "https://t.me/+EIxj3VlCCxA2YmU0",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad6.jpg"
     }
   ]

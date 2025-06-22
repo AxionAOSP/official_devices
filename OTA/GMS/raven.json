@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1745160222,
-            "filename": "axion-1.3-NIGHTLY-20250420-OFFICIAL-GMS-raven.zip",
-            "id": "f7e5f051c3367fac0cc223cf2765d3a5",
+            "datetime": 1750461347,
+            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-GMS-raven.zip",
+            "id": "b7021148b0e72367dcb56ff027895751",
             "romtype": "OFFICIAL",
-            "size": 1826463673,
-            "url": "https://www.pling.com/p/2259442/",
-            "version": "1.3"
+            "size": 1821854147,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250620-OFFICIAL-GMS-raven.zip",
+            "version": "1.6"
         }
     ]
 }

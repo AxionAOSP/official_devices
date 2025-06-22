@@ -1,0 +1,12 @@
+AxionOS v1.5
+Build Date 15/06/2025
+- Fixed some Perf issues
+- Merged some source changes
+- Added Vanilla Build
+
+AxionOS v1.5
+Build Date 11/06/2025
+- Initial Build
+- GMS Build
+- Leica Cam,HyperOS Gallery,Dolby Atmos Included
+- 1.0.18.0 Global Firmware Included

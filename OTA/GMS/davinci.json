@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1743600702,
-            "filename": "axion-1.2-BETA-20250402-OFFICIAL-GMS-davinci.zip",
-            "id": "6153178c20fc8186abefafca48b436d5",
+            "datetime": 1747065959,
+            "filename": "axion-1.4-NIGHTLY-20250512-OFFICIAL-GMS-davinci.zip",
+            "id": "5164ea53bd5c253aafa9d2e5c9326fe7",
             "romtype": "OFFICIAL",
-            "size": 2268381411,
-            "download_url": "https://7mh7pg.sharepoint.com/_layouts/15/download.aspx?share=EQ_kud6Hb1NPoyDnqCtP9IoB2f1Rg7BciaIeSOBscsQRpQ",
-            "version": "1.2"
+            "size": 2033745852,
+            "url": "https://7mh7pg.sharepoint.com/_layouts/15/download.aspx?share=EZT8dTwui6tApsAvUjYnk-4BZ_7yh6BUoh10G_8D8jGZQQ",
+            "version": "1.4"
         }
     ]
 }
