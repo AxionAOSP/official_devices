@@ -6,6 +6,11 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
+Date - 26/06/2025
+=================
+- Kang Dolby Vision blobs from Redmi
+- hidl Sync with Lineage
+
 Date - 23/06/2025
 =================
 - Detailed device side full changelog https://github.com/crdroidandroid/android_vendor_crDroidOTA/blob/15.0/vili_changelog.txt
