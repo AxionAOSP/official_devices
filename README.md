@@ -36,7 +36,7 @@
 | **Realme GT Neo 3T**       | `rmx3371`    |
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
-| **Redmi Note 10 Pro**      | `sweet`      |
+| **Redmi Note 10 Pro/Pro Max**      | `sweet`      |
 | **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Redmi K60 Pro**          | `socrates`   |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
