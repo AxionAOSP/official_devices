@@ -1,21 +1,8 @@
-AxionOS v1.6 Final
-Build Date: 20/06/2025
-- Partially update to OSS kernel (Focaltech screen don't FLASH for now)
-- Fix wifi wakelocks
-- Fix WPA3 WIFI 5 and WIFI 6
-- Bring back high touch polling rate
-- Decrease swappiness to 60%
-- Nuke dolby replace it with V4A
-- Add WIFI Aware support
-- Address some denials
-- Add bypass charging, Core control, Per-app, Powertools (Xiaomi Parts)
-- And more fixes
-
-AxionOS v1.4
-Build Date : 08/05/2025
-- Rebase whole device tree
-- Switch to udfps aidl (sofod is fine only in goodix_fod for now)
-- Disable FRP
-- Bring back miui camera
-- Drop dolby (switch to v4a)
-- Add and increase 5 GHz network signal tolerance
+AxionOS v1.6
+Build Date : 21/07/2025
+- Final A15 Build
+- OSS Kernel
+- V4A,MiuiCamera Included
+- Imported missing display prop
+- Fixed Colors fading 
+- Dropped HotwordEnrollment Apks
