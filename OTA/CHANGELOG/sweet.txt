@@ -1,28 +1,8 @@
-AxionOS v1.6 FINAL
-Build Date : 06/21/2025
-- Bring back BCR
-- Disabled HID raw support
-- Bound iwlan and qns services to vendor.qti.iwlan
-- Implemented proper AIDL-based HALs
-- Added SystemUI restart option to the Advanced Power Menu
-- Various other minor improvements and optimizations
-
-AxionOS v1.5
-Build Date : 06/11/2025
-- Remove BCR
-- Drop some unused refresh rates (eg. 30Hz and 50Hz)
-- Enhanced Per-app refresh rates and thermal profile selection logic
-- Disable content detection for refresh rates
-- Add support for Bypass Charging feature
-- Compile HWUI for performance
-- Fully disable blur by default
-- Disable FRP by default
-- Set appropriate dalvik props for 8GB RAM
-- Disable vsync for CPU rendered apps
-- Fix PowerHAL nodes
-- Convert overlays to standalone RRO packages
-- switch to common AIDL IR service
-- Disable Kernel Page Table Isolation (KPTI)
-- Migrate to lmkd-based memory management
-- Avoid access of deprecated LocUnorderedSetMap entry
-- Use NCM function for USB tethering
+AxionOS v1.6 Final Stable
+Build Date : 07/21/2025
+- Final A15 Build
+- Drop BCR by default
+- Fixed AIDL Hals (eg. ir, usb.gadget)
+- Fixed Camera info for M2101K6P variant
+- Silent HWUI, Hwcomposer, CHIUSECASE logspams
+- Get rid of KSU by default (we need to obey AxionAOSP code of conduct).
