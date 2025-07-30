@@ -106,13 +106,6 @@
       "image_url": "https://www.bug.hr/img/xiaomi-mi-10t-serija-telefona-za-kreativce_oFqltN.png"
     },
     {
-      "device_name": "Mi 11X Pro/Mi 11i/Redmi K40 Pro+",
-      "codename": "haydn",
-      "maintainer": "Hexdare",
-      "support_group": "https://t.me/AsimBuildSupport",
-      "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi11x-pro-0.jpg"
-    },
-    {
       "device_name": "Motorola G54",
       "codename": "cancunf",
       "maintainer": "Ayan",
