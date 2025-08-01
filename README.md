@@ -42,7 +42,7 @@
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series and Pixel 9 series)
 - **[Rve](https://github.com/Rve27)** (POCO F1 and Redmi 3S/3X/4/4A/4X/5A/Note 5A/Y1)
-- **[Pabloescobar](https://github.com/pabloescobar-reborn)** (POCO F5)
+- **[beingashwani](https://github.com/beingashwani)** (POCO F5)
 - **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
