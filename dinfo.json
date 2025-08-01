@@ -183,13 +183,6 @@
       "image_url": "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png"
     },
     {
-      "device_name": "POCO X3 Pro",
-      "codename": "vayu",
-      "maintainer": "grepfox",
-      "support_group": "https://t.me/grepfox_chat",
-      "image_url": "https://wiki.lineageos.org/images/devices/vayu.png"
-    },
-    {
       "device_name": "POCO X5 Pro 5G",
       "codename": "redwood",
       "maintainer": "Mayur_U",

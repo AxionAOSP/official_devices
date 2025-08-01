@@ -28,7 +28,6 @@
 | **POCO F6**                | `peridot`    |
 | **POCO F6 PRO**            | `vermeer`    |
 | **POCO X3 NFC**            | `surya`      |
-| **POCO X3 Pro**            | `vayu`      |
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
@@ -48,7 +47,6 @@
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
 - **[Skyy丨アラタ](https://github.com/HinohArata)** (POCO X3 NFC)
-- **[grepfox](https://github.com/grepfox)** (POCO X3 PRO)
 - **[Mayur-U](https://github.com/Mayur-U)** (POCO X5 PRO 5G)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
 - **[Ryuk](https://github.com/ryukftw)** (Realme GT Neo 3T)
