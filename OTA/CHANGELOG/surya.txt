@@ -1,3 +1,12 @@
+AxionOS v2.0 BETA
+Build Date : 10/08/2025
+- Initial Baklava release
+- Use BrainDead kernel
+- LeicaCam included v4.7
+- Firmware included
+- KSUN support
+- More improvement
+
 AxionOS v1.6 Final
 Build Date : 06/23/2025
 - No more KernelSU-Next support
