@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1753651173,
-            "filename": "axion-1.6-FINAL-20250727-OFFICIAL-GMS-vermeer.zip",
-            "id": "afb9e7e0e6db8e97f9d3c1cb17db4b7f",
+            "datetime": 1760103049,
+            "filename": "axion-2.0-BETA-20251010-OFFICIAL-GMS-vermeer.zip",
+            "id": "bd34b4eb32c91e12db049b46a3e3178a",
             "romtype": "OFFICIAL",
-            "size": 3411377170,
-            "url": "https://sourceforge.net/projects/axionos-vermeer/files/1.6/axion-1.6-FINAL-20250727-OFFICIAL-GMS-vermeer.zip/download",
-            "version": "1.6"
+            "size": 3424378450,
+            "url": "https://sourceforge.net/projects/axionos-vermeer/files/2.0/axion-2.0-BETA-20251010-OFFICIAL-GMS-vermeer.zip/download",
+            "version": "2.0"
         }
     ]
 }

@@ -24,3 +24,12 @@ Build Date: 27/07/2025
 - Include Miui Gallery
 - Includes Firmware 2.0.201.0.VNKMIXM
 - Clean Flash Required!!!
+
+AxionOS v2.0 - BETA
+Build Date: 10/10/2025
+- September 2025 Security Patch
+- Update Blobs and Firmware from OS2.0.205.VNKMIXM
+- Auto brightness Fixed
+- Kernel Upstream to 5.15.189
+- overlay-lineage: Add reboot to fastbootd
+- It was resolved that when installing TWRP on this ROM, it simply remained black and would not start.
