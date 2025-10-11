@@ -1,3 +1,12 @@
+AxionOS v2.0 BETA 4
+Build Date : 11/10/2025
+- Initial Android 16 release
+- Adapt to AxionOS v2.0 BETA
+- kernel: Implement BORE Scheduler
+- kernel: Enable CONFIG_WQ_POWER_EFFICIENT_DEFAULT
+- kernel: Optimize clang flags
+- kernel: Bump WireGuard version to v1.0.20220627
+
 AxionOS v1.6 Final
 Build Date : 27/06/2025
 - Bump to AxionOS v1.6
