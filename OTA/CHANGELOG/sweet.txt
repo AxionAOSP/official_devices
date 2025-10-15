@@ -1,3 +1,13 @@
+AxionAOSP v2.1
+Build Date: 15/10/2025
+- Drop so many non-sense commits
+- Drop XiaomiParts (eg. Per-App Refreshrates, Thermal Profiles)
+- Drop ViPER4Android FX (there's a module for it so...)
+- Add support for gralloc handles with reserved_size
+- Add support for KProfiles (experimental)
+- More various improvements...
+
+
 AxionOS v1.6 Final Stable
 Build Date : 07/21/2025
 - Final A15 Build
