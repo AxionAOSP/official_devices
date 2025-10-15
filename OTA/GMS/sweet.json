@@ -1,13 +1,14 @@
 {
     "response": [
         {
-            "datetime": 1753124739,
-            "filename": "axion-1.6-FINAL-20250721-OFFICIAL-GMS-sweet.zip",
-            "id": "7dbc9ac57ea536c878717925d4e9439b",
+            "datetime": 1760545934,
+            "filename": "axion-2.1-NIGHTLY-20251015-OFFICIAL-GMS-sweet.zip",
+            "id": "9516293c8df9461b75eb050a7bc8956a",
             "romtype": "OFFICIAL",
-            "size": 2277453307,
-            "url": "https://sourceforge.net/projects/projecteida-sweet-releases/files/sweet/1.6-FINAL-20250721-sweet/GMS/axion-1.6-FINAL-20250721-OFFICIAL-GMS-sweet.zip/download",
-            "version": "1.6"
+            "size": 2230767743,
+            "url": "https://sourceforge.net/projects/galadriel-releases/files/CustomROMS-sweet/AxionAOSP/Android-16/GAPPS/axion-2.1-NIGHTLY-20251015-OFFICIAL-GMS-sweet.zip/download",
+            "version": "2.1"
         }
     ]
 }
+
