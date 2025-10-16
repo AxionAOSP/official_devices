@@ -1,0 +1,5 @@
+AxionOS v2.1
+build date : 14/10/2025
+- initial official stable build
+- disable NL80211_REG_CHANGED event, fix potential wificond crash
+- misc changes

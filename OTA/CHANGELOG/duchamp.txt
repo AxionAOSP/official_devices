@@ -1,8 +1,7 @@
-AxionOS v1.6
-Build Date : 21/07/2025
-- Final A15 Build
-- OSS Kernel
-- V4A,MiuiCamera Included
-- Imported missing display prop
-- Fixed Colors fading 
-- Dropped HotwordEnrollment Apks
+AxionOS v2.1
+Build Date : 14/10/2025
+- Upstreamed Kernel to 6.1.68
+- Fixed UI Elements Flickering
+- Added HDR Brightness Slider
+- Added Torch light strength control
+- Few More Misc changes

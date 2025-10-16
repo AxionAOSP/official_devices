@@ -1,12 +1,9 @@
-Device: Xiaomi 11T Pro
-Device code name : vili
-Device maintainer: swiitchOFF
-
 Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
-Date - 23/06/2025
+AxionAOSP v2.1
+Date - 16/10/2025
 =================
-- Detailed device side full changelog https://github.com/crdroidandroid/android_vendor_crDroidOTA/blob/15.0/vili_changelog.txt
+-
 

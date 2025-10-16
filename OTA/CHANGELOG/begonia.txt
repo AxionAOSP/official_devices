@@ -1,3 +1,10 @@
+AxionOS v2.1
+Build Date : 14/10/2025
+- Enabled UFFD GC Support (Memory management related)
+- Switch to NCM USB tethering
+- Disabled Few more unwanted loggers
+- More Misc changes
+
 AxionOS v1.6 - HOTFIX
 Build Date : 29/06/2025
 - Fixed CPU Freq stuck on certain tasks

@@ -1,6 +1,15 @@
 Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
-Device maintainer: PabloEscobar
+Device maintainer: Ashwani
+
+Date - 14/10/2025
+=================
+- initial stable release.
+- Powerhint: tunned fot balanced perf and battery backup.
+- Fixed the auto brightness issue.
+- sm8450-common: Drop unused QTI VM manager blobs.
+- Fixed heating and battery drain issue.
+
 
 Date - 23/06/2025
 ================

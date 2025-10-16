@@ -1,3 +1,15 @@
+AxionAOSP v2.1 Nightly
+Build Date : 15/10/2025
+- Initial android 16 release
+- Switch to dynamic partitions
+- Adapt tree to AxionAOSP v2.1 changes
+- Rebase kernel source to lineage_qcom_sd845
+- Remove dolby (temporary)
+- Add liblog dependency for libllvm-glnext
+- Shim libwfdservice with libaudioclient_shim
+- Patch audio to load libaudioroute-v34.so
+- Patch soundtrigger to load libaudioroute-v34.so
+
 AxionOS v1.6 Final
 Build Date : 27/06/2025
 - Adjust status bar padding
