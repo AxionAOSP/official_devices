@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1751094009,
-            "filename": "axion-1.6-FINAL-20250628-OFFICIAL-GMS-redwood.zip",
-            "id": "48d66f9ce59cd3c50b9df4f9787f67fd",
+            "datetime": 1760619693,
+            "filename": "axion-2.1-NIGHTLY-20251016-OFFICIAL-GMS-redwood.zip",
+            "id": "db40206e80a9d406b1558397db1d5974",
             "romtype": "OFFICIAL",
-            "size": 2060178151,
-            "url": "https://sourceforge.net/projects/axionos-redwood/files/28-06-2025/axion-1.6-FINAL-20250628-OFFICIAL-GMS-redwood.zip/download",
-            "version": "1.6"
+            "size": 2053785043,
+            "url": "https://github.com/Mayur-U/Releases/releases/download/axion-2.1-NIGHTLY-20251016-OFFICIAL-GMS-redwood/axion-2.1-NIGHTLY-20251016-OFFICIAL-GMS-redwood.zip",
+            "version": "2.1"
         }
     ]
 }

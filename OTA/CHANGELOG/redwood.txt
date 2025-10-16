@@ -1,3 +1,11 @@
+Axion v2.1 
+Build Date 16/10/2025
+-Updated Blobs
+-fixed dt2w
+-Moto dolby added
+-Miui cam added
+-firmware excluded
+
 Axion v1.6 Final
 Build Date 28/08/2025
 -Updated Blobs
