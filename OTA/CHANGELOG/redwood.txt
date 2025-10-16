@@ -1,3 +1,9 @@
+Axion v2.1
+Build Date 16/10/2025
+-updated blobs
+-fixed dt2w
+-switch to qti power
+
 Axion v1.6 Final
 Build Date 28/08/2025
 -Updated Blobs
