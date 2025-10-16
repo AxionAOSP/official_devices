@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1751095451,
-            "filename": "axion-1.6-FINAL-20250628-OFFICIAL-VANILLA-redwood.zip",
-            "id": "ca6b0626f69c2e21b90cd9044bcd3e57",
+            "datetime": 1760621982,
+            "filename": "axion-2.1-NIGHTLY-20251016-OFFICIAL-VANILLA-redwood.zip",
+            "id": "0a94232387f9bab6acbb47446239aed5",
             "romtype": "OFFICIAL",
-            "size": 1691374087,
-            "url": "https://sourceforge.net/projects/axionos-redwood/files/28-06-2025/axion-1.6-FINAL-20250628-OFFICIAL-VANILLA-redwood.zip/download",
-            "version": "1.6"
+            "size": 1680819870,
+            "url": "https://github.com/Mayur-U/Releases/releases/download/axion-2.1-NIGHTLY-20251016-OFFICIAL-VANILLA-redwood/axion-2.1-NIGHTLY-20251016-OFFICIAL-VANILLA-redwood.zip",
+            "version": "2.1"
         }
     ]
 }
