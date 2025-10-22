@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1751384284,
-            "filename": "axion-1.6-FINAL-20250701-OFFICIAL-GMS-peridot.zip",
-            "id": "5bc3c21c4c75c5f8c7111932d3413d94",
+            "datetime": 1761104112,
+            "filename": "axion-2.1-NIGHTLY-20251022-OFFICIAL-GMS-peridot.zip",
+            "id": "10f6ef6b7a84021371aab674ca385650",
             "romtype": "OFFICIAL",
-            "size": 2866382514,
-            "url": "https://sourceforge.net/projects/drenzzzproject/files/peridot/axion/axion-1.6-FINAL-20250701-OFFICIAL-GMS-peridot.zip/download",
-            "version": "1.6"
+            "size": 2925712840,
+            "url": "https://sourceforge.net/projects/drenzzzproject/files/peridot/axion/axion-2.1-NIGHTLY-20251022-OFFICIAL-GMS-peridot.zip",
+            "version": "2.1"
         }
     ]
 }

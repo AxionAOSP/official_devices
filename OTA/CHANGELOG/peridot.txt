@@ -1,5 +1,21 @@
 AxionOS Changelogs for peridot:
 
+Build Date : 22/10/2025
+- Updated blobs from peridot OS2.0.205.0.VNPMIXM
+- Fixed audio for fs19xx driver
+- Fixed HTSR for focaltech_ts driver
+- Include MiuiCamera
+- Include XiaomiParts( Per-app Refresh Rate, Display Saturation, QS Power Profile)
+- Update GPU Driver to v819
+- Fix USSD dial
+- Switch to Vulkan UI renderer
+- Migrate to common libqti-perfd-client and power-libperfmgr
+- Build DSPVolumeSynchronizer
+- Fix GPU Freq 1100mhz (switch power profile to performance)
+- Enable PowerOffAlarm Service
+- Switch to armv8-2a-dotprod arch variant
+- etc better to pull wife.
+
 Build Date : 01/07/2025
 - Update blobs to OS2.0.105.0.VNPMIXM
 - Switch to Vulkan UI renderer (also fix HDR too)
