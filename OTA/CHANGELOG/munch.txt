@@ -1,3 +1,14 @@
+AxionOS v2.2.1
+Build Date : 23/11/2025
+- Sync updates/fixes from source
+- Add back Device as webcam support 
+- Tuned audio again
+- Disable skia tracing by default 
+- Revert some broken changes
+- Fix bt ringtone bug
+- Enable vonR for airtel and jio
+- More misc improvements
+
 AxionOS v2.2
 Build Date : 11/11/2025
 - Introduced torch light control (with proper selinux fix)
