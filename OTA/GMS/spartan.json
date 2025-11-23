@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761315028,
-            "filename": "axion-2.1-NIGHTLY-20251024-OFFICIAL-GMS-spartan.zip",
-            "id": "572f3b1925d73bebfadfed2a0639fc25",
+            "datetime": 1763878381,
+            "filename": "axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-spartan.zip",
+            "id": "98d156d53ecdd9fa80d72767c4842b00",
             "romtype": "OFFICIAL",
-            "size": 2301101141,
-            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-2.1-NIGHTLY-20251024-OFFICIAL-GMS-spartan.zip/download",
-            "version": "2.1"
+            "size": 2292419705,
+            "url": "https://drive.serverhive.in/drive/uOMTLqoQAxtywyJ68ON1YTf4/spartan/2025-11-23/axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-spartan.zip",
+            "version": "2.2.1"
         }
     ]
 }

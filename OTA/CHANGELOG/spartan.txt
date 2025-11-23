@@ -4,3 +4,9 @@ Build Date : 24/10/2025
 - Better Dolby
 - included DSPVolumeSynchronizer
 - New Kernel with BPF patches
+
+AxionOS v2.2.1
+
+Build Date : 23/11/2025
+- Switched to AIDL Thermal hal
+- Kernel improvements
