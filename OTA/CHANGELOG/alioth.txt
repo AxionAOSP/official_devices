@@ -1,3 +1,23 @@
 AxionOS v2.2.1
-Build Date : 27/11/2025
+Build date: 09/12/2025
+Device changelogs:
+- Configure burn-in protection for statusbar and navbar
+- Disable turbulence noise
+- Change GPU_FREQS_PATH to freq_table_mhz node
+- Disable bypass charging support (conflict with lineage health)
+- Remove vendor/lineage device framework matrix inclusion
+- Override kernel BPF version to 5.10.239
+- Opt out of speaker_layout_channel_mask field (Required for ABI compatibility with audio HAL compiled before 15 QPR2)
+- Enable double tap to ambient (this config is missing on previous build)
+- Add MLBB and MCGG to sched_lib_name
+
+Kernel changelogs:
+- RvKernel v1.3
+- treewide: Merge LineageOS/qcom_sm8250
+- touchscreen: Disable debugging and production test module
+- Enable force_fast_charge by default
+- Revert "power: smb5-lib: Implement bypass charging" (conflict with lineage health)
+
+AxionOS v2.2.1
+Build date: 27/11/2025
 - Initial official release
