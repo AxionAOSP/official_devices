@@ -51,7 +51,7 @@
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
-- **[galadriel](https://github.com/galadriel1402)** (Redmi Note 10 Pro/Pro Max)
+- **[therealmharc](https://github.com/therealmharc)** (Redmi Note 10 Pro/Pro Max)
 - **[Pranshu Sheoran](https://github.com/sheoranpranshu)** (Xiaomi Pad 6)
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel Tablet & Pixel 7a)
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
