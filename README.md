@@ -35,6 +35,7 @@
 | **Realme GT Neo 3T**       | `spartan`    |
 | **Redmi 3S/3X/4/4A/4X/5A/Note 5A** | `Mi8937_4_19` |
 | **Redmi Blossom Series**   | `blossom`    |
+| **Redmi Note 7/7s**        | `lavender`   |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
 | **Xiaomi 11T Pro**         | `vili`       |
@@ -48,7 +49,7 @@
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5/Nothing CMF Phone 1)
 - **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
 - **[Mayur-U](https://github.com/Mayur-U)** (POCO X5 PRO 5G/POCO F7)
-- **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
+- **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x/Redmi Note 7/7s)
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
 - **[therealmharc](https://github.com/therealmharc)** (Redmi Note 10 Pro/Pro Max)
