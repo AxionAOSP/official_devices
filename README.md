@@ -28,6 +28,7 @@
 | **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
 | **POCO F7**                | `onyx`     |
+| **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite**                | `miatoll`     |
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
@@ -64,3 +65,4 @@
 - **[Rve](https://github.com/Rve27)** (POCO F3/Mi 11X/K40, Redmi 3S/3X/4/4A/4X/5A/Note 5A)
 - **[Akshat](https://github.com/Legendleo90)** (POCO F1)
 - **[Devansh P.](https://github.com/NotBlazeee28)** (POCO F6)
+- **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite)

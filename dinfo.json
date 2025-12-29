@@ -235,6 +235,15 @@
       "status": "Active"
     },
     {
+      "device_name": "POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite",
+      "codename": "miatoll",
+      "maintainer": "RiteshSahany",
+      "github_username": "RiteshSahany",
+      "support_group": "https://t.me/RiteshChat",
+      "image_url": "https://wiki.lineageos.org/images/devices/miatoll.png",
+      "status": "Active"
+    },
+    {
       "device_name": "POCO X3 NFC",
       "codename": "surya",
       "maintainer": "Skyy丨アラタ",
