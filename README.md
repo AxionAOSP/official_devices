@@ -42,6 +42,7 @@
 | **Redmi Note 7 Pro**       | `violet`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
+| **Redmi Note 12 Pro / Plus / Discovery 5G**     |  `rubyx`  |
 | **TECNO POVA 4 Pro**         | `LG8n` |
 | **Xiaomi 11T Pro**         | `vili`       |
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
@@ -73,3 +74,4 @@
 - **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G)
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro)
 - **[Joker-V2](https://github.com/Joker-V2)** (Redmi Note 7 Pro)
+- **[Casanova.](https://github.com/rajdeep-3305)** (Redmi Note 12 Pro / Plus / Discovery 5G)

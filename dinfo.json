@@ -361,6 +361,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Redmi Note 12 Pro / Plus / Discovery 5G",
+      "codename": "rubyx",
+      "maintainer": "Casanova.",
+      "github_username": "rajdeep-3305",
+      "support_group": "https://t.me/casanovas_cult",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
+      "status": "Active"
+    },
+    {
       "device_name": "Xiaomi 11T Pro",
       "codename": "vili",
       "maintainer": "swiitchOFF",
