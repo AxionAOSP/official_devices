@@ -66,8 +66,8 @@
     {
       "device_name": "Google Pixel 8a",
       "codename": "akita",
-      "maintainer": "rmp22",
-      "github_username": "rmp22",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/akita.png",
       "status": "Active"
@@ -75,8 +75,8 @@
     {
       "device_name": "Google Pixel 8",
       "codename": "shiba",
-      "maintainer": "rmp22",
-      "github_username": "rmp22",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/shiba.png",
       "status": "Active"
@@ -84,8 +84,8 @@
     {
       "device_name": "Google Pixel 8 Pro",
       "codename": "husky",
-      "maintainer": "rmp22",
-      "github_username": "rmp22",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/husky.png",
       "status": "Active"

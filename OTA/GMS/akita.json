@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762980433,
-            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-akita.zip",
-            "id": "9716cf218893a35a53bd7c891c882b9d",
+            "datetime": 1768141886,
+            "filename": "axion-2.3-TELOS-20260111-OFFICIAL-GMS-akita.zip",
+            "id": "23e64b4e15b1e28804761d19653ab503",
             "romtype": "OFFICIAL",
-            "size": 2312525459,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-akita.zip/download",
-            "version": "2.2"
+            "size": 1992669301,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/akita/2.x/GMS/axion-2.3-TELOS-20260111-OFFICIAL-GMS-akita.zip/download",
+            "version": "2.3"
         }
     ]
 }

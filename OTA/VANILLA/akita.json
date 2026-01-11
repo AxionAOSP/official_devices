@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762979392,
-            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-VANILLA-akita.zip",
-            "id": "c90d08910181fc2dd700934d4bd62d3d",
+            "datetime": 1768145057,
+            "filename": "axion-2.3-TELOS-20260111-OFFICIAL-VANILLA-akita.zip",
+            "id": "bc7d99a6de7cb7ad0ea98890212fb1bc",
             "romtype": "OFFICIAL",
-            "size": 1920362380,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-VANILLA-akita.zip/download",
-            "version": "2.2"
+            "size": 1603566837,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/akita/2.x/Vanilla/axion-2.3-TELOS-20260111-OFFICIAL-VANILLA-akita.zip/download",
+            "version": "2.3"
         }
     ]
 }

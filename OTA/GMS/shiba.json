@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762978133,
-            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-shiba.zip",
-            "id": "4fc8a9948328908d41396486f23a2abb",
+            "datetime": 1768115298,
+            "filename": "axion-2.3-TELOS-20260111-OFFICIAL-GMS-shiba.zip",
+            "id": "c9656ab9846c5f7fab855115b5f37d6b",
             "romtype": "OFFICIAL",
-            "size": 2322935169,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-shiba.zip/download",
-            "version": "2.2"
+            "size": 2001157057,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/shiba/2.x/GMS/axion-2.3-TELOS-20260111-OFFICIAL-GMS-shiba.zip/download",
+            "version": "2.3"
         }
     ]
 }

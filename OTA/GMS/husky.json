@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762976271,
-            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-husky.zip",
-            "id": "822159dfcdc8bf12d045638b2a0cd8fe",
+            "datetime": 1768106789,
+            "filename": "axion-2.3-TELOS-20260111-OFFICIAL-GMS-husky.zip",
+            "id": "98cc0cb91cd624a74bcf4369a5a43bbf",
             "romtype": "OFFICIAL",
-            "size": 2330038934,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-husky.zip/download",
-            "version": "2.2"
+            "size": 2014969969,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/husky/2.x/GMS/axion-2.3-TELOS-20260111-OFFICIAL-GMS-husky.zip/download",
+            "version": "2.3"
         }
     ]
 }
