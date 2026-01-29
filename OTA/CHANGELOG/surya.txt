@@ -1,5 +1,10 @@
+Device: POCO X3 / POCO X3 NFC (surya)
+
+Date - 29/01/2026
+=================
+- Initial QPR1 release
+
 AxionOS v2.2 NIGHTLY
-Build Date : 18/11/2025
 - Improve Camera HALs
 - Fixed portrait mode in camera
 - Add QR scanner to Leica
