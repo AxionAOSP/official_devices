@@ -12,3 +12,10 @@ Build Date : 11/17/2025
 - OOS Cam Included
 - Torch Light Control Added in device side
 
+AxionOS v2.4
+Build Date : 01/30/2026
+- Updated to OOS 13.1.0.591(EX01)
+- Synced with latest source
+- OOS Cam & Viper Included
+- Torch Light Control Added
+
