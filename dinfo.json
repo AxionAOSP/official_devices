@@ -458,6 +458,15 @@
       "support_group": "https://t.me/itel_rs4",
       "image_url": "https://github.com/KimelaZX/official_devices/blob/main/OTA/Banners/devices/S666LN.webp?raw=true",
       "status": "Active"
+    },
+    {
+      "device_name": "Mi 11X Pro/Mi 11i/Redmi K40 Pro/Pro+",
+      "codename": "haydn",
+      "maintainer": "Lucifer",
+      "github_username": "Never-Alive"
+      "support_group": "https://t.me/EternelVoid_sg",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi11x-pro-0.jpg"
+      "status": "Active"
     }
   ]
 }

@@ -51,6 +51,7 @@
 | **Xiaomi 11T Pro**         | `vili`       |
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Xiaomi Pad 6**           | `pipa`       |
+| **Xiaomi 11x Pro / Mi11i / Redmi K40 Pro/Pro+** | `haydn`  |
 
 ## 👤 Maintainers
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-7/7pro - Open for Co-Maintainership (Pixel 6 series))
@@ -81,3 +82,4 @@
 - **[Debayan Kar](https://github.com/kardebayan)** (POCO X3 / POCO X3 NFC)
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4)
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R / Ace 5, Samsung Galaxy A52s 5G)
+- **[Lucifer](https://Never-Alive)** (Xiaomi 11x Pro / Xiaomi 11i / Redmi K40 Pro/Pro+)
