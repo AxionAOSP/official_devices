@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1767961791,
-            "filename": "axion-2.3-TELOS-20260109-OFFICIAL-VANILLA-lavender.zip",
-            "id": "49f347a6276ed31852d79e47a706dea2",
+            "datetime": 1770954563,
+            "filename": "axion-2.4-SOLACE-20260213-OFFICIAL-VANILLA-lavender.zip",
+            "id": "44037b99f6062f114d000470ed29cc90",
             "romtype": "OFFICIAL",
-            "size": 1468257091,
-            "url": "https://sourceforge.net/projects/realme5series/files/axion-2.3-TELOS-20260109-OFFICIAL-VANILLA-lavender.zip/download",
-            "version": "2.3"
+            "size": 1466234811,
+            "url": "https://cdn.axionos.org/lavender/axion-2.4-SOLACE-20260213-OFFICIAL-VANILLA-lavender.zip",
+            "version": "2.4"
         }
     ]
 }

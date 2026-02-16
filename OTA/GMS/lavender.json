@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1767960081,
-            "filename": "axion-2.3-TELOS-20260109-OFFICIAL-GMS-lavender.zip",
-            "id": "a22bff1347349eff4cba4074c67a5651",
+            "datetime": 1770974189,
+            "filename": "axion-2.4-SOLACE-20260213-OFFICIAL-GMS-lavender.zip",
+            "id": "b0a084f8d54c29c90d6dab583c3564d8",
             "romtype": "OFFICIAL",
-            "size": 1909097480,
-            "url": "https://sourceforge.net/projects/realme5series/files/axion-2.3-TELOS-20260109-OFFICIAL-GMS-lavender.zip/download",
-            "version": "2.3"
+            "size": 1907194203,
+            "url": "https://cdn.axionos.org/lavender/axion-2.4-SOLACE-20260213-OFFICIAL-GMS-lavender.zip",
+            "version": "2.4"
         }
     ]
 }

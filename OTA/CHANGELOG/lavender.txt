@@ -1,4 +1,18 @@
 AxionOS v2.3
+Build Date : 16/02/2026
+
+- Fix seccomp policy for codec2 and imsrtp
+- Set debug.sf.auto_latch_unsignaled to 0
+- Drop few useless overlay
+- Remove intent for BootReceiver (Fixes DeviceSettings crash)
+- Drop Xiaomi doze completely (useless)
+- props: Update work durations from kalama
+- Checkout media configs from stock (fixes 1080p 60fps lag)
+- biometrics: utilize MaxPerformance task_profile
+- Disable auto rotation by default
+- disabled blur for smoother ui experience
+
+AxionOS v2.3
 Build Date : 10/01/2026
 
 - Initial a16 qpr1 release
