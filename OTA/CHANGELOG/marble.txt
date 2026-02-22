@@ -2,6 +2,23 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: Ashwani
 
+Date - 22/02/2026
+=================
+- Fixed bluetooth calling bug.
+- Improved dolby for more better sound quality.
+- Disable vendor.audio.feature.kpi_optimize.enable prop.
+- powerhint: limit idle blocking and scheduler overrides to active phases.
+- powerhint: increase LAUNCH BW duration.
+- powerhint: Added GPU boost during INTERACTION.
+- powerhint: Improved cpu freq in SUSTAINED_PERFORMANCE action.
+- powerhint: Added big cluster boost during INTERACTION.
+- powerhint: Improved GPU max freq during EXPENSIVE_RENDERING.
+- powerhint: Added GPU boost during LAUNCH.
+- powerhint: Added FIXED_PERFORMANCE freq boost.
+- powerhint: allowed max cpu boost during LAUNCH.
+- powerhint: Add GPU limit in Flipendo battery saver.
+- powerhint: added gpu idle limit in EXPENSIVE_RENDERING.
+
 Date - 27/01/2026
 =================
 - Update blobs and firmware from OS2.0.216.0.VMRMIXM.
