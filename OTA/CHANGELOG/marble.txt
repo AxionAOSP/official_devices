@@ -2,6 +2,23 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: Ashwani
 
+Date - 07/04/2026
+=================
+- sm8450-common: Bluetooth: Set "bluetooth.auto_connect_profiles.enabled" to true.
+- sm8450-common: Bluetooth: Move PAN properties to system_ext.
+- sm8450-common: refine CPU/GPU interaction tuning and reduce overboost.
+- sm8450-common: tune SF buffering and rendering behavior.
+- sm8450-common: surfaceflinger: Reduce max acquired frame buffers to 2.
+- [REVERT] sm8450-common: Defer refresh rate changes when screen is off.
+- sm8450-common: powerhint: adjust sched boost and uclamp thresholds for interaction.
+- sm8450-common: drop sched_boost and fix uclamp override.
+- sm8450-common: parts: thermals: Re-write in jetpack compose.
+- sm8450-common: Fix sections of ca cert blobs.
+- sm8450-common: Import missing libjnihelper.so for CACertService app.
+- marble: audio: Use instance 2 of PCM_RECORD for voice recognition.
+- marble: audio: Use mic-asr path for voice recognition.
+- sm8450-common: Update blobs from diting OS3.0.1.0.VLFMIXM.
+
 Date - 22/02/2026
 =================
 - Fixed bluetooth calling bug.
