@@ -1,0 +1,10 @@
+AxionOS 2.5
+Build Date : 08/04/2026
+- Added AxionFx and dropped dolby
+- Optimise powerhint for better stability
+- Switched to different Kernel
+- Disabled Blurs
+- Reduced some log spams
+- Add Launcher to speed profile
+- Increased vibration intensity to "4"
+- Tuned surfaceflinger
