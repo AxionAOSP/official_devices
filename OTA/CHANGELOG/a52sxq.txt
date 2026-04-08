@@ -1,3 +1,9 @@
+AxionOS v2.5
+Build Date: 2026/04/08
+- Introduced AxionFx
+- GameBar upstreamed to latest
+- A whole lot of source side changes
+
 AxionOS v2.4
 Build Date: 2026/03/04
 - Switched to a new Sony Dolby source with Lunaris Dolby UI

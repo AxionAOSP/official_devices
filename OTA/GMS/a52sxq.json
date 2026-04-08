@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1772606115,
-            "filename": "axion-2.4-SOLACE-20260304-OFFICIAL-GMS-a52sxq.zip",
-            "id": "30ccf8a64a4ea7b94bf849d812009fc9",
+            "datetime": 1775664662,
+            "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-a52sxq.zip",
+            "id": "fbdcb81ba83df4b25a8e805be8ea9ab4",
             "romtype": "OFFICIAL",
-            "size": 1994468456,
-            "url": "https://cdn.axionos.org/a52sxq/axion-2.4-SOLACE-20260304-OFFICIAL-GMS-a52sxq.zip",
-            "version": "2.4"
+            "size": 1838283114,
+            "url": "https://cdn.axionos.org/a52sxq/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-a52sxq.zip",
+            "version": "2.5"
         }
     ]
 }
