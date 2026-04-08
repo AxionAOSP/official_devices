@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1772641760,
-            "filename": "axion-2.4-SOLACE-20260304-OFFICIAL-GMS-fogos.zip",
-            "id": "a80f22fff6145c7c2a05bb44cedf7f27",
+            "datetime": 1775624026,
+            "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-fogos.zip",
+            "id": "9713395b9b3c837ace24e105ead7a5fd",
             "romtype": "OFFICIAL",
-            "size": 1946594100,
-            "url": "https://cdn.axionos.org/fogos/axion-2.4-SOLACE-20260304-OFFICIAL-GMS-fogos.zip",
-            "version": "2.4"
+            "size": 2630669664,
+            "url": "https://cdn.axionos.org/fogos/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-fogos.zip",
+            "version": "2.5"
         }
     ]
 }

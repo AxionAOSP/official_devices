@@ -1,3 +1,15 @@
+AxionOS v2.5
+Build Date : 08/04/2026
+- Added AxionFX
+- Drop DolbyAtmos
+- Remove fwk-detect lib from PRODUCT_PACKAGES
+- Fixed bad RAM management
+- Adapt powerhint from redfin
+- Set CPU up_rate_limit to 0 for INTERACTIVE
+- Re-tune power hint for efficiency
+- Boost cpus for EXPENSIVE_RENDERING
+- Set screen-off schedutil ratelimits
+
 AxionOS v2.4
 Build Date : 05/03/2026
 - Initial official release
