@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769777140,
-            "filename": "axion-2.4-SOLACE-20260130-OFFICIAL-GMS-LG8n.zip",
-            "id": "b7cdc46a40ffdb5324891b75a266ee55",
+            "datetime": 1775692884,
+            "filename": "axion-2.5-REVERIE-20260409-OFFICIAL-GMS-LG8n.zip",
+            "id": "8772578ae7c0e8be57843ed9b0e8b9eb",
             "romtype": "OFFICIAL",
-            "size": 2086426073,
-            "url": "https://sourceforge.net/projects/millenniumoss-releases/files/axion-2.4-SOLACE-20260130-OFFICIAL-GMS-LG8n/axion-2.4-SOLACE-20260130-OFFICIAL-GMS-LG8n.zip/download",
-            "version": "2.4"
+            "size": 2254731208,
+            "url": "https://cdn.axionos.org/LG8n/axion-2.5-REVERIE-20260409-OFFICIAL-GMS-LG8n.zip",
+            "version": "2.5"
         }
     ]
 }

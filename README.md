@@ -69,7 +69,7 @@
 - **[Devansh P.](https://github.com/NotBlazeee28)** (POCO F6)
 - **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite)
 - **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G)
-- **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro)
+- **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro / POVA 5)
 - **[Joker-V2](https://github.com/Joker-V2)** (Redmi Note 7 Pro)
 - **[Casanova.](https://github.com/rajdeep-3305)** (Redmi Note 12 Pro / Plus / Discovery 5G)
 - **[Debayan Kar](https://github.com/kardebayan)** (POCO X3 / POCO X3 NFC)
