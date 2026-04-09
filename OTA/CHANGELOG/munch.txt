@@ -2,6 +2,14 @@ Device: Poco F4/ Redmi K40s
 Device code name : munch
 Device maintainer: SenX
 
+AxionOS v2.5
+Build Date : 09/04/2026
+- Added New Dolby
+- Added AxionFX
+- Fixed 60hz issue
+- Dropped dup per app rr
+- Fixed Random reboot (unless you have bad quality battery)
+
 AxionOS v2.4-SOLACE
 - Force LZ4 for zram
 - Improve signal reception
