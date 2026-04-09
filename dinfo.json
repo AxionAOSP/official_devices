@@ -118,6 +118,33 @@
       "status": "Active"
     },
     {
+      "device_name": "Google Pixel 10",
+      "codename": "frankel",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
+      "support_group": "https://t.me/+E67IdG0vR0gzZWEx",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-.jpg",
+      "status": "Active"
+    },
+    {
+      "device_name": "Google Pixel 10 Pro",
+      "codename": "blazer",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
+      "support_group": "https://t.me/+E67IdG0vR0gzZWEx",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg",
+      "status": "Active"
+    },
+    {
+      "device_name": "Google Pixel 10 Pro XL",
+      "codename": "blazer",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
+      "support_group": "https://t.me/+E67IdG0vR0gzZWEx",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-xl-.jpg",
+      "status": "Active"
+    },
+    {
       "device_name": "Motorola G34/45 5G",
       "codename": "fogos",
       "maintainer": "Byben",

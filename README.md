@@ -15,6 +15,9 @@
 | **Google Pixel 9 Pro**     | `caiman`     |
 | **Google Pixel 9 Pro XL**  | `komodo`     |
 | **Google Pixel Fold**      | `felix`     |
+| **Google Pixel 10**        | `frankel`    |
+| **Google Pixel 10 Pro**    | `blazer`     |
+| **Google Pixel 10 Pro XL** | `mustang`    |
 | **Itel RS4**               | `S666LN`     |
 | **Motorola G34/45 5G**     | `fogos`    |
 | **Motorola G54**           | `cancunf`    |
@@ -53,6 +56,7 @@
 
 ## 👤 Maintainers
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-8 series, Pixel Fold - Open for Co-Maintainership/Take over)
+- **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 10 series - Open for Co-Maintainership)
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5/Nothing CMF Phone 1)
