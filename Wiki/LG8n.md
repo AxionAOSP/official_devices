@@ -13,6 +13,8 @@
 > - Flash **only** files meant for **TECNO POVA 4 Pro**.
 > - First boot may take 5–10 minutes. Do **not** interrupt or force reboot unless it exceeds 10 minutes.
 > - Please make an IMEI backup.
+
+>[!CAUTION]
 > - DO NOT USE ORANGEFOX
 
 ---
