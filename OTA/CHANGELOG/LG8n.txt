@@ -1,3 +1,8 @@
+AxionOS v2.5
+Build Date: 2026/04/09
+- Update Kernel to Yuuka v3.6
+- Initial Axion QPR2 Release
+
 AxionOS v2.4
 Build Date: 2026/01/30
 - Update Kernel to Yuuka v3.1
