@@ -31,7 +31,6 @@
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
 | **POCO F4**                | `munch`  |
 | **POCO F5**                | `marble`     |
-| **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
 | **POCO F7**                | `onyx`     |
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite**                | `miatoll`     |
@@ -60,7 +59,6 @@
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5/Nothing CMF Phone 1)
-- **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
 - **[Zarathos30](https://github.com/Zarathos30)** (POCO F7)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x/Redmi Note 7/7s)
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
