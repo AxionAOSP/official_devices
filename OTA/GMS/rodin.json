@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1770416271,
-            "filename": "axion-2.4-SOLACE-20260206-OFFICIAL-GMS-rodin.zip",
-            "id": "6c0f085ed157308e87387128b1d722f1",
+            "datetime": 1775905986,
+            "filename": "axion-2.5-REVERIE-20260411-OFFICIAL-GMS-rodin.zip",
+            "id": "e47beeaaec183ff1687a7ec7329b2c15",
             "romtype": "OFFICIAL",
-            "size": 2825103660,
-            "url": "https://cdn.axionos.org/rodin/axion-2.4-SOLACE-20260206-OFFICIAL-GMS-rodin.zip",
-            "version": "2.4"
+            "size": 3455250630,
+            "url": "https://cdn.axionos.org/rodin/axion-2.5-REVERIE-20260411-OFFICIAL-GMS-rodin.zip",
+            "version": "2.5"
         }
     ]
 }

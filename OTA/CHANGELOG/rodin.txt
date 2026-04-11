@@ -2,6 +2,24 @@ Device: POCO X7 Pro
 Device code name: rodin
 Device maintainer: ido@rexprjkt°
 
+Date - 10/04/2026
+=================
+- Resolve charging time remaining
+- Reconfigure batterysecret
+- Reconfigure zram from hardware/google/pixel
+- Dropped miuicamera (go fix urself plz)
+- Increase SF idle timer
+- Reduce brightness doze to 4 (darker AOD)
+- Update phase offsets (better scrolling on 60/120)
+- FOD optmizations
+- Audio volume optimizations
+- Import CIT app (trigger it with *#*#6484#*#* on dialer) for speaker/fingerprint calibration
+- Switch to mq-deadline I/O scheduler
+- Migrated to AIDL audio service
+- Fixed up dolby media codecs (should be available on apple music)
+- Dropped ViPER4AndroidFX
+- Enabled AOD wallpaper
+
 Date - 07/02/2026
 =================
 - Switch back to OS2.0.204.0.VOJMIXM firmware
