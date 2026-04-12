@@ -1,3 +1,21 @@
+Axion v2.5
+Build Date: 12/04/2026
+- Build audio stack as 32-bit only
+- Build libmtkperf_client as 64-bit only
+- Switch to AOSP Health AIDL
+- Build bt audio interface from source
+- Drop ViperFX & JamesDSP
+- Rework on power init
+- Add dynamic sensors HAL support
+- Drop EngineerMode stack
+- Drop MediaTek remote submix HAL
+- Drop MediaTek USB audio HAL
+- Drop MediaTek dplanner blobs
+- Drop Blur support unconditionally
+- Unlock 821Mhz GPU freq. in kernel
+- Kernel: Merge latest openela upstream
+- Enable Conservative CPU freq. governor
+
 AxionOS v2.4
 Build Date : 06/02/2026
 - Switch to Lunaris Dolby
