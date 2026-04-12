@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1771269240,
-            "filename": "axion-2.4-SOLACE-20260216-OFFICIAL-VANILLA-rubyx.zip",
-            "id": "8b10434617c41b7d0128e0c6472b786d",
+            "datetime": 1776005681,
+            "filename": "axion-2.5-REVERIE-20260412-OFFICIAL-VANILLA-rubyx.zip",
+            "id": "9f3d042720afa60906092c991e3ab93f",
             "romtype": "OFFICIAL",
-            "size": 1914902914,
-            "url": "https://cdn.axionos.org/rubyx/axion-2.4-SOLACE-20260216-OFFICIAL-VANILLA-rubyx.zip",
-            "version": "2.4"
+            "size": 2077977571,
+            "url": "https://cdn.axionos.org/rubyx/axion-2.5-REVERIE-20260412-OFFICIAL-VANILLA-rubyx.zip",
+            "version": "2.5"
         }
     ]
 }

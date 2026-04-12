@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1771310283,
-            "filename": "axion-2.4-SOLACE-20260217-OFFICIAL-GMS-rubyx.zip",
-            "id": "ef7f1e67215e9280ef4a352a82508e8f",
+            "datetime": 1776007657,
+            "filename": "axion-2.5-REVERIE-20260412-OFFICIAL-GMS-rubyx.zip",
+            "id": "5f547f7c103d0e3ae55f6448a13df815",
             "romtype": "OFFICIAL",
-            "size": 2284541774,
-            "url": "https://cdn.axionos.org/rubyx/axion-2.4-SOLACE-20260217-OFFICIAL-GMS-rubyx.zip",
-            "version": "2.4"
+            "size": 2978764189,
+            "url": "https://cdn.axionos.org/rubyx/axion-2.5-REVERIE-20260412-OFFICIAL-GMS-rubyx.zip",
+            "version": "2.5"
         }
     ]
 }
