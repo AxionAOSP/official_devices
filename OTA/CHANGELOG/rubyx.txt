@@ -2,6 +2,33 @@ Device: Redmi Note 12 Pro / Plus / Discovery 5G
 Device code name : rubyx
 Device maintainer: Casanova.
 
+AxionOS v2.5
+Date :- 12/04/26
+=================
+- Update blobs to OS2.0.11.0.UMOMIXM
+- Update connectivity blobs from A34
+- Add hardware Dolby Atmos support; drop legacy Dolby stack
+- Rework powerhint based on stock MTK hints
+- Tune scheduler, GPU DVFS and FPSGO for smoother UI
+- Relax thermal throttling for sustained performance
+- Enable high performance transitions and SystemUI interaction boost
+- Switch to AIDL Codec2 with source-built C2 service; disable OMX
+- Switch to AOSP remote submix and OSS Bluetooth audio
+- Move to H.264 video codec; drop OMX aliases
+- Tune SurfaceFlinger uclamp, refresh rate and frame pacing
+- Rebalance audio volume curves, steps and mute duration
+- Optimize ZRAM, LMK thresholds and memory management
+- Tune dex2oat and HWUI for better rendering performance
+- Add automated patch framework with BPF and epoll_pwait2 fallbacks for 4.19 kernel
+- Fix wpa_supplicant WPA3 advertisement and VoWifi IWlan mode
+- Address SELinux denials for PowerHAL, WiFi and audio HAL
+- Add Wi-Fi Direct and dual STA interface support
+- Build MtkInCallService and MediaTek WiFi library
+- Optimize auto brightness curve and keyguard refresh rate
+- Add AxFX and Doze gesture flags
+- Switch to official Axion signing keys
+- Miscellaneous props cleanup and logspam reduction
+
 AxionOS v2.4
 Date :- 17/02/26
 =================
