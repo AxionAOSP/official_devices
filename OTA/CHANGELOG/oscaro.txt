@@ -1,9 +1,16 @@
-AxionOS v2.3
+AxionOS v2.5
+- Initial QPR2 Build
+- Synced with latest source
+- Drop ViperFX and Included AxionFX
+- Clean Flash mandatory from any previous builds
+
+AxionOS v2.4
 Build Date : 30/01/2026
 - Synced with latest source
 - Merged BPF patches from kernel v5.10
 - Fixed SD-card detection bug
 
+AxionOS v2.3
 Build Date : 19/01/2026
 - Synced with latest source
 - Included OOS camera
