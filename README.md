@@ -21,7 +21,6 @@
 | **Itel RS4**               | `S666LN`     |
 | **Motorola G34/45 5G**     | `fogos`    |
 | **Motorola G54**           | `cancunf`    |
-| **Nothing CMF Phone 1**    | `tetris`     |
 | **Oneplus 8**              | `instantnoodle`|
 | **Oneplus 8 Pro**          | `instantnoodlep`|
 | **Oneplus 8T**             | `kebab`      |
@@ -30,12 +29,10 @@
 | **Oneplus Ace 5**          | `giuliac`    |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
 | **POCO F4**                | `munch`  |
-| **POCO F5**                | `marble`     |
 | **POCO F6**                | `peridot`    |
 | **POCO F7**                | `onyx`     |
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite**                | `miatoll`     |
 | **POCO X3 / POCO X3 NFC**  | `surya`      |
-| **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
 | **Realme 6/7/Narzo Unified**    | `RM6785`     |
@@ -57,7 +54,6 @@
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 10 series - Open for Co-Maintainership)
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
-- **[beingashwani](https://github.com/beingashwani)** (POCO F5/Nothing CMF Phone 1)
 - **[Zarathos30](https://github.com/Zarathos30)** (POCO F7)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x/Redmi Note 7/7s)
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
