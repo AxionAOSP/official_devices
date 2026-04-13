@@ -21,6 +21,7 @@
 | **Itel RS4**               | `S666LN`     |
 | **Motorola G34/45 5G**     | `fogos`    |
 | **Motorola G54**           | `cancunf`    |
+| **Nothing Phone (2)**      | `Pong` |
 | **Oneplus 8**              | `instantnoodle`|
 | **Oneplus 8 Pro**          | `instantnoodlep`|
 | **Oneplus 8T**             | `kebab`      |
@@ -75,3 +76,4 @@
 - **[Byben](https://github.com/heybyben)** (Motorola G34/45 5G)
 - **[Lucifer](https://github.com/Never-Alive)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+)
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
+- **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2))

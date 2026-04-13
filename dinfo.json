@@ -172,6 +172,15 @@
       "status": "Inactive"
     },
     {
+      "device_name": "Nothing Phone (2)",
+      "codename": "Pong",
+      "maintainer": "hiroshi. (Superuser)",
+      "github_username": "joshuah345",
+      "support_group": "https://t.me/nukisystems",
+      "image_url": "https://wiki.lineageos.org/images/devices/Pong.png",
+      "status": "Active"
+    },
+    {
       "device_name": "Oneplus 8",
       "codename": "instantnoodle",
       "maintainer": "Itachi",
