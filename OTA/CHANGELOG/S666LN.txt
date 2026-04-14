@@ -1,3 +1,32 @@
+AxionOS v2.5
+Build Date: 2026/04/14
+- Initial Android 16 QPR2
+- Updated Kernel to Chihiro 1.4
+- rootdir: kang EAS utilization clamp from cancunf
+- rootdir: migrate dev permissions to ueventd and resolve cgroup conflicts
+- prop: Disable gl backpressure
+- init: Remove usbotg actions from init.project.rc
+- prop: enable cached app freezer via cgroup v2
+- drop unused bemakeup assets & enable EROFS lz4hc compression
+- powerhint: set top-app uclamp.min baseline to 10
+- Switch to GS101 memtrack
+- Set PELT HALFLIFE to 8ms before early init boot stage
+- Switch from the BFQ to the mq-deadline I/O scheduler
+- overlay: Enable Fast bss transition config
+- rootdir: fix vts filesystem security violations
+- BoardConfig: drop AOSP_SURFACEFLINGER
+- powerhint: add PM QoS and cpuset idle restriction from yunluo
+- powerhint: Revamp INTERACTION tuning for efficiency
+- optimize dalvik VM heap parameters for 8GB
+- overlay: reduce shade blur radius
+- init: match cgroup tuning with malachite
+- init: match cpuset with pixel layout
+- Dropped Dolby and JamesDSP and switched to AxionFX
+- Retune Lineout, Handset and ADDA_DL_GAIN volumes in audio_device.xml
+- DRM: install clearkey apex; drop liboemcrypto → L3 fallback
+- Switch to AIDL Codec2
+- probably more
+
 AxionOS v2.4
 Build Date: 2026/02/20
 - Update Kernel to Chihiro 1.1
