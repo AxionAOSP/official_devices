@@ -1,4 +1,17 @@
 AxionOS v2.5
+Build Date: 2026/04/14
+- April android security bulletin
+- Introduced always-on LTPO, refresh rate
+  will go from 1hz > Selected max
+- Switched from QTI power management to 
+  LineageOS libperf
+- More under-the-hood changes
+- More source side changes
+- This ROM ships with OOS 16.0.3.701 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device
+
 Build Date: 2026/04/07
 - Partial implementation of Dolby Vision
 - Updated HDR brightness mapping

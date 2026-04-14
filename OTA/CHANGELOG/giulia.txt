@@ -1,3 +1,39 @@
+AxionOS v2.5
+Build Date: 2026/04/14
+- April android security bulletin
+- Introduced always-on LTPO, refresh rate
+  will go from 1hz > Selected max
+- Switched from QTI power management to 
+  LineageOS libperf
+- More under-the-hood changes
+- More source side changes
+- This ROM ships with OOS 16.0.3.701 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device
+
+Build Date: 2026/04/07
+- Partial implementation of Dolby Vision
+- Updated HDR brightness mapping
+- Introduced AxionFx
+- Switched to common QTI vibrator service
+- Introduced Haptics profile picker
+- Raised fifo-max for a bit stronger haptics
+- Fixup for widevine L1
+- Fixed high touch polling rate toggle
+- Fixed glove mode toggle
+- Added systemui restart option
+- Kernel upstreamed to 6.1.166
+- Added animation for alert slider dialog
+- Updated alert slider dialog icons
+- GameBar upstreamed to latest
+- More under-the-hood changes
+- A whole lot of source side changes
+- This ROM ships with OOS 16.0.3.500 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device
+
 AxionOS v2.4
 Build Date: 2026/03/04
 - Switched to a new Sony Dolby source with Lunaris 
