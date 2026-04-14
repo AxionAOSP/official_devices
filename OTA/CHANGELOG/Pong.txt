@@ -1,0 +1,28 @@
+AxionOS v2.5 - 14/04/2026
+--------------
+- Initial official Build
+- Enable manual high brightness mode support (LiveDisplay sunlight enhancement)
+- Switch to LineageOS Kernel
+- Switch to Nulldebris Glyph fork
+--- Glyph: Read CSV animations from internal storage (/sdcard/Glyph) (directories created on launch)
+--- Glyph: Delay notification animation to better sync with audio
+--- Glyph: Notify about conflicts with pulse visualizer + disable glyph visualizer when pulse is enabled
+--- Glyph: Add Utilities section to read ogg/export csv/validate csv
+--- Glyph: Give flip to glyph its own section and preview, allow using any notification animation
+--- Glyph: Cancel pending notification animations when notification is dismissed
+--- Glyph: Allow setting call animation options per-contact
+--- Glyph: Add extra visualizer modes, tweak band trigger mode (default) slightly
+--- Glyph: Import icons for most top-level prefs
+--- Glyph: Add tile for flip to glyph
+--- Glyph: Allow customizing allowed apps for media progress
+--- Glyph: only play flip animation when idle
+--- Glyph: Consider progress for idle status
+--- Glyph: Add option to use Red LED as mic indicator
+--- Glyph: Fix Glyph torch turning off shortly after screen turns off (wakelock)
+- Limit AOD to 60fps by default
+- Update firmware/vendor from NOS B4.0-260226-0955
+
+
+Notes:
+- Firmware is included
+- Dolby is included (Effects + Codecs)
