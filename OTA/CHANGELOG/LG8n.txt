@@ -1,4 +1,8 @@
 AxionOS v2.5
+Build Date: 2026/04/17
+- Update Mali Blobs to r38p1
+- Sync with Axion sources
+
 Build Date: 2026/04/09
 - Update Kernel to Yuuka v3.6
 - Initial Axion QPR2 Release
