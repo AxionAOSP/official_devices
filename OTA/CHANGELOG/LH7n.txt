@@ -1,4 +1,8 @@
 AxionOS v2.5
+Build Date 2026/04/17
+- Update Mali Blobs to r38p1
+- Sync with Axion sources
+
 Build Date: 2026/04/09
 - Update Kernel to Chihiro v1.4
 - Initial AxionOS 2.5 build
