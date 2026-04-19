@@ -45,3 +45,9 @@ AxionOS v2.4
 
 Build Date : 10/03/2026
 - Fixed oplus camera black screen issue
+
+AxionOS v2.4
+
+Build Date : 18/04/2026
+- Some under the hood changes to improve stability
+- Kernel Improvements
