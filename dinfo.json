@@ -235,6 +235,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Oneplus Nord",
+      "codename": "avicii",
+      "maintainer": "Sreeshankar K",
+      "github_username": "sreeshankark",
+      "support_group": "https://t.me/sanjusprjkt",
+      "image_url": "https://wiki.lineageos.org/images/devices/avicii.png",
+      "status": "Active"
+    },
+    {
       "device_name": "Oneplus Nord CE2 Lite 5G",
       "codename": "oscaro",
       "maintainer": "Chethan",
