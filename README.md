@@ -28,6 +28,7 @@
 | **Oneplus 9R**             | `lemonades`  |
 | **Oneplus 13R**            | `giulia`     |
 | **Oneplus Ace 5**          | `giuliac`    |
+| **Oneplus Nord**           | `avicii`     |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
 | **POCO F4**                | `munch`  |
 | **POCO F6**                | `peridot`    |
@@ -77,3 +78,4 @@
 - **[Lucifer](https://github.com/Never-Alive)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+)
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2))
+- **[sreeshankark](https://github.com/sreeshankark)** (Oneplus Nord)
