@@ -1,11 +1,13 @@
-{    "response": [        {
-            "datetime": 1773118650,
-            "filename": "axion-2.4-SOLACE-20260310-OFFICIAL-VANILLA-spartan.zip",
-            "id": "da301618165f4172f66ed0d47e9c1bbf",
+{
+    "response": [
+        {
+            "datetime": 1776503609,
+            "filename": "axion-2.5-REVERIE-20260418-OFFICIAL-VANILLA-spartan.zip",
+            "id": "4d0c657e3076170c942758a5c0c8f1a9",
             "romtype": "OFFICIAL",
-            "size": 2086665393,
-            "url": "https://cdn.axionos.org/spartan/axion-2.4-SOLACE-20260310-OFFICIAL-VANILLA-spartan.zip",
-            "version": "2.4"
+            "size": 2273054445,
+            "url": "https://cdn.axionos.org/spartan/axion-2.5-REVERIE-20260418-OFFICIAL-VANILLA-spartan.zip",
+            "version": "2.5"
         }
     ]
 }

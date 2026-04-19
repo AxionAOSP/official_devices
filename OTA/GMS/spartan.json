@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1773110204,
-            "filename": "axion-2.4-SOLACE-20260310-OFFICIAL-GMS-spartan.zip",
-            "id": "cf869a781c41f0650ebfa49f8301a749",
+            "datetime": 1776501665,
+            "filename": "axion-2.5-REVERIE-20260418-OFFICIAL-GMS-spartan.zip",
+            "id": "a7f9eb4b4935409dd86c27bad06f8ace",
             "romtype": "OFFICIAL",
-            "size": 2480987902,
-            "url": "https://cdn.axionos.org/spartan/axion-2.4-SOLACE-20260310-OFFICIAL-GMS-spartan.zip",
-            "version": "2.4"
+            "size": 2410511604,
+            "url": "https://cdn.axionos.org/spartan/axion-2.5-REVERIE-20260418-OFFICIAL-GMS-spartan.zip",
+            "version": "2.5"
         }
     ]
 }
