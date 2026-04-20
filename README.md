@@ -30,6 +30,7 @@
 | **Oneplus Ace 5**          | `giuliac`    |
 | **Oneplus Nord**           | `avicii`     |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
+| **POCO F3/Mi 11X/K40**      | `alioth` |
 | **POCO F4**                | `munch`  |
 | **POCO F6**                | `peridot`    |
 | **POCO F7**                | `onyx`     |
@@ -79,3 +80,4 @@
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2))
 - **[sreeshankark](https://github.com/sreeshankark)** (Oneplus Nord)
+- **[skenakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40)

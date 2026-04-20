@@ -264,11 +264,11 @@
     {
       "device_name": "POCO F3/Mi 11X/K40",
       "codename": "alioth",
-      "maintainer": "Rve",
-      "github_username": "Rve27",
-      "support_group": "https://t.me/rve_enterprises",
+      "maintainer": "Yaseakun",
+      "github_username": "skenakun",
+      "support_group": "https://t.me/yaseaprjktchat",
       "image_url": "https://wiki.lineageos.org/images/devices/alioth.png",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "device_name": "POCO F4/K40S",
