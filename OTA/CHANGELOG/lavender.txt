@@ -1,3 +1,28 @@
+Axion v2.5
+Build Date : 17/04/2026
+
+- Added Flashlight strength control
+- Added Battery led settings
+- Enabled Blur on qs 
+- Switch HWUI rendering backend to opengl
+- Set default pin amount for home app
+- overlay: Convert config_screenBrightnessDoze to float
+- powerhint: Decrease launch boost to 3sec
+- powerhint: Add SchedBoost hints
+- powerhint: Set screen-off schedutil ratelimits
+- rootdir: Update cpusets tunables
+- rootdir: Clean-up early boot script
+- Override display service to foreground CPU set.
+- rootdir: Use foreground cpuset/uclamp for gralloc
+- rootdir: Initial performance tuning
+- rootdir: Set up/down_rate_limit_us to 1000us
+- rootdir: Boost GPU to max for expensive rendering
+- Cleanup some useless props
+- rootdir: Reduce schedutil rate limits
+- rootdir: Finetune scaling frequencies
+- Checkout and cleanup overlay from xiaomi_sdm660-common
+- rro_overlay: Reduce blur radius (weak gpu)
+
 AxionOS v2.4
 Build Date : 16/02/2026
 
