@@ -50,6 +50,7 @@
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+**  | `haydn`     |
 | **Xiaomi Pad 6**           | `pipa`       |
+| **POCO F3/Mi 11X/K40**      | `alioth` |
 
 ## 👤 Maintainers
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-8 series, Pixel Fold - Open for Co-Maintainership/Take over)
@@ -79,3 +80,4 @@
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2))
 - **[sreeshankark](https://github.com/sreeshankark)** (Oneplus Nord)
+- **[skenakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40)
