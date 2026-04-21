@@ -1,4 +1,14 @@
 AxionOS v2.5
+Build Date : 21/04/2026
+- Synced with latest source
+- Tweaked haptics for better user-experience
+- Reduced swappiness 100>60
+- Few device side tweaks for power management
+- Reduced default animation speeds to 80%
+- Disabled scroll optimiser temporarily
+- Many source side fixes
+
+Build Date : 12/04/2026
 - Initial QPR2 Build
 - Synced with latest source
 - Drop ViperFX and Included AxionFX
