@@ -43,7 +43,6 @@
 | **Redmi Note 7/7s**        | `lavender`   |
 | **Redmi Note 7 Pro**       | `violet`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
-| **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
 | **Redmi Note 12 Pro / Plus / Discovery 5G**     |  `rubyx`  |
 | **Samsung Galaxy A52s 5G** | `a52sxq`     |
 | **TECNO POVA 4 Pro**         | `LG8n` |
@@ -61,7 +60,6 @@
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x/Redmi Note 7/7s)
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
-- **[therealmharc](https://github.com/therealmharc)** (Redmi Note 10 Pro/Pro Max)
 - **[Pranshu Sheoran](https://github.com/sheoranpranshu)** (Xiaomi Pad 6)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
