@@ -1,3 +1,9 @@
+AxionOS v2.6
+Build Date: 2026/05/15
+- Dolby synced with latest changes
+- A whole lot of source side changes
+https://github.com/AxionAOSP/axion_changelogs
+
 AxionOS v2.5
 Build Date: 2026/04/08
 - Introduced AxionFx

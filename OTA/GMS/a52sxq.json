@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1775664662,
-            "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-a52sxq.zip",
-            "id": "fbdcb81ba83df4b25a8e805be8ea9ab4",
+            "datetime": 1778873339,
+            "filename": "axion-2.6-QUASIS-20260515-OFFICIAL-CORE-a52sxq.zip",
+            "id": "2ef2d517db47879c2a7430260eea105c",
             "romtype": "OFFICIAL",
-            "size": 1838283114,
-            "url": "https://cdn.axionos.org/a52sxq/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-a52sxq.zip",
-            "version": "2.5"
+            "size": 2010264495,
+            "url": "https://cdn.axionos.org/a52sxq/axion-2.6-QUASIS-20260515-OFFICIAL-CORE-a52sxq.zip",
+            "version": "2.6"
         }
     ]
 }
