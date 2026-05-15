@@ -1,3 +1,24 @@
+AxionOS v2.6
+Build Date: 2026/05/15
+- Regenerated powerhint with some modifications
+- Fixed HDR related bugs
+- Removed camera changes that caused ghosting
+- Improved vibration feel
+- Kernel upstreamed to 6.1.169
+- Switched to Vulkan
+- Fixed high touch polling rate
+- Fixed high touch sensitivity
+- Increased brightness on doze
+- Enabled doze gestures
+- Dolby synced with latest changes
+- More under-the-hood changes
+- A whole lot of source side changes
+  https://github.com/AxionAOSP/axion_changelogs
+- This ROM ships with OOS 16.0.5.701 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device
+
 AxionOS v2.5
 Build Date: 2026/04/14
 - April android security bulletin
@@ -7,7 +28,7 @@ Build Date: 2026/04/14
   LineageOS libperf
 - More under-the-hood changes
 - More source side changes
-- This ROM ships with OOS 16.0.3.701 firmware. Make 
+- This ROM ships with OOS 16.0.5.701 firmware. Make 
   sure to NOT flash any other ROM with firmware older 
   than 16.0.3.500 after flashing this build, or else 
   you could risk bricking your device

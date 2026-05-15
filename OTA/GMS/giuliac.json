@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776172191,
-            "filename": "axion-2.5-REVERIE-20260414-OFFICIAL-GMS-giuliac.zip",
-            "id": "5463561a93bcae8a411f6823ca153718",
+            "datetime": 1778874322,
+            "filename": "axion-2.6-QUASIS-20260515-OFFICIAL-CORE-giuliac.zip",
+            "id": "45894996a1551411be970fc07e279501",
             "romtype": "OFFICIAL",
-            "size": 3436663749,
-            "url": "https://cdn.axionos.org/giuliac/axion-2.5-REVERIE-20260414-OFFICIAL-GMS-giuliac.zip",
-            "version": "2.5"
+            "size": 3522331561,
+            "url": "https://cdn.axionos.org/giuliac/axion-2.6-QUASIS-20260515-OFFICIAL-CORE-giuliac.zip",
+            "version": "2.6"
         }
     ]
 }
