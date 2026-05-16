@@ -1,3 +1,25 @@
+AxionOS v2.6
+Build Date: 2026/05/17
+Device changelogs:
+- RvKernel 2.0
+- powerhint: Remove hints for Adaptive Battery CPU Throttling
+- powerhint: Set gpu power level to 0 during expensive rendering
+- Enable UBWC aligned framebuffer
+- init: Set media XML codecs variant to _kona
+- Enable VoNR Calls support
+- powerhint: Added UclampTAMin node
+- powerhint: Reduce GPUIdleTimer value
+- rootdir: Remove support for eMMC
+- Remove bogus tombstone directory directives
+- parts: Move to PreferenceFragmentCompat
+- parts: Convert for M3E support
+- parts: Move leftovers to SwitchPreferenceCompat
+- Revert "sm8250-common: Enable ScrollOptimizer"
+- Enable BT low power adaptive control feature
+- props: Disable QTI perf lock usage in camera HAL
+- props: Tune adaptive suspend proprieties
+- init: Remove racey printk setups
+
 AxionOS v2.5
 Build date: 20/04/2026
 Device changelogs:
