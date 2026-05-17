@@ -2,6 +2,16 @@ Device: Poco F4/ Redmi K40s
 Device code name : munch
 Device maintainer: SenX
 
+AxionOS v2.6
+Build Date : 17/05/2026
+- RE404 Kernel R15 NOKSU
+- Disabled scroll optimizer
+- Disabled perf anim overrride
+- Dropped BPF requirements
+- Enable small battery configuration
+- Reduce blur radius
+- More misc changes
+
 AxionOS v2.5
 Build Date : 09/04/2026
 - Added New Dolby
