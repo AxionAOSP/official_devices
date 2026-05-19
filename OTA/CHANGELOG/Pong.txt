@@ -1,3 +1,7 @@
+Notes:
+- Firmware is included
+- Dolby is included (Effects + Codecs)
+
 AxionOS v2.5 - 14/04/2026
 --------------
 - Initial official Build
@@ -22,7 +26,33 @@ AxionOS v2.5 - 14/04/2026
 - Limit AOD to 60fps by default
 - Update firmware/vendor from NOS B4.0-260226-0955
 
-
-Notes:
-- Firmware is included
-- Dolby is included (Effects + Codecs)
+AxionOS v2.6 - 19/05/2026
+--------------
+- Glyph: MusicVisualizerTileService: Use STATE_UNAVAILABLE when not available
+- Glyph: SettingsActivity: Launch Flip to glyph settings if called from the tile
+- Glyph: FlipToGlyphTileService: Observe main glyph setting (ignoring schedule)
+- Glyph: Decouple torch services from Glyph toggle
+- Glyph: TorchTileService: Stop TorchService when tile is removed from panel
+- Glyph: TorchTileService: Use unavailable string instead of disabled when not ready
+- Glyph: Import ToneHelperService for notifications
+- Glyph: ResourceUtils: Exclude hidden files from user animations
+- Glyph: AnimationSettingsFragment: Exclude applications that cannot send notifications
+- Glyph: Add quick save options on OggSettingsFragment
+- Glyph: Improve notification service dialog UX
+- Glyph: Fix top spacing on app call settings fragment
+- Glyph: Set configured animation as app summary when set
+- Glyph: Allow customizing notification animations per-app
+- Glyph: AnimationSettingsFragment: Remove app list category for calls if empty
+- Glyph: Allow customizing call animations for third party apps
+- Glyph: Switch to InCallService for CallReceiver
+- Glyph: SettingsFragment: Switch to MultiSelectListPreference for app lists
+- Glyph: SettingsFragment: Exclude utilities from glyph main switch filter
+- Glyph: OggSettingsFragment: Show a toast after the file is saved
+- Glyph: Rework icons for all clickable preferences
+- Glyph: Fix main switch state sync for flip to glyph
+- Glyph: Split ringer mode preference in flip to glyph screen
+- Glyph: Fix edge-to-edge padding in Glyph animation preview
+- Glyph: Improve default settings
+- Glyph: Set a default value for mic activity led mode
+- Glyph: AnimationSettingsFragment: Fix condition for flip play toggle
+- Update firmware/vendor from NOS B4.1-260414-1749
