@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776166111,
-            "filename": "axion-2.5-REVERIE-20260414-OFFICIAL-GMS-S666LN.zip",
-            "id": "2d5f626a048b66c12969778b9eb77504",
+            "datetime": 1779033029,
+            "filename": "axion-2.6-QUASIS-20260517-OFFICIAL-CORE-S666LN.zip",
+            "id": "5934d346ff4563cd03cf0ce607214d54",
             "romtype": "OFFICIAL",
-            "size": 2144492473,
-            "url": "https://cdn.axionos.org/s666ln/axion-2.5-REVERIE-20260414-OFFICIAL-GMS-S666LN.zip",
-            "version": "2.5"
+            "size": 2249615588,
+            "url": "https://cdn.axionos.org/S666LN/axion-2.6-QUASIS-20260517-OFFICIAL-CORE-S666LN.zip",
+            "version": "2.6"
         }
     ]
 }

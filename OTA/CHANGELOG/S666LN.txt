@@ -1,3 +1,9 @@
+AxionOS V2.6
+Build Date: 2026/05/17
+- Updated Kernel to Chihiro 2.1
+- Switch to reflex governor
+- Enable GED KPI
+
 AxionOS v2.5
 Build Date: 2026/04/14
 - Initial Android 16 QPR2
