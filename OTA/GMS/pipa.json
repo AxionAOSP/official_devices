@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1764964892,
-            "filename": "axion-2.2.1-NIGHTLY-20251205-OFFICIAL-GMS-pipa.zip",
-            "id": "1e42c042198ef3f7773283e5891eb1a4",
+            "datetime": 1779208245,
+            "filename": "axion-2.6-QUASIS-20260519-OFFICIAL-PICO-pipa.zip",
+            "id": "38bdbbf8adc06a03bb6f0af91bf9abb7",
             "romtype": "OFFICIAL",
-            "size": 1830982874,
-            "url": "https://github.com/SheoranPranshu/pipa-builds/releases/download/axion-2.2.1-NIGHTLY-20251205/axion-2.2.1-NIGHTLY-20251205-OFFICIAL-GMS-pipa.zip",
-            "version": "2.2.1"
+            "size": 1941873627,
+            "url": "https://cdn.axionos.org/pipa/axion-2.6-QUASIS-20260519-OFFICIAL-PICO-pipa.zip",
+            "version": "2.6"
         }
     ]
 }

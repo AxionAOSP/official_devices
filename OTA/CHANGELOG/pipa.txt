@@ -1,10 +1,11 @@
-Device: Xiaomi Pad 6
-Device code name : pipa
-Device maintainer: Pranshu Sheoran
+Xiaomi Pad 6 (pipa)
+===================
 
-Changelog:
-https://t.me/changelog_glitch
+Watchout: https://t.me/glitch_wraith
+Device Changelog: https://t.me/changelog_glitch
+Device Trees: https://github.com/nullpointer1101
 
-Official Build
+Official Builds
 -----------------------------
-05 December 2025 - A16 (QPR0)
+19 May 2026      - A16 (QPR2) [Clean Flash]
+05 December 2025 - A16 (QPR0) [Clean Flash]

@@ -60,7 +60,7 @@
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x/Redmi Note 7/7s)
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
-- **[Pranshu Sheoran](https://github.com/sheoranpranshu)** (Xiaomi Pad 6)
+- **[Null_Pointer](https://github.com/nullpointer1101)** (Xiaomi Pad 6)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
 - **[Niv](https://github.com/nivlafx)** (Pixel 9 series)
