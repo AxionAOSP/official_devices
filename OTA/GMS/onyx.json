@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1773696220,
-      "filename": "axion-2.4-SOLACE-20260316-OFFICIAL-GMS-onyx.zip",
-      "id": "4159c9490e246b531e2a5943e43a6fd6",
+      "datetime": 1779305580,
+      "filename": "axion-2.6-QUASIS-20260520-OFFICIAL-CORE-onyx.zip",
+      "id": "7fab967fb044ef8ffb33b18da7c72b90",
       "romtype": "OFFICIAL",
-      "size": 4304328938,
-      "url": "https://cdn.axionos.org/onyx/axion-2.4-SOLACE-20260316-OFFICIAL-GMS-onyx.zip",
-      "version": "2.4"
+      "size": 3741773621,
+      "url": "https://cdn.axionos.org/onyx/axion-2.6-QUASIS-20260520-OFFICIAL-CORE-onyx.zip",
+      "version": "2.6"
     }
   ]
 }

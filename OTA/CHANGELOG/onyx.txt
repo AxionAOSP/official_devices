@@ -2,70 +2,87 @@ Device: POCO F7
 Device code name: onyx
 Device maintainer: Zarathos_Ghost_Rider
 
-Axion v2.4
-Date - 16/03/2026
+Axion v2.6
+Date - 20/05/2026
 - Source upstream
-- Remove useless qvop-daemon
-- Remove cnss_diag service
-- Remove bogus tombstone directory directives
-- Remove invalid printk_devkmsg write
-- Remove unused fatal_err_check service
-- Remove duplicate 'start logd' in init
-- Remove camera-daemon commands moved to init.rc
-- Add webview pinning overlay
-- Utilize task_profiles.json and cgroups.json
-- Silence ColorManager logspam
-- Dontaudit camera HAL default_prop denial
+- Enabled bypass charging
+- Added MLBB and MCGG to sched_lib_name
+- Removed printk loglevel setup from init.qcom.sh
+- Increased reserve partition sizes
+- Enabled LTE_CA workaround
+- Auto brightness enabled by default
+- Fixed SELinux denials and added dontaudit rules
+- Set LTE+ threshold bandwidth to 0
+- Bluetooth disabled by default
+- Updated SurfaceFlinger duration to 12.3ms
+- Optimized ZRAM to 50%
+- Enabled R8 for system_server and SystemUI
 - Set SurfaceFlinger min uclamp to 30%
-- Build ANGLE app
-- Fix hal_audio_default default_prop sepolicy denial
-- Add sepolicy for diag-router app
-- Update blobs from OS3.0.6.0.WOLMIXM
-- Enable QCRIL radio power saving
-- Reduce system server verbosity
-- Remove time_daemon rc definition
-- Remove sdcard legacy support from init
-- Remove unused daemon services (ATFWD, qseeproxy, chre)
-- Disable KPTI
-- Define supported display refresh rates
-- Enable Bluetooth AVRCP controller profile
-- Enable Axion Performance Mode
-- Remove redundant wait on fs_ready before writing to it, slightly improving boot time. 
-- Added torch brightness level support 
-- Introduced variant handler via libinit for unified device props management
-- Reverted ART debug to default mode 
-- Fixed WALT governor timing to initialize before power HAL startup 
-- Removed unnecessary wait for fs_ready entry 
-- Drop redundant build desc 
-- More powerhint ricing
-- Drop xiaomi micharge service
-- Switch thermal config to mgame 
-- Drop avb hashtree footer args 
-- Fix the bug where it wasn't possible to adjust the volume during VOIP calls such as WhatsApp calls 
-- Fix SELinux denial for P3 color mode property 
-- Revert ART debug release mode
-- Tighten migt/metis/mist sysfs permissions 
-- Tighten /dev/uhid permissions 
-- Remove conflicting camerax extensions property from vendor 
-- Remove conflicting LE Audio profile overrides from product 
-- Remove duplicate mi-serial-sh and dead device references 
-- Fix chown used instead of chmod for metis parameters 
-- Clean up redundant Vulkan declarations 
-- Fix GPU sysfs genfscon paths 
-- Fix bluetooth BAP broadcast source property typo 
-- Added new charging control via XiaomiParts
-- Added 2% safety margin to prevent charging limit overshoot
-- Set proper permissions for charging control sysfs node
-- Fixed fragment manager compatibility in ChargingControlActivity
-- Fixed startService warning in ChargingControlFragment
-- Resolved multiple SELinux denials:
-- Allowed platform_app to find mediacodec service
-- Allowed mediaprovider to find mediacodec service
-- Resolved audio, bluetooth, camera, touchfeature and mediacodec denials
-- Switch to pixel-libperfmgr (hardware/google) for Power HAL
-- Enable CameraX Extensions support 
-- Remove unused camera watermarks, shaders and configs 
-- Increase zram to 8GB
-- Fix duplicate Bluetooth HFP codec prop 
-- Fix DisplayFeature AIDL binding 
-- SELinux policy updates for pixel power HAL
+- Dropped debug.sf.latch_unsignaled property
+- Allowed all filesystems for USB-OTG
+- Limited screen recorder framerate to 120
+- Removed duplicate wifi_tether_configure_ssid_default
+- Removed virtual framebuffer
+- Fixed /dev/diag permissions
+- Moved Camera Extensions to system framework
+- Disabled UI touch sounds by default
+- Don't install test apps
+- Clear package cache on early boot
+- Dropped swappiness to 60%
+- Created SELinux compatibility mapping files
+- Increased flashlight torch current to 250mA
+- Disabled Android rescue party
+- Set force_sysfs_fallback=1 via cmdline
+- Removed useless services (ptt_socket_app, esepmdaemon, qlogd, mdm_launcher)
+- Removed wigig components
+- Increased nr_requests to 256
+- Dropped camera watermarks, OGL shaders and unnecessary camera configs
+- Enabled CameraX extensions
+- Increased Dalvik heap limits for 12GB RAM
+- Imported stock brightness sensor calibration
+- Updated bloobs and fw to OS3.0.7.0
+- Tightened migt/metis/mist sysfs permissions
+- Tightened /dev/uhid permissions
+- Fixed Bluetooth BAP broadcast source typo
+- Added initial variant handler libinit
+- Set WALT governor before power HAL starts
+- Enabled Axion Performance Mode
+- Enabled Bluetooth AVRCP controller profile
+- Defined supported display refresh rates (60/120Hz)
+- Disabled kpti
+- Enabled WiFi Optimized Power Management
+- Removed unused daemon services (atfwd, qseeproxydaemon, chre)
+- Removed legacy sdcard support
+- Removed time_daemon
+- Reduced system server verbosity
+- Built ANGLE app
+- Added WebView pinning
+- Applied dex2oat optimizations
+- Added aggressive LMKD configuration
+- Disabled phantom process monitoring
+- Fixed failing symlinks
+- Disabled FW roaming when idle
+- Removed obsolete SurfaceFlinger properties
+- Dropped hotword enrollment
+- Silenced spammy logging
+- Fixed system suspend SELinux denials
+- Disabled WLAN firmware logging
+- Disabled RX wakelock feature
+- Enabled Qualcomm TrueWireless Stereo
+- Dropped I/O prefetcher
+- Set ZRAM to 6GB (then optimized to 50%)
+- Disabled Skia tracing by default
+- Switched to dot product CPU variant
+- Set correct dalvik.vm values
+- Restricted app access to /proc/net/unix
+- Built EROFS for system_dlkm/vendor_dlkm
+- Enabled frame pacing for smoother visuals
+- Disabled EGL image tracking
+- Increased 5 GHz network signal tolerance
+- Set dex2oat thread count and cpuset
+- Added AR Core camera support
+- Relaxed RSSI thresholds
+- Updated CarrierConfig to OS3.0.7.0.WOLMIXM
+- Cleaned up VoNR, tethering, Euicc overlays
+- Moved touch report rate handling to power-ext
+- Implemented HTSR
