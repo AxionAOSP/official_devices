@@ -1,3 +1,11 @@
+AxionOS v2.6
+Build Date : 20/05/2026
+- Bringback DolbyAtmos
+- Fixed black screen issue while trying to wake the device
+- Specify vendor.usb.device
+- Specify vendor.usb.controller
+- Etc.
+
 AxionOS v2.5
 Build Date : 08/04/2026
 - Added AxionFX
