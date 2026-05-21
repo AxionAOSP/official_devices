@@ -1,3 +1,12 @@
+AxionOS 2.6
+Build Date : 21/05/2026
+- Added Dolby back
+- Dont build dummy audio hals frok source
+- Implement Axion Scroll Optimisations
+- Reduce debuggung and log spams 
+- Switched to Zorix Kernel
+
+
 AxionOS 2.5
 Build Date : 08/04/2026
 - Added AxionFx and dropped dolby
