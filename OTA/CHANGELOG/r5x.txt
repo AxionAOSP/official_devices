@@ -1,3 +1,12 @@
+AxionOS v2.6
+Build Date : 22/05/2026
+
+- Optimize vfs cache pressure
+- Bump kernel BPF version override to 5.10.239
+- Bump watermark threshold to 120
+- Update Bluetooth blobs from rmx2050 (fixes video and audio mismatch with earbuds)
+- Merged 5.10 bpf and Syned Kernel with Lineage sm8150
+
 AxionOS v2.4
 Build Date : 7/02/2026
 
