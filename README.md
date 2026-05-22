@@ -37,6 +37,7 @@
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite**                | `miatoll`     |
 | **POCO X3 / POCO X3 NFC**  | `surya`      |
 | **POCO X6 Pro 5G**         | `duchamp`    |
+| **POCO X7 Pro 5G**         |   `rodin`    |
 | **Realme 5 series**        | `r5x`        |
 | **Realme 6/7/Narzo Unified**    | `RM6785`     |
 | **Realme GT Neo 3T**       | `spartan`    |
@@ -75,7 +76,7 @@
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R / Ace 5, Samsung Galaxy A52s 5G)
 - **[Byben](https://github.com/heybyben)** (Motorola G34/45 5G)
 - **[Lucifer](https://github.com/Never-Alive)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+)
-- **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
+- **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S / POCO X7 PRO)
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2))
 - **[sreeshankark](https://github.com/sreeshankark)** (Oneplus Nord)
 - **[skenakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40)

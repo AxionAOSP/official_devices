@@ -82,4 +82,4 @@ adb sideload <drag-&-drop-rom.zip>
 
 ## Support / Bug Reports
 
-📢 **[Telegram Group](https://t.me/rexp_discussion)** 
+📢 **[Telegram Group](https://t.me/senseixhub)** 
