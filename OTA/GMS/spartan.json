@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776501665,
-            "filename": "axion-2.5-REVERIE-20260418-OFFICIAL-GMS-spartan.zip",
-            "id": "a7f9eb4b4935409dd86c27bad06f8ace",
+            "datetime": 1779514966,
+            "filename": "axion-2.6-QUASIS-20260523-OFFICIAL-CORE-spartan.zip",
+            "id": "e54f6b932577082fc34aed980c6d442b",
             "romtype": "OFFICIAL",
-            "size": 2410511604,
-            "url": "https://cdn.axionos.org/spartan/axion-2.5-REVERIE-20260418-OFFICIAL-GMS-spartan.zip",
-            "version": "2.5"
+            "size": 2502571428,
+            "url": "https://cdn.axionos.org/spartan/axion-2.6-QUASIS-20260523-OFFICIAL-CORE-spartan.zip",
+            "version": "2.6"
         }
     ]
 }
