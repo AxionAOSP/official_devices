@@ -2,6 +2,25 @@ Device: Redmi Note 12 Pro / Plus / Discovery 5G
 Device code name : rubyx
 Device maintainer: Casanova.
 
+AxionOS v2.6
+Date :- 23/05/26
+=================
+- Update blobs to OS2.0.12.0.UMOMIXM
+- Add kaeru-patched lk.img and preloader_raw.img
+- Fix Dolby Atmos not showing in Apple Music
+- Fix 4K playback in YT, as well as lag and heating while video playback
+- Fix MiuiCamera lag while switching modes
+- Merge latest stable CIP patches up to cip131
+- Multiple kernel side improvements for better perf
+- Improve deep sleep and reduce loggers
+- Rework powerhint with CPU boosts
+- Tune uclamp floor, memory reservation and system server scheduling
+- Drop FPSGO and EAS-dependent boosts
+- Add some missing SELinux rules for PowerHAL and camera uclamp nodes
+- Drop QS interaction boost patch
+- Optimize dex2oat for faster app installation
+- Drop useless props and flags; miscellaneous cleanup
+
 AxionOS v2.5
 Date :- 12/04/26
 =================

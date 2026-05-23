@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776007657,
-            "filename": "axion-2.5-REVERIE-20260412-OFFICIAL-GMS-rubyx.zip",
-            "id": "5f547f7c103d0e3ae55f6448a13df815",
+            "datetime": 1779464476,
+            "filename": "axion-2.6-QUASIS-20260522-OFFICIAL-GMS-rubyx.zip",
+            "id": "477082aa1ad76e487a9c1900ca22d872",
             "romtype": "OFFICIAL",
-            "size": 2978764189,
-            "url": "https://cdn.axionos.org/rubyx/axion-2.5-REVERIE-20260412-OFFICIAL-GMS-rubyx.zip",
-            "version": "2.5"
+            "size": 2435747424,
+            "url": "https://cdn.axionos.org/rubyx/axion-2.6-QUASIS-20260522-OFFICIAL-GMS-rubyx.zip",
+            "version": "2.6"
         }
     ]
 }
