@@ -43,8 +43,10 @@
 | **Realme GT Neo 2**        | `bitra`      |
 | **Realme GT Neo 3T**       | `spartan`    |
 | **Redmi Note 7/7s**        | `lavender`   |
+| **Redmi 9**                | `lancelot`   |
 | **Redmi Note 7 Pro**       | `violet`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
+| **Redmi Note 9**           | `merlinx`    |
 | **Redmi Note 12 Pro / Plus / Discovery 5G**     |  `rubyx`  |
 | **Samsung Galaxy A52s 5G** | `a52sxq`     |
 | **TECNO POVA 4 Pro**         | `LG8n` |
@@ -81,3 +83,4 @@
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2))
 - **[sreeshankark](https://github.com/sreeshankark)** (Oneplus Nord)
 - **[skenakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40)
+- **[doissM] (https://github.com/mk7x7)** (Redmi Note 9 / Redmi 9)
