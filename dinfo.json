@@ -505,6 +505,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Xiaomi Pad 5",
+      "codename": "nabu",
+      "maintainer": "°⊥⋊ɹ∀°",
+      "github_username": "ArKT-7",
+      "support_group": "https://t.me/+12Ja1iBatW9lNTNl",
+      "image_url": "https://github.com/AxionAOSP/official_devices/blob/main/OTA/Banners/devices/nabu.webp?raw=true",
+      "status": "Active"
+    },
+    {
       "device_name": "Xiaomi Pad 6",
       "codename": "pipa",
       "maintainer": "Null_Pointer",

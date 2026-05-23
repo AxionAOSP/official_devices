@@ -53,6 +53,7 @@
 | **TECNO POVA 5**         | `LH7n` |
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+**  | `haydn`     |
+| **Xiaomi Pad 5**           | `nabu`       |
 | **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers
@@ -84,3 +85,4 @@
 - **[sreeshankark](https://github.com/sreeshankark)** (Oneplus Nord)
 - **[skenakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40)
 - **[doissM](https://github.com/mk7x7)** (Redmi Note 9 / Redmi 9)
+- **[°⊥⋊ɹ∀°](https://github.com/ArKT-7)** (Xiaomi Pad 5)
