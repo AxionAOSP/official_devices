@@ -83,4 +83,4 @@
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2))
 - **[sreeshankark](https://github.com/sreeshankark)** (Oneplus Nord)
 - **[skenakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40)
-- **[doissM] (https://github.com/mk7x7)** (Redmi Note 9 / Redmi 9)
+- **[doissM](https://github.com/mk7x7)** (Redmi Note 9 / Redmi 9)
