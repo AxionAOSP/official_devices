@@ -40,6 +40,7 @@
 | **POCO X7 Pro 5G**         |   `rodin`    |
 | **Realme 5 series**        | `r5x`        |
 | **Realme 6/7/Narzo Unified**    | `RM6785`     |
+| **Realme GT Neo 2**        | `bitra`      |
 | **Realme GT Neo 3T**       | `spartan`    |
 | **Redmi Note 7/7s**        | `lavender`   |
 | **Redmi Note 7 Pro**       | `violet`     |
@@ -59,7 +60,7 @@
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
 - **[Zarathos30](https://github.com/Zarathos30)** (POCO F7)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x/Redmi Note 7/7s)
-- **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
+- **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 2/Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
 - **[Null_Pointer](https://github.com/nullpointer1101)** (Xiaomi Pad 6)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)

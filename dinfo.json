@@ -379,6 +379,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Realme GT Neo 2",
+      "codename": "bitra",
+      "maintainer": "Bijoy",
+      "github_username": "bijoyv9",
+      "support_group": "https://t.me/ryuksupport09",
+      "image_url": "https://i.postimg.cc/yN3FGXnR/4-zu-3-realme-GT-Neo-2.png",
+      "status": "Active"
+    },
+    {
       "device_name": "Realme GT Neo 3T",
       "codename": "spartan",
       "maintainer": "Bijoy",
