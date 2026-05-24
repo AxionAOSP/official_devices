@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1775905986,
-            "filename": "axion-2.5-REVERIE-20260411-OFFICIAL-GMS-rodin.zip",
-            "id": "e47beeaaec183ff1687a7ec7329b2c15",
+            "datetime": 1779591301,
+            "filename": "axion-2.6-QUASIS-20260524-OFFICIAL-PICO-rodin.zip",
+            "id": "4bdcd0a93a0860a6e6f697507fc95498",
             "romtype": "OFFICIAL",
-            "size": 3455250630,
-            "url": "https://cdn.axionos.org/rodin/axion-2.5-REVERIE-20260411-OFFICIAL-GMS-rodin.zip",
-            "version": "2.5"
+            "size": 2698046901,
+            "url": "https://cdn.axionos.org/rodin/axion-2.6-QUASIS-20260524-OFFICIAL-PICO-rodin.zip",
+            "version": "2.6"
         }
     ]
 }
