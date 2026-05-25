@@ -32,6 +32,7 @@
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
 | **POCO F3/Mi 11X/K40**      | `alioth` |
 | **POCO F4**                | `munch`  |
+| **POCO F5/ Redmi Note 12 Turbo**                | `marble`     |
 | **POCO F6**                | `peridot`    |
 | **POCO F7**                | `onyx`     |
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite**                | `miatoll`     |
@@ -86,3 +87,4 @@
 - **[skenakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40)
 - **[doissM](https://github.com/mk7x7)** (Redmi Note 9 / Redmi 9)
 - **[°⊥⋊ɹ∀°](https://github.com/ArKT-7)** (Xiaomi Pad 5)
+- **[PabloEscobar](https://github.com/pabloescobar-reborn)** (POCO F5/Redmi Note 12 Turbo)

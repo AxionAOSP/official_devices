@@ -282,11 +282,11 @@
     {
       "device_name": "POCO F5",
       "codename": "marble",
-      "maintainer": "Ashwani",
-      "github_username": "beingashwani",
-      "support_group": "https://t.me/axion_marble",
+      "maintainer": "PabloEscobar",
+      "github_username": "pabloescobar-reborn",
+      "support_group": "https://t.me/pablo_laboratory",
       "image_url": "https://i.postimg.cc/3NP59Rrg/1000003700.png",
-      "status": "Inactive"
+      "status": "active"
     },
     {
       "device_name": "POCO F5 Pro/K60",
