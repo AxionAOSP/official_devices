@@ -1,0 +1,5 @@
+AxionOS v2.6 QUASIS - Build Date: 26/05/2026
+--------------------------------------------
+- Initial official release
+- Fixed landscape games opening squished at the top instead of full screen
+- Fixed the lockscreen refusing to stay in landscape when auto-rotate is turned off
