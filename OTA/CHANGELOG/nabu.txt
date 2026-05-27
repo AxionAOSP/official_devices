@@ -1,5 +1,6 @@
-AxionOS v2.6 QUASIS - Build Date: 26/05/2026
---------------------------------------------
-- Initial official release
+AxionOS v2.6 QUASIS (HOTFIX) - Build Date: 27/05/2026
+-----------------------------------------------------
+- Fixed video playback blacking out after 30 seconds and causing screen flickering
+- Corrected display refresh timings for stable 120Hz performance
 - Fixed landscape games opening squished at the top instead of full screen
 - Fixed the lockscreen refusing to stay in landscape when auto-rotate is turned off

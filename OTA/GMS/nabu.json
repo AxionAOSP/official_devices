@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1779823125,
-            "filename": "axion-2.6-QUASIS-20260526-OFFICIAL-GMS-nabu.zip",
-            "id": "7a606d544a4b79a4dfced3b61d5dd861",
+            "datetime": 1779911008,
+            "filename": "axion-2.6-QUASIS-20260527-OFFICIAL-GMS-nabu.zip",
+            "id": "0908bea7bdf27b98f823d857c4cd768b",
             "romtype": "OFFICIAL",
-            "size": 2463036705,
-            "url": "https://cdn.axionos.org/nabu/axion-2.6-QUASIS-20260526-OFFICIAL-GMS-nabu.zip",
+            "size": 2463039353,
+            "url": "https://cdn.axionos.org/nabu/axion-2.6-QUASIS-20260527-OFFICIAL-GMS-nabu.zip",
             "version": "2.6"
         }
     ]
