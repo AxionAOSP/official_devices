@@ -18,7 +18,7 @@
 
 ## Clean Installation
  
-1. Download the latest **axion-*-rodin.zip** from the [website](https://cdn.axionos.org).
+1. Download the latest **axion-*-rodin.zip** from the [website](https://cdn.axionos.org/#rodin).
 2. Connect your phone to PC and reboot to **fastboot** by holding both power button and volume down keys.
 3. Flash the following partitions **one by one** through powershell/terminal using:
 

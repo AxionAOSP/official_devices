@@ -24,7 +24,7 @@
 
 ## Clean Installation
 
-1. Download the latest **axion-*-merlinx.zip** and **recovery.img** from the [website](https://cdn.axionos.org).
+1. Download the latest **axion-*-merlinx.zip** and **recovery.img** from the [website](https://cdn.axionos.org/#merlinx).
 2. Connect your phone to your PC and reboot to **fastboot** (Hold Power + Volume Down).
 3. Flash the **recovery.img** using the following command:
    ```bash

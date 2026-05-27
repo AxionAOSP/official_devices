@@ -17,7 +17,7 @@
 
 ## Clean Installation
 
-1. Download the latest **axion-*-pipa.zip** from the [website](https://cdn.axionos.org).
+1. Download the latest **axion-*-pipa.zip** from the [website](https://cdn.axionos.org/#pipa).
 2. Connect your tablet to your PC and reboot to **Fastboot Mode** by pressing and holding both the **Power** and **Volume Down** buttons.
 3. Flash the following partitions **one by one** through PowerShell/Terminal using:
 

@@ -17,7 +17,7 @@
 
 ## Clean Installation
 
-1. Download the latest **axion-*-nabu.zip**, **boot.img**, **dtbo.img**, and **vendor_boot.img** from the [website](https://cdn.axionos.org).
+1. Download the latest **axion-*-nabu.zip**, **boot.img**, **dtbo.img**, and **vendor_boot.img** from the [website](https://cdn.axionos.org/#nabu).
 2. Connect your tablet to your PC and reboot to **Fastboot Mode** by pressing and holding both the **Power** and **Volume Down** buttons.
 3. Flash the following partitions **one by one** through PowerShell/Terminal using:
 
