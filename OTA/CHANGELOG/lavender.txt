@@ -1,3 +1,11 @@
+Axion v2.6
+Build Date : 30/05/2026
+
+- Enable RAW10 buffer fix in gralloc (fixes 48mp cam)
+- Enable PERF_ANIM_OVERRIDE
+- Update powerhint raise CPUBWHystTriggerCount value
+- More misc changes and fixes
+
 Axion v2.5
 Build Date : 17/04/2026
 

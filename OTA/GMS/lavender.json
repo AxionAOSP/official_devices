@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776409949,
-            "filename": "axion-2.5-REVERIE-20260417-OFFICIAL-GMS-lavender.zip",
-            "id": "5937a157bb59451cb0e24cc5ff51db10",
+            "datetime": 1779950036,
+            "filename": "axion-2.6-QUASIS-20260528-OFFICIAL-PICO-lavender.zip",
+            "id": "c64cfa6b5a972f8e91d537707f6e5b85",
             "romtype": "OFFICIAL",
-            "size": 1779332679,
-            "url": "https://cdn.axionos.org/lavender/axion-2.5-REVERIE-20260417-OFFICIAL-GMS-lavender.zip",
-            "version": "2.5"
+            "size": 1799796257,
+            "url": "https://cdn.axionos.org/lavender/axion-2.6-QUASIS-20260528-OFFICIAL-PICO-lavender.zip",
+            "version": "2.6"
         }
     ]
 }
