@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1775610552,
-      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-lynx.zip",
-      "id": "97e23451ddd25fd4cdb20570f72bb2ed",
-      "romtype": "OFFICIAL",
-      "size": 3092803323,
-      "url": "https://cdn.axionos.org/lynx/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-lynx.zip",
-      "version": "2.5"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1780524350,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-lynx.zip",
+            "id": "082317bdc2d10c94e4ca59b65af1eb56",
+            "romtype": "OFFICIAL",
+            "size": 2256026692,
+            "url": "https://cdn.axionos.org/lynx/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-lynx.zip",
+            "version": "2.7"
+        }
+    ]
 }

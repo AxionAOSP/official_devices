@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776782180,
-            "filename": "axion-2.5-REVERIE-20260421143741-OFFICIAL-VANILLA-oscaro.zip",
-            "id": "e816c9540e01297c7f978124960066fc",
+            "datetime": 1780549963,
+            "filename": "axion-2.7-PROXIMA_BETA-20260604051559-OFFICIAL-VANILLA-oscaro.zip",
+            "id": "2d08e1db3463d4b7ccf01a51e4299fdb",
             "romtype": "OFFICIAL",
-            "size": 2270627513,
-            "url": "https://cdn.axionos.org/oscaro/axion-2.5-REVERIE-20260421143741-OFFICIAL-VANILLA-oscaro.zip",
-            "version": "2.5"
+            "size": 2253691254,
+            "url": "https://cdn.axionos.org/oscaro/axion-2.7-PROXIMA_BETA-20260604051559-OFFICIAL-VANILLA-oscaro.zip",
+            "version": "2.7"
         }
     ]
 }

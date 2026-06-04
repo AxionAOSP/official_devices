@@ -18,7 +18,7 @@
 
 ## Clean Flash Guide
 
-1. Download the latest **axion-*-miatoll.zip** from the [website](https://cdn.axionos.org).
+1. Download the latest **axion-*-miatoll.zip** from the [website](https://cdn.axionos.org/#miatoll).
 2. Extract the rom and get the **recovery.img**
 3. Connect your phone to PC and reboot to **fastboot** by holding both power button and volume down keys.
 4. Flash **recovery.img** powershell/cmd:

@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769754165,
-            "filename": "axion-2.4-SOLACE-20260130-OFFICIAL-GMS-lemonades.zip",
-            "id": "ba3696106cab1b2c195e7b766a2caec2",
+            "datetime": 1779999018,
+            "filename": "axion-2.6-QUASIS-20260528-OFFICIAL-GMS-lemonades.zip",
+            "id": "ecdc22fee5a0dab5ec801a7cc900319a",
             "romtype": "OFFICIAL",
-            "size": 2243764985,
-            "url": "https://sourceforge.net/projects/testingop8series/files/Axion/2.4/lemonades/axion-2.4-SOLACE-20260130-OFFICIAL-GMS-lemonades.zip/download",
-            "version": "2.4"
+            "size": 2466546091,
+            "url": "https://cdn.axionos.org/lemonades/axion-2.6-QUASIS-20260528-OFFICIAL-GMS-lemonades.zip",
+            "version": "2.6"
         }
     ]
 }

@@ -38,7 +38,7 @@ Only needs to be done once.
 
 ## Flash the AxionOS recovery
 
-1. Download `vendor_boot.img` for **bluejay** from the [AxionOS website](https://cdn.axionos.org).
+1. Download `vendor_boot.img` for **bluejay** from the [AxionOS website](https://cdn.axionos.org/#bluejay).
 2. Reboot to the bootloader:
    ```
    adb reboot bootloader
@@ -51,7 +51,7 @@ Only needs to be done once.
 
 ## Install AxionOS
 
-1. Download `axion-*-bluejay.zip` from the [AxionOS website](https://cdn.axionos.org).
+1. Download `axion-*-bluejay.zip` from the [AxionOS website](https://cdn.axionos.org/#bluejay).
 2. In recovery, pick **Factory reset → Format data / factory reset** and confirm.
 3. Back at the main menu, pick **Apply update → Apply from ADB**.
 4. Sideload the ROM:

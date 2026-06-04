@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1770558646,
-            "filename": "axion-2.4-SOLACE-20260208-OFFICIAL-GMS-peridot.zip",
-            "id": "4e0322867b3061c7aba9f4ae3cb26ee1",
+            "datetime": 1779832554,
+            "filename": "axion-2.6-QUASIS-20260526-OFFICIAL-PICO-peridot.zip",
+            "id": "0bfd3a1f8397b681c8ee440fb8a935b4",
             "romtype": "OFFICIAL",
-            "size": 3058340723,
-            "url": "https://cdn.axionos.org/peridot/axion-2.4-SOLACE-20260208-OFFICIAL-GMS-peridot.zip",
-            "version": "2.4"
+            "size": 3391311706,
+            "url": "https://cdn.axionos.org/peridot/axion-2.6-QUASIS-20260526-OFFICIAL-PICO-peridot.zip",
+            "version": "2.6"
         }
     ]
 }

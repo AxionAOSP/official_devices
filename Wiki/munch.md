@@ -48,7 +48,7 @@
 
 ## Clean Flash Guide (AxionOS Recovery)
 
-1. Download the latest **axion-*-munch.zip** from the [website](https://cdn.axionos.org).
+1. Download the latest **axion-*-munch.zip** from the [website](https://cdn.axionos.org/#munch).
 2. Extract the rom and get the **vendor_boot.img**
 3. Connect your phone to PC and reboot to **fastboot** by holding both power button and volume down keys.
 4. Flash **vendor_boot.img** powershell/cmd:

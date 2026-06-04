@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1775609607,
-      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-lynx.zip",
-      "id": "01f486636b4b38102c56a2aba612aeae",
-      "romtype": "OFFICIAL",
-      "size": 1810758837,
-      "url": "https://cdn.axionos.org/lynx/axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-lynx.zip",
-      "version": "2.5"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1780517246,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-VANILLA-lynx.zip",
+            "id": "54de4fe1a1627d3336e6a6a26efd1bb3",
+            "romtype": "OFFICIAL",
+            "size": 1848755994,
+            "url": "https://cdn.axionos.org/lynx/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-VANILLA-lynx.zip",
+            "version": "2.7"
+        }
+    ]
 }

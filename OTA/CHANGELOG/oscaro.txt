@@ -1,3 +1,16 @@
+AxionOS v2.7
+Build Date : 04/06/2026
+- Synced with latest source
+- Excluded firmware to avoid arb trigger
+- Tweak powerhint for better efficiency
+- Switch to source side task_profiles
+- Increase vibration intensities slightly
+- Improved Lift to wake accuracy
+- Add toggle to disable keyboard vibration
+- Use appropriate charging thresholds in lockscreen info 
+- Few more underhood changes
+- Upstreamed kernel with latest lineage source (qcom8350)
+
 AxionOS v2.5
 Build Date : 21/04/2026
 - Synced with latest source

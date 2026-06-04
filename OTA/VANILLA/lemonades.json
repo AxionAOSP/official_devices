@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769759696,
-            "filename": "axion-2.4-SOLACE-20260130-OFFICIAL-VANILLA-lemonades.zip",
-            "id": "f199a8d85bec72ab25d9104273318512",
+            "datetime": 1780017065,
+            "filename": "axion-2.6-QUASIS-20260529-OFFICIAL-VANILLA-lemonades.zip",
+            "id": "4cd9c60f70fa6b97ee1d16853e3ca051",
             "romtype": "OFFICIAL",
-            "size": 1849413196,
-            "url": "https://sourceforge.net/projects/testingop8series/files/Axion/2.4/VANILLA/lemonades/axion-2.4-SOLACE-20260130-OFFICIAL-VANILLA-lemonades.zip/download",
-            "version": "2.4"
+            "size": 2054566186,
+            "url": "https://cdn.axionos.org/lemonades/axion-2.6-QUASIS-20260529-OFFICIAL-VANILLA-lemonades.zip",
+            "version": "2.6"
         }
     ]
 }

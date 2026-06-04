@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769873545,
-            "filename": "axion-2.4-SOLACE-20260131-OFFICIAL-GMS-shiba.zip",
-            "id": "13ad67cfed9ef87fb061140e55a11f87",
+            "datetime": 1780503794,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-shiba.zip",
+            "id": "95aaf275fb660e4d30c9ff897e71d1a7",
             "romtype": "OFFICIAL",
-            "size": 2317390835,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/shiba/2.x/GMS/axion-2.4-SOLACE-20260131-OFFICIAL-GMS-shiba.zip/download",
-            "version": "2.4"
+            "size": 2185066510,
+            "url": "https://cdn.axionos.org/shiba/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-shiba.zip",
+            "version": "2.7"
         }
     ]
 }

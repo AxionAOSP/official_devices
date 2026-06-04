@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769890996,
-            "filename": "axion-2.4-SOLACE-20260131-OFFICIAL-GMS-akita.zip",
-            "id": "6dbf6a8f0064bc8cc5e0890c51f158fe",
+            "datetime": 1780505855,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-akita.zip",
+            "id": "01a2fb227015133132d5216f789ef82e",
             "romtype": "OFFICIAL",
-            "size": 2309501859,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/akita/2.x/GMS/axion-2.4-SOLACE-20260131-OFFICIAL-GMS-akita.zip/download",
-            "version": "2.4"
+            "size": 2176438523,
+            "url": "https://cdn.axionos.org/akita/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-akita.zip",
+            "version": "2.7"
         }
     ]
 }

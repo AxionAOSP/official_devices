@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769961241,
-            "filename": "axion-2.4-SOLACE-20260201-OFFICIAL-VANILLA-akita.zip",
-            "id": "e6f157b020b1f62b359fa588261b6233",
+            "datetime": 1780504814,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-VANILLA-akita.zip",
+            "id": "d2fc1a104201b8453e521724f2465f7d",
             "romtype": "OFFICIAL",
-            "size": 1920487998,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/akita/2.x/Vanilla/axion-2.4-SOLACE-20260201-OFFICIAL-VANILLA-akita.zip/download",
-            "version": "2.4"
+            "size": 1768739011,
+            "url": "https://cdn.axionos.org/akita/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-VANILLA-akita.zip",
+            "version": "2.7"
         }
     ]
 }

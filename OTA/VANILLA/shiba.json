@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769960752,
-            "filename": "axion-2.4-SOLACE-20260201-OFFICIAL-VANILLA-shiba.zip",
-            "id": "30e5450369bb3e10922444d93554a50d",
+            "datetime": 1780502764,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-VANILLA-shiba.zip",
+            "id": "5c3b2a7a9140349528d74cfe255dc27a",
             "romtype": "OFFICIAL",
-            "size": 1928261604,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/shiba/2.x/Vanilla/axion-2.4-SOLACE-20260201-OFFICIAL-VANILLA-shiba.zip/download",
-            "version": "2.4"
+            "size": 1776978024,
+            "url": "https://cdn.axionos.org/shiba/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-VANILLA-shiba.zip",
+            "version": "2.7"
         }
     ]
 }

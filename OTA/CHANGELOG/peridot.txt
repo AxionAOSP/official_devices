@@ -1,5 +1,10 @@
 AxionOS Changelogs for peridot:
 
-Build Date : 08/02/2026
-- Initial QPR1 Build
-- Leica Cam included
+Build Date : 27/05/2026
+- Initial build for new maintainer
+- Drop mi_thermald switch to qcom thermal-engine-v2
+- Add nonui notifier
+- Switch to reflex cpu governors
+- Add KProfiles by default
+- Include dolby and miui cam
+- Build QTI GNSS hal

@@ -1,4 +1,9 @@
-AxionOS v2.5
+AxionOS v2.7
+Build Date : 04/06/2026
+- Heating issue Fixed
+- Misc changes
+
+AxionOS v2.6
 Build Date : 22/05/2026
 - Tuned AxBurstEngine V2
 - Added BurnIn Protection

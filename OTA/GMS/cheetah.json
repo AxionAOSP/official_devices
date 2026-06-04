@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1775606825,
-      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-cheetah.zip",
-      "id": "d0a60b565ebf455a3a0bccb7b54a4078",
-      "romtype": "OFFICIAL",
-      "size": 3106425847,
-      "url": "https://cdn.axionos.org/cheetah/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-cheetah.zip",
-      "version": "2.5"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1780512146,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-cheetah.zip",
+            "id": "18e9627fbd2defb34b472e96dc3b4789",
+            "romtype": "OFFICIAL",
+            "size": 2269754769,
+            "url": "https://cdn.axionos.org/cheetah/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-cheetah.zip",
+            "version": "2.7"
+        }
+    ]
 }

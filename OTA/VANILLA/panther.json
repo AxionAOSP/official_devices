@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1775607675,
-      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-panther.zip",
-      "id": "6814da2af0ea4d777dd7696cadfba384",
-      "romtype": "OFFICIAL",
-      "size": 1810619676,
-      "url": "https://cdn.axionos.org/panther/axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-panther.zip",
-      "version": "2.5"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1780513765,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-VANILLA-panther.zip",
+            "id": "1214bccf870de60dfea791af1deb2cff",
+            "romtype": "OFFICIAL",
+            "size": 1848648185,
+            "url": "https://cdn.axionos.org/panther/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-VANILLA-panther.zip",
+            "version": "2.7"
+        }
+    ]
 }

@@ -16,7 +16,7 @@
 
 ## Clean installation
 
-1. Download the latest **axion-*-bitra.zip** from the [website](https://cdn.axionos.org).
+1. Download the latest **axion-*-bitra.zip** from the [website](https://cdn.axionos.org/#bitra).
 2. Boot into Recovery.
 3. Go to Advance wipe and wipe data.
 4. Flash Rom.zip/ sideload Rom.zip.

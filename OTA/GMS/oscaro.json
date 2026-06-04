@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776776423,
-            "filename": "axion-2.5-REVERIE-20260421130436-OFFICIAL-GMS-oscaro.zip",
-            "id": "6b49e6cb51a293e2ea2fff03353a3802",
+            "datetime": 1780548628,
+            "filename": "axion-2.7-PROXIMA_BETA-20260604045035-OFFICIAL-CORE-oscaro.zip",
+            "id": "e3cbf226f67d916dc96f916d963dd665",
             "romtype": "OFFICIAL",
-            "size": 2553330636,
-            "url": "https://cdn.axionos.org/oscaro/axion-2.5-REVERIE-20260421130436-OFFICIAL-GMS-oscaro.zip",
-            "version": "2.5"
+            "size": 2448224291,
+            "url": "https://cdn.axionos.org/oscaro/axion-2.7-PROXIMA_BETA-20260604045035-OFFICIAL-CORE-oscaro.zip",
+            "version": "2.7"
         }
     ]
 }

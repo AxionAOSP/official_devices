@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769870525,
-            "filename": "axion-2.4-SOLACE-20260131-OFFICIAL-GMS-husky.zip",
-            "id": "8a744b029f6f8d1ee1aaad6ae934c5cd",
+            "datetime": 1780501780,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-husky.zip",
+            "id": "2ea0d8359bce7711f66ee478636be6e7",
             "romtype": "OFFICIAL",
-            "size": 2332124309,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/husky/2.x/GMS/axion-2.4-SOLACE-20260131-OFFICIAL-GMS-husky.zip/download",
-            "version": "2.4"
+            "size": 2203858811,
+            "url": "https://cdn.axionos.org/husky/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-husky.zip",
+            "version": "2.7"
         }
     ]
 }

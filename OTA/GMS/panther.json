@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1775608362,
-      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-panther.zip",
-      "id": "f3dcaa002aabe840c29654fb2e8589ea",
-      "romtype": "OFFICIAL",
-      "size": 3091979259,
-      "url": "https://cdn.axionos.org/panther/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-panther.zip",
-      "version": "2.5"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1780515540,
+            "filename": "axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-panther.zip",
+            "id": "4250407ef56c9cfd957c2d481c480266",
+            "romtype": "OFFICIAL",
+            "size": 2256242776,
+            "url": "https://cdn.axionos.org/panther/axion-2.7-PROXIMA_BETA-20260603-OFFICIAL-GMS-panther.zip",
+            "version": "2.7"
+        }
+    ]
 }
