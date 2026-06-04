@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779258122,
-            "filename": "axion-2.6-QUASIS-20260520-OFFICIAL-CORE-fogos.zip",
-            "id": "78f5be03076cc97aff84fab546ec3bb5",
+            "datetime": 1780554268,
+            "filename": "axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-GMS-fogos.zip",
+            "id": "c750677e67efcd4881e42855dfcb537e",
             "romtype": "OFFICIAL",
-            "size": 1942181487,
-            "url": "https://cdn.axionos.org/fogos/axion-2.6-QUASIS-20260520-OFFICIAL-CORE-fogos.zip",
-            "version": "2.6"
+            "size": 2234539218,
+            "url": "https://cdn.axionos.org/fogos/axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-GMS-fogos.zip",
+            "version": "2.7"
         }
     ]
 }

@@ -1,3 +1,10 @@
+AxionOS v2.7
+Build Date : 04/06/2026
+- Fixed mic delay during VoIP calls
+- Fixed widevine certification issue
+- Switch to GMS build
+- Update to V1UGS35M.75-14-9-3-1-2
+
 AxionOS v2.6
 Build Date : 20/05/2026
 - Bringback DolbyAtmos
@@ -26,4 +33,3 @@ Build Date : 05/03/2026
 
 Credits :
 LineageOS for base tree
-@irawansalt for help
