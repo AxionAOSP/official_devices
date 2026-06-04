@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779832554,
-            "filename": "axion-2.6-QUASIS-20260526-OFFICIAL-PICO-peridot.zip",
-            "id": "0bfd3a1f8397b681c8ee440fb8a935b4",
+            "datetime": 1780540271,
+            "filename": "axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-PICO-peridot.zip",
+            "id": "da5ebf3f7178ad4f6ea5ff33cc279471",
             "romtype": "OFFICIAL",
-            "size": 3391311706,
-            "url": "https://cdn.axionos.org/peridot/axion-2.6-QUASIS-20260526-OFFICIAL-PICO-peridot.zip",
-            "version": "2.6"
+            "size": 3472527066,
+            "url": "https://cdn.axionos.org/peridot/axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-PICO-peridot.zip",
+            "version": "2.7"
         }
     ]
 }
