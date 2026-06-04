@@ -1,3 +1,10 @@
+AxionOS v2.7 PROXIMA (BETA) - Build Date: 04/06/2026
+-----------------------------------------------------
+- Tuned rendering props for smoother system experience
+- Fixed input drops for BT keyboards with trackpads/mouse-keys
+- Kernel Upstreamed to latest source
+- ViperFX is added back
+
 AxionOS v2.6 QUASIS (HOTFIX) - Build Date: 27/05/2026
 -----------------------------------------------------
 - Fixed video playback blacking out after 30 seconds and causing screen flickering

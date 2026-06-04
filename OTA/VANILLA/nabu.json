@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779911914,
-            "filename": "axion-2.6-QUASIS-20260527-OFFICIAL-VANILLA-nabu.zip",
-            "id": "9909edd9aa11222e895f7cc59f03d8d1",
+            "datetime": 1780594538,
+            "filename": "axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-VANILLA-nabu.zip",
+            "id": "07e74d50f1f04b5ca46bf4ae4077b23a",
             "romtype": "OFFICIAL",
-            "size": 1868531592,
-            "url": "https://cdn.axionos.org/nabu/axion-2.6-QUASIS-20260527-OFFICIAL-VANILLA-nabu.zip",
-            "version": "2.6"
+            "size": 1954244890,
+            "url": "https://cdn.axionos.org/nabu/axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-VANILLA-nabu.zip",
+            "version": "2.7"
         }
     ]
 }
