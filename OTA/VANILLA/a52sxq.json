@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1778872668,
-            "filename": "axion-2.6-QUASIS-20260515-OFFICIAL-VANILLA-a52sxq.zip",
-            "id": "5a5a649ae45853ed0638cdba516fe78d",
+            "datetime": 1780681029,
+            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-a52sxq.zip",
+            "id": "f4e65a15c3ad8a5dc3c6bff1772a3e7f",
             "romtype": "OFFICIAL",
-            "size": 1760938375,
-            "url": "https://cdn.axionos.org/a52sxq/axion-2.6-QUASIS-20260515-OFFICIAL-VANILLA-a52sxq.zip",
-            "version": "2.6"
+            "size": 1863572859,
+            "url": "https://cdn.axionos.org/a52sxq/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-a52sxq.zip",
+            "version": "2.7"
         }
     ]
 }

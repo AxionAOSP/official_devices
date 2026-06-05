@@ -1,4 +1,8 @@
-AxionOS v2.6
+AxionOS v2.7
+Build Date: 2026/06/05
+- A whole lot of source side changes
+https://github.com/AxionAOSP/axion_changelogs
+
 Build Date: 2026/05/15
 - Dolby synced with latest changes
 - A whole lot of source side changes
