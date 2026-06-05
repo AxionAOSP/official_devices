@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1778947327,
-            "filename": "axion-2.6-QUASIS-20260516-OFFICIAL-GMS-alioth.zip",
-            "id": "53580cda7f8a564c606b380f6b7e7f30",
+            "datetime": 1780668079,
+            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-GMS-alioth.zip",
+            "id": "4a55191b877706df9c2ebfcfb4808ec4",
             "romtype": "OFFICIAL",
-            "size": 2361520973,
-            "url": "https://cdn.axionos.org/alioth/axion-2.6-QUASIS-20260516-OFFICIAL-GMS-alioth.zip",
-            "version": "2.6"
+            "size": 2451735495,
+            "url": "https://cdn.axionos.org/alioth/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-GMS-alioth.zip",
+            "version": "2.7"
         }
     ]
 }

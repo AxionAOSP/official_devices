@@ -1,3 +1,17 @@
+AxionOS v2.7-Beta
+Build Date : 05/06/2026
+- Rebase device tree dropped some commit
+- vintf: Declare graphics allocator
+- Move c2_manifest_vendor.xml to device tree
+- Import Dolby Media Codec
+- audio: Sync with Spatial Audio 
+- Build Lineage Health HAL
+- dolby: Add support for Dolby Vision
+- dolby: Import dax-default's from Motorola
+- dolby: Forcefully Enable bass-enhancer
+-  dolby: Move Spatial props to vendor
+- dolby: Update dax-default from MIUI
+
 AxionOS v2.6
 Build Date: 2026/05/17
 Device changelogs:
