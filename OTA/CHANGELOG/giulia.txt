@@ -1,4 +1,16 @@
-AxionOS v2.6
+AxionOS v2.7
+Build Date: 2026/06/05
+- Kernel upstream to 6.1.170
+- Added bypass charging tile
+- May android security bulletin
+- More under-the-hood changes
+- A whole lot of source side changes
+  https://github.com/AxionAOSP/axion_changelogs
+- This ROM ships with OOS 16.0.5.701 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device
+
 Build Date: 2026/05/15
 - Regenerated powerhint with some modifications
 - Fixed HDR related bugs

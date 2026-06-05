@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1778874322,
-            "filename": "axion-2.6-QUASIS-20260515-OFFICIAL-CORE-giuliac.zip",
-            "id": "45894996a1551411be970fc07e279501",
+            "datetime": 1780670118,
+            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-CORE-giuliac.zip",
+            "id": "4f928bce2b36d8232d72d6194a595cd4",
             "romtype": "OFFICIAL",
-            "size": 3522331561,
-            "url": "https://cdn.axionos.org/giuliac/axion-2.6-QUASIS-20260515-OFFICIAL-CORE-giuliac.zip",
-            "version": "2.6"
+            "size": 3604205962,
+            "url": "https://cdn.axionos.org/giuliac/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-CORE-giuliac.zip",
+            "version": "2.7"
         }
     ]
 }

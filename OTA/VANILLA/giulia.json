@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1778877672,
-            "filename": "axion-2.6-QUASIS-20260515-OFFICIAL-VANILLA-giulia.zip",
-            "id": "536b2f4539ebbd74608552cde01d8618",
+            "datetime": 1780672710,
+            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-giulia.zip",
+            "id": "749131bec69d1adde484e9818cb914a6",
             "romtype": "OFFICIAL",
-            "size": 3298336844,
-            "url": "https://cdn.axionos.org/giulia/axion-2.6-QUASIS-20260515-OFFICIAL-VANILLA-giulia.zip",
-            "version": "2.6"
+            "size": 3381208275,
+            "url": "https://cdn.axionos.org/giulia/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-giulia.zip",
+            "version": "2.7"
         }
     ]
 }
