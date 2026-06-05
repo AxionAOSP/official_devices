@@ -1,3 +1,8 @@
+AxionOS 2.7
+Build Date : 05/06/2026
+- Some Kernel optimisation
+- Updated {Gamebar}{Dolby}
+
 AxionOS 2.6
 Build Date : 21/05/2026
 - Added Dolby back

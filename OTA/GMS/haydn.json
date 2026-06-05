@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779332902,
-            "filename": "axion-2.6-QUASIS-20260521-OFFICIAL-PICO-haydn.zip",
-            "id": "c32b82344022f42f37e92cdf8cd0acf9",
+            "datetime": 1780628072,
+            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-PICO-haydn.zip",
+            "id": "f5f2a40d4a54354e70092161cdcc423d",
             "romtype": "OFFICIAL",
-            "size": 2141729384,
-            "url": "https://cdn.axionos.org/haydn/axion-2.6-QUASIS-20260521-OFFICIAL-PICO-haydn.zip",
-            "version": "2.6"
+            "size": 2229936346,
+            "url": "https://cdn.axionos.org/haydn/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-PICO-haydn.zip",
+            "version": "2.7"
         }
     ]
 }

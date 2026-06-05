@@ -1,13 +1,14 @@
 {
     "response": [
         {
-            "datetime": 1779338242,
-            "filename": "axion-2.6-QUASIS-20260521-OFFICIAL-VANILLA-haydn.zip",
-            "id": "c98cb9f7a33593207c3f6a6865041e26",
+            "datetime": 1780629738,
+            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-haydn.zip",
+            "id": "72aea9e3201f42a0c511d1dc3d99dee8",
             "romtype": "OFFICIAL",
-            "size": 2026327805,
-            "url": "https://cdn.axionos.org/haydn/axion-2.6-QUASIS-20260521-OFFICIAL-VANILLA-haydn.zip",
-            "version": "2.6"
+            "size": 2113124041,
+            "url": "https://cdn.axionos.org/haydn/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-haydn.zip",
+            "version": "2.7"
         }
     ]
 }
+
