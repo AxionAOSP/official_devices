@@ -1,6 +1,18 @@
 Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
-Device maintainer: Ashwani
+Device maintainer: PabloEscobar
+
+Date - 06/06/2026
+=================
+- Switch to QTI Perf HAL for improved performance.
+- Fixed fingerprint gesture triggers from non-fingerprint input devices.
+- Updated display stack properties for improved display behavior.
+- Restored Dolby Vision support in OTT apps such as Netflix.
+- Increased maximum fling velocity for smoother scrolling.
+- Refined display timing by avoiding phase offsets as durations.
+- Added per-app auxiliary camera access controls.
+- Included various miscellaneous improvements and fixes.
+- Improvements to performance and system stability
 
 Date - 22/02/2026
 =================

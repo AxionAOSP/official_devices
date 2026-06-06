@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1771746413,
-            "filename": "axion-2.4-SOLACE-20260222-OFFICIAL-GMS-marble.zip",
-            "id": "afb0bdcb0deabdfa33dc712c174e35e2",
+            "datetime": 1780757518,
+            "filename": "axion-2.7-PROXIMA_BETA-20260606-OFFICIAL-GMS-marble.zip",
+            "id": "a281f84a5eea1268bd63a4c18b0956a5",
             "romtype": "OFFICIAL",
-            "size": 2585957903,
-            "url": "https://sourceforge.net/projects/ashwanihub/files/axion-official/axion-2.4-SOLACE-20260222-OFFICIAL-GMS-marble.zip/download",
-            "version": "2.4"
+            "size": 2685537981,
+            "url": "https://cdn.axionos.org/marble/axion-2.7-PROXIMA_BETA-20260606-OFFICIAL-GMS-marble.zip",
+            "version": "2.7"
         }
     ]
 }
