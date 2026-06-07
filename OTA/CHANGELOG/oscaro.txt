@@ -1,4 +1,8 @@
 AxionOS v2.7
+Build Date : 07/06/2026 (HOTFIX)
+- Synced with latest source
+- Fixes keyboard not opening in some situations (source side)
+
 Build Date : 04/06/2026
 - Synced with latest source
 - Excluded firmware to avoid arb trigger
