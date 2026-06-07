@@ -2,6 +2,16 @@ Device: Poco F4/ Redmi K40s
 Device code name : munch
 Device maintainer: SenX
 
+AxionOS v2.7
+Build Date : 07/06/2026
+- GMS VARIANT 
+  - Switched to Core from Pico
+  - Included Partner set-up
+- Improve surflace flinger
+- Add doze gesture flags
+- Tone down CamX and CHIUSECASE logging
+- Add dolby vision support
+
 AxionOS v2.6
 Build Date : 17/05/2026
 - RE404 Kernel R15 NOKSU

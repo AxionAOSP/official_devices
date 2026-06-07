@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1778999397,
-            "filename": "axion-2.6-QUASIS-20260517-OFFICIAL-PICO-munch.zip",
-            "id": "228427ec9766baa92473ddab624d5306",
+            "datetime": 1780825525,
+            "filename": "axion-2.7-PROXIMA_BETA-20260607-OFFICIAL-CORE-munch.zip",
+            "id": "1256579e551db51f4ba95e12579f8e34",
             "romtype": "OFFICIAL",
-            "size": 2127160471,
-            "url": "https://cdn.axionos.org/munch/axion-2.6-QUASIS-20260517-OFFICIAL-PICO-munch.zip",
-            "version": "2.6"
+            "size": 2159530489,
+            "url": "https://cdn.axionos.org/munch/axion-2.7-PROXIMA_BETA-20260607-OFFICIAL-CORE-munch.zip",
+            "version": "2.7"
         }
     ]
 }
