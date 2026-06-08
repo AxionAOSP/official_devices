@@ -2,6 +2,18 @@ Device: POCO X7 Pro
 Device code name: rodin
 Device maintainer: Sensei
 
+Date - 08/06/2026
+=================
+- GMS VARIANT 
+  - Switched to Core from Pico
+  - Included Partner set-up
+- Disable display refresh rate override
+- Whitelist XiaomiParts
+- Disable FRP
+- Fixed HTR can't turn on
+- Bring back Thermal Profiles
+- More small improvements
+
 Date - 24/05/2026
 =================
 - OS3.0.10.0.WOJMIXM blobs

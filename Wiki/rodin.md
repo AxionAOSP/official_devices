@@ -11,7 +11,7 @@
 > - Make a **full data backup** before flashing.
 > - Ensure your device has at least **30% battery**.
 > - Flash **only** files meant for **POCO X7 Pro (rodin)**.
-> - Ensure your device is on HyperOS 2 based firmware (kernel 6.6.56)
+> - Ensure your device is on HyperOS 3 based firmware (kernel 6.6.89)
 > - First boot may take 5–10 minutes.Do **not** interrupt or force reboot unless it exceeds 10 minutes.
 
 ---

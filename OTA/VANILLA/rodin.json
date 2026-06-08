@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779596941,
-            "filename": "axion-2.6-QUASIS-20260524-OFFICIAL-VANILLA-rodin.zip",
-            "id": "b1c658b0fd39e3bd376b1f2f3863a889",
+            "datetime": 1780887575,
+            "filename": "axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-VANILLA-rodin.zip",
+            "id": "20ec70bae39f7cef59f54151516968fb",
             "romtype": "OFFICIAL",
-            "size": 2582524918,
-            "url": "https://cdn.axionos.org/rodin/axion-2.6-QUASIS-20260524-OFFICIAL-VANILLA-rodin.zip",
-            "version": "2.6"
+            "size": 2584124647,
+            "url": "https://cdn.axionos.org/rodin/axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-VANILLA-rodin.zip",
+            "version": "2.7"
         }
     ]
 }

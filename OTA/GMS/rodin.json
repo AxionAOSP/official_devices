@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779591301,
-            "filename": "axion-2.6-QUASIS-20260524-OFFICIAL-PICO-rodin.zip",
-            "id": "4bdcd0a93a0860a6e6f697507fc95498",
+            "datetime": 1780888373,
+            "filename": "axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-CORE-rodin.zip",
+            "id": "5d1fe9132cbf44575f203dc10d84fc0b",
             "romtype": "OFFICIAL",
-            "size": 2698046901,
-            "url": "https://cdn.axionos.org/rodin/axion-2.6-QUASIS-20260524-OFFICIAL-PICO-rodin.zip",
-            "version": "2.6"
+            "size": 2721342697,
+            "url": "https://cdn.axionos.org/rodin/axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-CORE-rodin.zip",
+            "version": "2.7"
         }
     ]
 }
