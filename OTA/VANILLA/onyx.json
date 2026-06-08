@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779308224,
-            "filename": "axion-2.6-QUASIS-20260520-OFFICIAL-VANILLA-onyx.zip",
-            "id": "1aac158c84e35d70e4fd0e627ceacc0b",
+            "datetime": 1780951227,
+            "filename": "axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-VANILLA-onyx.zip",
+            "id": "cc3e9f37767bdf74912ce1c7e4e6d34b",
             "romtype": "OFFICIAL",
-            "size": 3651755994,
-            "url": "https://cdn.axionos.org/onyx/axion-2.6-QUASIS-20260520-OFFICIAL-VANILLA-onyx.zip",
-            "version": "2.6"
+            "size": 3652746540,
+            "url": "https://cdn.axionos.org/onyx/axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-VANILLA-onyx.zip",
+            "version": "2.7"
         }
     ]
 }

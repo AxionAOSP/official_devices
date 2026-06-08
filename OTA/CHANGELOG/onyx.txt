@@ -2,87 +2,12 @@ Device: POCO F7
 Device code name: onyx
 Device maintainer: Zarathos_Ghost_Rider
 
-Axion v2.6
-Date - 20/05/2026
+Axion v2.7
+Date - 08/06/2026
 - Source upstream
-- Enabled bypass charging
-- Added MLBB and MCGG to sched_lib_name
-- Removed printk loglevel setup from init.qcom.sh
-- Increased reserve partition sizes
-- Enabled LTE_CA workaround
-- Auto brightness enabled by default
-- Fixed SELinux denials and added dontaudit rules
-- Set LTE+ threshold bandwidth to 0
-- Bluetooth disabled by default
-- Updated SurfaceFlinger duration to 12.3ms
-- Optimized ZRAM to 50%
-- Enabled R8 for system_server and SystemUI
-- Set SurfaceFlinger min uclamp to 30%
-- Dropped debug.sf.latch_unsignaled property
-- Allowed all filesystems for USB-OTG
-- Limited screen recorder framerate to 120
-- Removed duplicate wifi_tether_configure_ssid_default
-- Removed virtual framebuffer
-- Fixed /dev/diag permissions
-- Moved Camera Extensions to system framework
-- Disabled UI touch sounds by default
-- Don't install test apps
-- Clear package cache on early boot
-- Dropped swappiness to 60%
-- Created SELinux compatibility mapping files
-- Increased flashlight torch current to 250mA
-- Disabled Android rescue party
-- Set force_sysfs_fallback=1 via cmdline
-- Removed useless services (ptt_socket_app, esepmdaemon, qlogd, mdm_launcher)
-- Removed wigig components
-- Increased nr_requests to 256
-- Dropped camera watermarks, OGL shaders and unnecessary camera configs
-- Enabled CameraX extensions
-- Increased Dalvik heap limits for 12GB RAM
-- Imported stock brightness sensor calibration
-- Updated bloobs and fw to OS3.0.7.0
-- Tightened migt/metis/mist sysfs permissions
-- Tightened /dev/uhid permissions
-- Fixed Bluetooth BAP broadcast source typo
-- Added initial variant handler libinit
-- Set WALT governor before power HAL starts
-- Enabled Axion Performance Mode
-- Enabled Bluetooth AVRCP controller profile
-- Defined supported display refresh rates (60/120Hz)
-- Disabled kpti
-- Enabled WiFi Optimized Power Management
-- Removed unused daemon services (atfwd, qseeproxydaemon, chre)
-- Removed legacy sdcard support
-- Removed time_daemon
-- Reduced system server verbosity
-- Built ANGLE app
-- Added WebView pinning
-- Applied dex2oat optimizations
-- Added aggressive LMKD configuration
-- Disabled phantom process monitoring
-- Fixed failing symlinks
-- Disabled FW roaming when idle
-- Removed obsolete SurfaceFlinger properties
-- Dropped hotword enrollment
-- Silenced spammy logging
-- Fixed system suspend SELinux denials
-- Disabled WLAN firmware logging
-- Disabled RX wakelock feature
-- Enabled Qualcomm TrueWireless Stereo
-- Dropped I/O prefetcher
-- Set ZRAM to 6GB (then optimized to 50%)
-- Disabled Skia tracing by default
-- Switched to dot product CPU variant
-- Set correct dalvik.vm values
-- Restricted app access to /proc/net/unix
-- Built EROFS for system_dlkm/vendor_dlkm
-- Enabled frame pacing for smoother visuals
-- Disabled EGL image tracking
-- Increased 5 GHz network signal tolerance
-- Set dex2oat thread count and cpuset
-- Added AR Core camera support
-- Relaxed RSSI thresholds
-- Updated CarrierConfig to OS3.0.7.0.WOLMIXM
-- Cleaned up VoNR, tethering, Euicc overlays
-- Moved touch report rate handling to power-ext
-- Implemented HTSR
+- Set audio offload buffer size to 64KB for better balance between latency and efficiency.
+- Removed useless GPU profiling property.
+- Reduced surfaceflinger minimum uclamp value.
+- Reset readahead values to always 128 for improved I/O performance.
+- Added missing USB microphone profiles in primary audio module config to fix setDevice failed errors.
+- Allowed vendor_init to modify proc_sched.
