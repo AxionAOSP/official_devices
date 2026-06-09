@@ -1,3 +1,13 @@
+AxionOS v2.7
+Build Date : 08/06/2026
+- Switched to AIDL camera provider
+- Fixed IPv4 connectivity issues on IPv6-only carrier networks
+- Bumped kernel BPF version override to 5.10.239
+- Reduced launcher blur radius for improved smoothness
+- Improved GPU performance and responsiveness
+- Note: The GMS variant uses EROFS, while the Vanilla variant uses EXT4
+- Please use the recovery included with your respective build ZIP to ensure proper flashing
+
 AxionOS v2.5
 Build Date : 10/04/2026
 - Initial Android 16 QPR2 release

@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1775762970,
-            "filename": "axion-2.5-REVERIE-20260409-OFFICIAL-VANILLA-miatoll.zip",
-            "id": "7e9c5b1e4fc83dd726cd695d628208c6",
+            "datetime": 1780950396,
+            "filename": "axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-VANILLA-miatoll.zip",
+            "id": "a4d5c816ab919baa6a9e4dda60c3efc2",
             "romtype": "OFFICIAL",
-            "size": 2123694257,
-            "url": "https://cdn.axionos.org/miatoll/axion-2.5-REVERIE-20260409-OFFICIAL-VANILLA-miatoll.zip",
-            "version": "2.5"
+            "size": 2019726051,
+            "url": "https://cdn.axionos.org/miatoll/axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-VANILLA-miatoll.zip",
+            "version": "2.7"
         }
     ]
 }
