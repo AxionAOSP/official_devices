@@ -1,3 +1,10 @@
+Axion v2.7
+Build Date : 10/06/2026
+
+- Synced with latest source
+- Improves system performance
+- Improves system stability
+
 Axion v2.6
 Build Date : 30/05/2026
 

@@ -1,13 +1,14 @@
 {
     "response": [
         {
-            "datetime": 1779197991,
-            "filename": "axion-2.6-QUASIS-20260519-OFFICIAL-VANILLA-r5x.zip",
-            "id": "40f416136f5aaf0145d17546a97aa47b",
+            "datetime": 1781024723,
+            "filename": "axion-2.7-PROXIMA_BETA-20260609-OFFICIAL-VANILLA-r5x.zip",
+            "id": "a3d1582e6ad1068cdd4f28b9040adfac",
             "romtype": "OFFICIAL",
-            "size": 1751516315,
-            "url": "https://cdn.axionos.org/r5x/axion-2.6-QUASIS-20260519-OFFICIAL-VANILLA-r5x.zip",
-            "version": "2.6"
+            "size": 1758158597,
+            "url": "https://cdn.axionos.org/r5x/axion-2.7-PROXIMA_BETA-20260609-OFFICIAL-VANILLA-r5x.zip",
+            "version": "2.7"
         }
     ]
 }
+

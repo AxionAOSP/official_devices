@@ -1,3 +1,13 @@
+AxionOS v2.7
+Build Date : 10/06/2026
+
+- Attempt to fix fingerprint on realme 5 (rmx1911)
+- Change default screen smallest width to 446dp
+- rename /persist to /mnt/vendor/persist fixes log spam
+- overlay: Fix lockscreen charging info
+- Improves system performance
+- Improves system stability
+
 AxionOS v2.6
 Build Date : 22/05/2026
 

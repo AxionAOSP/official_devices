@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779951834,
-            "filename": "axion-2.6-QUASIS-20260528-OFFICIAL-VANILLA-lavender.zip",
-            "id": "7d6766970e82f547069cf839310255f6",
+            "datetime": 1780857346,
+            "filename": "axion-2.7-PROXIMA_BETA-20260607-OFFICIAL-VANILLA-lavender.zip",
+            "id": "5aabe48e2beedfddd8ddd815c3bc9db5",
             "romtype": "OFFICIAL",
-            "size": 1672250260,
-            "url": "https://cdn.axionos.org/lavender/axion-2.6-QUASIS-20260528-OFFICIAL-VANILLA-lavender.zip",
-            "version": "2.6"
+            "size": 1674218796,
+            "url": "https://cdn.axionos.org/lavender/axion-2.7-PROXIMA_BETA-20260607-OFFICIAL-VANILLA-lavender.zip",
+            "version": "2.7"
         }
     ]
 }
