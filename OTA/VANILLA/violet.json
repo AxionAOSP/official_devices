@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779195181,
-            "filename": "axion-2.6-QUASIS-20260519125420-OFFICIAL-VANILLA-violet.zip",
-            "id": "300e720a797497baf9aa268716aec081",
+            "datetime": 1781071940,
+            "filename": "axion-2.7-PROXIMA_BETA-20260610061341-OFFICIAL-VANILLA-violet.zip",
+            "id": "b713c2ff74a1fe03287eb6fa4bf830b5",
             "romtype": "OFFICIAL",
-            "size": 1776191433,
-            "url": "https://cdn.axionos.org/violet/axion-2.6-QUASIS-20260519125420-OFFICIAL-VANILLA-violet.zip",
-            "version": "2.6"
+            "size": 1789693214,
+            "url": "https://cdn.axionos.org/violet/axion-2.7-PROXIMA_BETA-20260610061341-OFFICIAL-VANILLA-violet.zip",
+            "version": "2.7"
         }
     ]
 }

@@ -2,9 +2,9 @@ Device: Redmi Note 7 Pro
 Device code name : violet
 Device maintainer: Joker-V2
 
-Date - 20/04/2026
+Date - 10/06/2026
 =================
-- Switched to lineage device resources
-- Clean flash is mandatory
+- Lineage device resources
+- Dirty flashable over previous build
 - Production build
 - Signed with axion private keys
