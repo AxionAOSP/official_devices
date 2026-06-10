@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776005749,
-            "filename": "axion-2.5-REVERIE-20260412-OFFICIAL-VANILLA-cancunf.zip",
-            "id": "d992755475b0a4d22ed63fcb53a79d50",
+            "datetime": 1781076185,
+            "filename": "axion-2.7-PROXIMA_BETA-20260610-OFFICIAL-VANILLA-cancunf.zip",
+            "id": "29efbda9c61e26d4b20a0d3dd0c1a635",
             "romtype": "OFFICIAL",
-            "size": 2167735069,
-            "url": "https://cdn.axionos.org/cancunf/axion-2.5-REVERIE-20260412-OFFICIAL-VANILLA-cancunf.zip",
-            "version": "2.5"
+            "size": 2190213366,
+            "url": "https://cdn.axionos.org/cancunf/axion-2.7-PROXIMA_BETA-20260610-OFFICIAL-VANILLA-cancunf.zip",
+            "version": "2.7"
         }
     ]
 }
