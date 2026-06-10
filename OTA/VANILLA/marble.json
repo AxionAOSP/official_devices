@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1771748444,
-            "filename": "axion-2.4-SOLACE-20260222-OFFICIAL-VANILLA-marble.zip",
-            "id": "f819b8f6ef68c966156ca3cc656daeb8",
+            "datetime": 1781095430,
+            "filename": "axion-2.7-PROXIMA_BETA-20260610-OFFICIAL-VANILLA-marble.zip",
+            "id": "74646a6f243970443add80d6628ac669",
             "romtype": "OFFICIAL",
-            "size": 2271614083,
-            "url": "https://sourceforge.net/projects/ashwanihub/files/axion-official/axion-2.4-SOLACE-20260222-OFFICIAL-VANILLA-marble.zip/download",
-            "version": "2.4"
+            "size": 2294171769,
+            "url": "https://cdn.axionos.org/marble/axion-2.7-PROXIMA_BETA-20260610-OFFICIAL-VANILLA-marble.zip",
+            "version": "2.7"
         }
     ]
 }

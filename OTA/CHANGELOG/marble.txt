@@ -2,6 +2,18 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 10/06/2026
+=================
+- Bring back vanilla updates
+- Added power key input boost configuration
+- Included vendor/infinity.config in kernel config targets
+- Reduced system blur radius
+- Removed virtual framebuffer
+- Refactored thermal settings fragments
+- Updated common blobs from Diting OS3.0.4.0.VLFMIXM
+- Updated device blobs from Marble OS3.0.4.0.VMRMIXM
+- Improvements to performance and system stability
+
 Date - 06/06/2026
 =================
 - Switch to QTI Perf HAL for improved performance.

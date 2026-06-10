@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1780757518,
-            "filename": "axion-2.7-PROXIMA_BETA-20260606-OFFICIAL-GMS-marble.zip",
-            "id": "a281f84a5eea1268bd63a4c18b0956a5",
+            "datetime": 1781093441,
+            "filename": "axion-2.7-PROXIMA_BETA-20260610-OFFICIAL-GMS-marble.zip",
+            "id": "a786376f890f66183b1505f73063a26f",
             "romtype": "OFFICIAL",
-            "size": 2685537981,
-            "url": "https://cdn.axionos.org/marble/axion-2.7-PROXIMA_BETA-20260606-OFFICIAL-GMS-marble.zip",
+            "size": 2712972501,
+            "url": "https://cdn.axionos.org/marble/axion-2.7-PROXIMA_BETA-20260610-OFFICIAL-GMS-marble.zip",
             "version": "2.7"
         }
     ]
