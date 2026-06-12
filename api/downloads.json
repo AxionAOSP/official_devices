@@ -1157,6 +1157,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/rubyx.md"
     },
     {
+      "codename": "tanzanite",
+      "name": "Redmi Note 14 4G",
+      "brand": "xiaomi",
+      "status": "active",
+      "maintainer_ids": [
+        "ido@rexprjkt°"
+      ],
+      "support_group": "https://t.me/rexp_discussion",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/tanzanite.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/tanzanite.webp",
+        "fallback": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-4g-gl.jpg"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/tanzanite.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/tanzanite.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/tanzanite.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/tanzanite.md"
+    },
+    {
       "codename": "vili",
       "name": "Xiaomi 11T Pro",
       "brand": "xiaomi",

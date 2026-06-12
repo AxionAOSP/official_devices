@@ -190,6 +190,11 @@
       "id": "KimelaZPrjkt.",
       "name": "KimelaZPrjkt.",
       "github_username": "KimelaZX"
+    },
+    {
+      "id": "ido@rexprjkt°",
+      "name": "Ido",
+      "github_username": "xyzuniverse"
     }
   ],
   "devices": [
@@ -705,6 +710,15 @@
       ],
       "support_group": "https://t.me/casanovas_cult",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg"
+    },
+    {
+      "codename": "tanzanite",
+      "name": "Redmi Note 14 4G",
+      "maintainers": [
+        "ido@rexprjkt°"
+      ],
+      "support_group": "https://t.me/rexp_discussion",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-4g-gl.jpg"
     },
     {
       "codename": "vili",

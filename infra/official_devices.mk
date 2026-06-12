@@ -47,6 +47,7 @@ AXION_OFFICIAL_DEVICES := \
     begonia \
     merlinx \
     rubyx \
+    tanzanite \
     nabu \
     pipa \
     a52sxq \
@@ -102,6 +103,7 @@ AXION_OFFICIAL_MAINTAINERS_violet := Joker-V2
 AXION_OFFICIAL_MAINTAINERS_begonia := Sai_Krishna
 AXION_OFFICIAL_MAINTAINERS_merlinx := doissM
 AXION_OFFICIAL_MAINTAINERS_rubyx := Casanova.
+AXION_OFFICIAL_MAINTAINERS_tanzanite := ido@rexprjkt°
 AXION_OFFICIAL_MAINTAINERS_nabu := °⊥⋊ɹ∀°
 AXION_OFFICIAL_MAINTAINERS_pipa := Null_Pointer
 AXION_OFFICIAL_MAINTAINERS_a52sxq := Genoxci
