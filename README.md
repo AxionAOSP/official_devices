@@ -50,6 +50,7 @@
 | **Redmi Note 8 Pro** | `begonia` |
 | **Redmi Note 9** | `merlinx` |
 | **Redmi Note 12 Pro / Plus / Discovery 5G** | `rubyx` |
+| **Redmi Note 14 4G** | `tanzanite` |
 | **Xiaomi Pad 5** | `nabu` |
 | **Xiaomi Pad 6** | `pipa` |
 | **Samsung Galaxy A52s 5G** | `a52sxq` |
@@ -88,6 +89,7 @@
 - **[Null_Pointer](https://github.com/nullpointer1101)** (Xiaomi Pad 6 (`pipa`))
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro (`LG8n`), TECNO POVA 5 (`LH7n`))
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4 (`S666LN`))
+- **[Ido](https://github.com/xyzuniverse)** (Redmi Note 14 4G (`tanzanite`))
 
 ## 🛠 Maintainer and device registry
 
