@@ -56,3 +56,7 @@ AxionOS v2.6 - 19/05/2026
 - Glyph: Set a default value for mic activity led mode
 - Glyph: AnimationSettingsFragment: Fix condition for flip play toggle
 - Update firmware/vendor from NOS B4.1-260414-1749
+
+AxionOS v2.7 (BETA) - 13/06/2026
+----
+- Initial Build, no device changes
