@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779174606,
-            "filename": "axion-2.6-QUASIS-20260519-OFFICIAL-GMS-Pong.zip",
-            "id": "ad7497f6f81c2fef063d17c13f1a33ed",
+            "datetime": 1781343653,
+            "filename": "axion-2.7-PROXIMA_BETA-20260613-OFFICIAL-GMS-Pong.zip",
+            "id": "f5b592859b2a2efca8de56b1ed4d3c21",
             "romtype": "OFFICIAL",
-            "size": 2752853809,
-            "url": "https://cdn.axionos.org/Pong/axion-2.6-QUASIS-20260519-OFFICIAL-GMS-Pong.zip",
-            "version": "2.6"
+            "size": 2754476949,
+            "url": "https://cdn.axionos.org/Pong/axion-2.7-PROXIMA_BETA-20260613-OFFICIAL-GMS-Pong.zip",
+            "version": "2.7"
         }
     ]
 }
-
