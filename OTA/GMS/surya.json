@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769654914,
-            "filename": "axion-2.4-SOLACE-20260129-OFFICIAL-GMS-surya.zip",
-            "id": "d48bfb0ce9c57c13fad55f7d2fe8b3f1",
+            "datetime": 1781002004,
+            "filename": "axion-2.7-PROXIMA_BETA-20260609-OFFICIAL-GMS-surya.zip",
+            "id": "b2cf42d8b8cde201ba572e831de1bb5a",
             "romtype": "OFFICIAL",
-            "size": 2032141744,
-            "url": "https://sourceforge.net/projects/kardebayan/files/surya/axion-2.4-SOLACE-20260129-OFFICIAL-GMS-surya.zip",
-            "version": "2.4"
+            "size": 2477893417,
+            "url": "https://cdn.axionos.org/surya/axion-2.7-PROXIMA_BETA-20260609-OFFICIAL-GMS-surya.zip",
+            "version": "2.7"
         }
     ]
 }
-
