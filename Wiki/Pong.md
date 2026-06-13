@@ -81,4 +81,4 @@
 > For vanilla builds, GApps must be reflashed after every update, including OTA and recovery-based dirty flashes.
 
 ## Support / Bug Reports
-- **[Telegram Group](https://t.me/nukisystems)** 
+- **[Telegram Group](https://t.me/nukisystems_chat)** 
