@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1775972243,
-            "filename": "axion-2.5-REVERIE-20260412-OFFICIAL-VANILLA-RM6785.zip",
-            "id": "1ab27bb30c7d24ff556725d0aec28e4e",
+            "datetime": 1781413703,
+            "filename": "axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-VANILLA-RM6785.zip",
+            "id": "f1e27958aeea29928b00303cbb8aef66",
             "romtype": "OFFICIAL",
-            "size": 2030810851,
-            "url": "https://cdn.axionos.org/RM6785/axion-2.5-REVERIE-20260412-OFFICIAL-VANILLA-RM6785.zip",
-            "version": "2.5"
+            "size": 1992618086,
+            "url": "https://cdn.axionos.org/RM6785/axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-VANILLA-RM6785.zip",
+            "version": "2.7"
         }
     ]
 }
