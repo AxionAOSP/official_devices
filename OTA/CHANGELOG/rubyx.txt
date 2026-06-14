@@ -2,6 +2,25 @@ Device: Redmi Note 12 Pro / Plus / Discovery 5G
 Device code name : rubyx
 Device maintainer: Casanova.
 
+AxionOS v2.7 BETA
+Date :- 14/06/26
+=================
+- Fix Dolby crash on ID, CN and some GL devices
+- Fix broken VoWiFi and ViLTE for all carriers
+- Fix broken WPA3 WiFi in some cases
+- Switch Dolby Atmos blobs from Motorola to Sony
+- Update A34 connectivity blobs from A16
+- Fix battery drain caused by statsd
+- Disable proximity sensor usage during doze
+- Switch to AVC 3.1 for screen recording
+- Swap thermal navigation and streaming icons in parts
+- Drop useless patches, props and flags
+- Kernel: Improve shared tag set performance
+- Kernel: Tweak cpuidle governor for faster deep C-state entry
+- Kernel: Advertise maximum AKM suites for better WiFi compatibility
+- Kernel: Lower reclaim segment and threshold
+- Kernel: Silence CPU bring-up log spam
+
 AxionOS v2.6
 Date :- 23/05/26
 =================
