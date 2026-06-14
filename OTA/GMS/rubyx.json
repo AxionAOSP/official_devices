@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779464476,
-            "filename": "axion-2.6-QUASIS-20260522-OFFICIAL-GMS-rubyx.zip",
-            "id": "477082aa1ad76e487a9c1900ca22d872",
+            "datetime": 1781437706,
+            "filename": "axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-GMS-rubyx.zip",
+            "id": "42931696caec5963f1f26e119b33599e",
             "romtype": "OFFICIAL",
-            "size": 2435747424,
-            "url": "https://cdn.axionos.org/rubyx/axion-2.6-QUASIS-20260522-OFFICIAL-GMS-rubyx.zip",
-            "version": "2.6"
+            "size": 2442574700,
+            "url": "https://cdn.axionos.org/rubyx/axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-GMS-rubyx.zip",
+            "version": "2.7"
         }
     ]
 }
