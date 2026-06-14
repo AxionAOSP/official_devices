@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779514966,
-            "filename": "axion-2.6-QUASIS-20260523-OFFICIAL-CORE-spartan.zip",
-            "id": "e54f6b932577082fc34aed980c6d442b",
+            "datetime": 1781412399,
+            "filename": "axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-CORE-spartan.zip",
+            "id": "106a9929b1db30ecc7baad875a694912",
             "romtype": "OFFICIAL",
-            "size": 2502571428,
-            "url": "https://cdn.axionos.org/spartan/axion-2.6-QUASIS-20260523-OFFICIAL-CORE-spartan.zip",
-            "version": "2.6"
+            "size": 2504035611,
+            "url": "https://cdn.axionos.org/spartan/axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-CORE-spartan.zip",
+            "version": "2.7"
         }
     ]
 }
