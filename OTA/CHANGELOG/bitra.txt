@@ -1,0 +1,8 @@
+AxionOS v2.7
+
+Build Date : 14/06/2026
+- Brought back the Torch Strenght feature
+- OnePlus Camera patched to work with Google Photos
+- Added OEM charging detection, now correctly displays SuperDart charging during fast charging
+- Added more Dolby profiles
+- Ships with Entropy 1.5 kernel
