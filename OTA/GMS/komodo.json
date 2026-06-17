@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769476970,
-            "filename": "axion-2.4-SOLACE-20260127-OFFICIAL-GMS-komodo.zip",
-            "id": "bcb0b1160d83dff53ad0ff4c307022b2",
+            "datetime": 1781671818,
+            "filename": "axion-2.7-PROXIMA_BETA-20260617-OFFICIAL-GMS-komodo.zip",
+            "id": "44778e13f3d923a0e452b4cc43e8750d",
             "romtype": "OFFICIAL",
-            "size": 3377745421,
-            "url": "https://pixeldrain.com/api/file/HN2f2Wcf?download",
-            "version": "2.4"
+            "size": 3282518705,
+            "url": "https://cdn.axionos.org/komodo/axion-2.7-PROXIMA_BETA-20260617-OFFICIAL-GMS-komodo.zip",
+            "version": "2.7"
         }
     ]
 }

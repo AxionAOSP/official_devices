@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769479531,
-            "filename": "axion-2.4-SOLACE-20260127-OFFICIAL-GMS-tokay.zip",
-            "id": "62791590d9f44e967a0467448cac7032",
+            "datetime": 1781670643,
+            "filename": "axion-2.7-PROXIMA_BETA-20260617-OFFICIAL-GMS-tokay.zip",
+            "id": "75fdea03850958365ed3d09de8e435c5",
             "romtype": "OFFICIAL",
-            "size": 3361180610,
-            "url": "https://pixeldrain.com/api/file/4Eb73411?download",
-            "version": "2.4"
+            "size": 3264677381,
+            "url": "https://cdn.axionos.org/tokay/axion-2.7-PROXIMA_BETA-20260617-OFFICIAL-GMS-tokay.zip",
+            "version": "2.7"
         }
     ]
 }
