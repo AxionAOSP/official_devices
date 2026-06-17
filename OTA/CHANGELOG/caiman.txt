@@ -1,4 +1,16 @@
-AxionOS v2.2
+AxionOS v2.7
+
+Build Date : 17/06/2026
+- Fully integrated SystemUI & Settings Google (Smartspace disabled due to Nothing Clocks)
+- Fixed fetching device list in PIF (P10 series in list now)
+- Fixed spoofing as another device broke trickystore spoof
+- Added setting to adjust the UDFPS animation offset
+- Apple AirDrop suported
+- Google Play System Updates Supported
+- Fixed host override hostname to match stock release hostname
+- Custom BootAnimation supported
+- AllApps searchbar adjustable width
+
 Build Date : 11/14/2025
 Source Changes
 - Removed WIP columbus service causing SystemUI crash

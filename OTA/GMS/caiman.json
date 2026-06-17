@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769473701,
-            "filename": "axion-2.4-SOLACE-20260127-OFFICIAL-GMS-caiman.zip",
-            "id": "93daa67a0096dd4129485f8697b6700e",
+            "datetime": 1781665718,
+            "filename": "axion-2.7-PROXIMA_BETA-20260617-OFFICIAL-GMS-caiman.zip",
+            "id": "edae2e407bc405b3e2a32ce10529c6a3",
             "romtype": "OFFICIAL",
-            "size": 3372777005,
-            "url": "https://pixeldrain.com/api/filesystem/d7NoKEDj?download",
-            "version": "2.4"
+            "size": 3276121195,
+            "url": "https://cdn.axionos.org/caiman/axion-2.7-PROXIMA_BETA-20260617-OFFICIAL-GMS-caiman.zip",
+            "version": "2.7"
         }
     ]
 }
