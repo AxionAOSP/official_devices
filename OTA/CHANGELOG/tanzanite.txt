@@ -1,0 +1,7 @@
+Device: Redmi Note 14 4G
+Device code name: tanzanite
+Device maintainer: Ido
+
+Date - 20/06/2026
+=================
+- Initial release.
