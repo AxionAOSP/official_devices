@@ -2,6 +2,15 @@ Device: Redmi Note 12 Pro / Plus / Discovery 5G
 Device code name : rubyx
 Device maintainer: Casanova.
 
+AxionOS v2.7 BETA [hotfix]
+Date :- 21/06/26
+=================
+- Fix 4k30fps in micam for broken variants
+- Fix idle warming in some cases
+- Kernel: Fix random reboots due to heavy i/o operations
+- Kernel: Merge latest stable CIP patches upto cip133-st17
+- Kernel: Implement lz4 compression properly
+
 AxionOS v2.7 BETA
 Date :- 14/06/26
 =================
