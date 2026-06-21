@@ -408,7 +408,7 @@
       "maintainer_ids": [
         "hiroshi._(Superuser)"
       ],
-      "support_group": "https://t.me/nukisystems",
+      "support_group": "https://t.me/nukisystems_chat",
       "images": {
         "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/Pong.webp",
         "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/pong.webp",
@@ -420,6 +420,48 @@
       },
       "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/Pong.txt",
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/Pong.md"
+    },
+    {
+      "codename": "Pacman",
+      "name": "Nothing Phone 2a",
+      "brand": "nothing",
+      "status": "active",
+      "maintainer_ids": [
+        "Shravan"
+      ],
+      "support_group": "https://t.me/exediscuss",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/Pacman.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/pacman.webp",
+        "fallback": "https://cdn.shopify.com/s/files/1/0585/2479/5086/products/black-1.png?v=1709369706"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/Pacman.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/Pacman.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/Pacman.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/Pacman.md"
+    },
+    {
+      "codename": "PacmanPro",
+      "name": "Nothing Phone 2a Plus",
+      "brand": "nothing",
+      "status": "active",
+      "maintainer_ids": [
+        "Shravan"
+      ],
+      "support_group": "https://t.me/exediscuss",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/PacmanPro.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/pacmanpro.webp",
+        "fallback": "https://cdn.shopify.com/s/files/1/0585/2479/5086/products/black-1.png?v=1709369706"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/PacmanPro.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/PacmanPro.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/PacmanPro.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/PacmanPro.md"
     },
     {
       "codename": "instantnoodle",

@@ -21,6 +21,8 @@
 | **Motorola G34/45 5G** | `fogos` |
 | **Motorola G54** | `cancunf` |
 | **Nothing Phone (2)** | `Pong` |
+| **Nothing Phone 2a** | `Pacman` |
+| **Nothing Phone 2a Plus** | `PacmanPro` |
 | **Oneplus 8** | `instantnoodle` |
 | **Oneplus 8 Pro** | `instantnoodlep` |
 | **Oneplus 8T** | `kebab` |
@@ -90,6 +92,7 @@
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro (`LG8n`), TECNO POVA 5 (`LH7n`))
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4 (`S666LN`))
 - **[Ido](https://github.com/xyzuniverse)** (Redmi Note 14 4G (`tanzanite`))
+- **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
 
 ## 🛠 Maintainer and device registry
 
