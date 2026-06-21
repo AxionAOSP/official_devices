@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1781430448,
-            "filename": "axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-VANILLA-rubyx.zip",
-            "id": "7b04de1ba4c1ffac3166459e7f2b2c6c",
+            "datetime": 1781980395,
+            "filename": "axion-2.7-PROXIMA_BETA-20260620-OFFICIAL-VANILLA-rubyx.zip",
+            "id": "3f57657453b8069f5590845e4e24468b",
             "romtype": "OFFICIAL",
-            "size": 2059745973,
-            "url": "https://cdn.axionos.org/rubyx/axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-VANILLA-rubyx.zip",
+            "size": 2060963990,
+            "url": "https://cdn.axionos.org/rubyx/axion-2.7-PROXIMA_BETA-20260620-OFFICIAL-VANILLA-rubyx.zip",
             "version": "2.7"
         }
     ]
