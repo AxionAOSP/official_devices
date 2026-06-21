@@ -195,6 +195,11 @@
       "id": "ido@rexprjkt°",
       "name": "Ido",
       "github_username": "xyzuniverse"
+    },
+    {
+      "id": "Shravan",
+      "name": "Shravan",
+      "github_username": "DarkDolphin1"
     }
   ],
   "devices": [
@@ -389,6 +394,24 @@
       ],
       "support_group": "https://t.me/nukisystems_chat",
       "image_url": "https://wiki.lineageos.org/images/devices/Pong.png"
+    },
+    {
+      "codename": "Pacman",
+      "name": "Nothing Phone 2a",
+      "maintainers": [
+        "Shravan"
+      ],
+      "support_group": "https://t.me/exediscuss",
+      "image_url": "https://cdn.shopify.com/s/files/1/0585/2479/5086/products/black-1.png?v=1709369706"
+    },
+    {
+      "codename": "PacmanPro",
+      "name": "Nothing Phone 2a Plus",
+      "maintainers": [
+        "Shravan"
+      ],
+      "support_group": "https://t.me/exediscuss",
+      "image_url": "https://cdn.shopify.com/s/files/1/0585/2479/5086/products/black-1.png?v=1709369706"
     },
     {
       "codename": "instantnoodle",

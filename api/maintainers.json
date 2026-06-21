@@ -337,6 +337,15 @@
       "devices": [
         "tanzanite"
       ]
+    },
+    {
+      "id": "Shravan",
+      "name": "Shravan",
+      "github_username": "DarkDolphin1",
+      "devices": [
+        "Pacman",
+        "PacmanPro"
+      ]
     }
   ]
 }
