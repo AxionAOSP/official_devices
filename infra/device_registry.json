@@ -806,6 +806,15 @@
       ],
       "support_group": "https://t.me/itel_rs4",
       "image_url": "https://github.com/KimelaZX/official_devices/blob/main/OTA/Banners/devices/S666LN.webp?raw=true"
+    },
+    {
+      "codename": "X01BD",
+      "name": "ASUS ZenFone Max Pro M2",
+      "maintainers": [
+        "Debayan_Kar"
+      ],
+      "support_group": "https://t.me/AxionOS_android_chat",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-pro-m2-zb631kl-2.jpg"
     }
   ]
 }
