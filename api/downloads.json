@@ -1365,6 +1365,27 @@
       },
       "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/S666LN.txt",
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/S666LN.md"
+    },
+    {
+      "codename": "X01BD",
+      "name": "ASUS ZenFone Max Pro M2",
+      "brand": "other",
+      "status": "active",
+      "maintainer_ids": [
+        "Debayan_Kar"
+      ],
+      "support_group": "https://t.me/AxionOS_android_chat",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/X01BD.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/x01bd.webp",
+        "fallback": "https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-pro-m2-zb631kl-2.jpg"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/X01BD.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/X01BD.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/X01BD.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/X01BD.md"
     }
   ]
 }

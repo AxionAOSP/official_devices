@@ -59,6 +59,7 @@
 | **TECNO POVA 4 Pro** | `LG8n` |
 | **TECNO POVA 5** | `LH7n` |
 | **Itel RS4** | `S666LN` |
+| **ASUS ZenFone Max Pro M2** | `X01BD` |
 
 ## 👤 Maintainers
 - **[rmp22](https://github.com/rmp22)** (Google Pixel 6 (`oriole`), Google Pixel 6a (`bluejay`), Google Pixel 6 Pro (`raven`), Google Pixel 7 (`panther`), Google Pixel 7a (`lynx`), Google Pixel 7 Pro (`cheetah`), Google Pixel 8 (`shiba`), Google Pixel 8a (`akita`), Google Pixel 8 Pro (`husky`), Google Pixel Fold (`felix`))
@@ -77,7 +78,7 @@
 - **[zenin1504](https://github.com/zenin1504)** (POCO F6 (`peridot`))
 - **[Zarathos_Ghost_Rider](https://github.com/Zarathos30)** (POCO F7 (`onyx`))
 - **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite (`miatoll`))
-- **[Debayan Kar](https://github.com/kardebayan)** (POCO X3 / POCO X3 NFC (`surya`))
+- **[Debayan Kar](https://github.com/kardebayan)** (POCO X3 / POCO X3 NFC (`surya`), ASUS ZenFone Max Pro M2 (`X01BD`))
 - **[Saikrishna](https://github.com/Saikrishna1504)** (POCO X6 Pro 5G (`duchamp`), Redmi Note 8 Pro (`begonia`))
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5 series (`r5x`), Redmi Note 7/7s (`lavender`))
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/7/Narzo Unified (`RM6785`))
