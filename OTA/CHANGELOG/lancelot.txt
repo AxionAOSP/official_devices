@@ -1,0 +1,3 @@
+AxionOS v2.7 (BETA) - 23/06/2026
+----
+- Initial Build
