@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1780940217,
-      "filename": "axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-CORE-onyx.zip",
-      "id": "61daecfaaaed8f955fc7b9f659ae84f4",
+      "datetime": 1782230525,
+      "filename": "axion-2.7-PROXIMA_BETA-20260623-OFFICIAL-CORE-onyx.zip",
+      "id": "2e5b32df4e1cd4059a7b7bc8320bd414",
       "romtype": "OFFICIAL",
-      "size": 3743296597,
-      "url": "https://cdn.axionos.org/onyx/axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-CORE-onyx.zip",
+      "size": 4146050165,
+      "url": "https://cdn.axionos.org/onyx/axion-2.7-PROXIMA_BETA-20260623-OFFICIAL-CORE-onyx.zip",
       "version": "2.7"
     }
   ]

@@ -3,11 +3,36 @@ Device code name: onyx
 Device maintainer: Zarathos_Ghost_Rider
 
 Axion v2.7
-Date - 08/06/2026
-- Source upstream
-- Set audio offload buffer size to 64KB for better balance between latency and efficiency.
-- Removed useless GPU profiling property.
-- Reduced surfaceflinger minimum uclamp value.
-- Reset readahead values to always 128 for improved I/O performance.
-- Added missing USB microphone profiles in primary audio module config to fix setDevice failed errors.
-- Allowed vendor_init to modify proc_sched.
+Date - 23/06/2026
+- Fix AxionFx effects config loading
+- Panic to recovery, not bootloader
+- Set HQ mode as default
+- Disable USAGE_VIDEO_ENCODE ImageReader flag
+- Setup DeviceAsWebcam
+- Fix VoIP volume control during calls and VoIP apps (WhatsApp, etc.)
+- Add nodes to hide Magisk in banking apps
+- Use HintManager for HWUI
+- Restrict mi_thermald from CPU hotplugging
+- Allow camera to skip high frame rate checks
+- Restore surfaceflinger min uclamp value to default (revert previous reduction)
+- Ship KmInstallKeybox
+- Reduce system server verbosity
+- Set ART debug to release mode
+- Allow HFR for Miui Camera
+- Disable FRP
+- Allow hal_power_default to write to WALT cpufreq nodes
+- Include MiuiCamera
+- Patch blobs to allocate GraphicBuffer with new size
+- Move device identifier props to system
+- Add missing camera sensor blobs from OS3.0.7.0.WOLCNXM
+- Allow camera hal to call intentaware service
+- Disable lazy rcu via cmdline
+- Fix window_service denial
+- Fix TWS+ bluetooth property and camera MLS denial
+- Fix runtime denials for thermal, bluetooth, and proc_vm
+- Fix neverallow violations
+- Dontaudit untrusted_app filesystem scans
+- Fix AVC denials for sensors, kernel tunables, Xiaomi devices, and camera HAL
+- Exempt system_server from treble data neverallow
+- Dontaudit gmscore_app adbd_prop read
+- Grant system_server access to vendor display data
