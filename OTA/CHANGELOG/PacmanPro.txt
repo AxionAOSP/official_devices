@@ -1,0 +1,9 @@
+Device: Nothing Phone (2a) Plus
+Device code name: PacmanPro
+Device maintainer: Shravan
+
+Axion v2.7
+Date - 24/06/2026
+- Initial release
+- Switch to Vulkan renderer 
+- Implement AxBurstEngine
