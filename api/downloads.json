@@ -926,6 +926,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/RM6785.md"
     },
     {
+      "codename": "even",
+      "name": "Realme C25/S/N50A",
+      "brand": "realme",
+      "status": "active",
+      "maintainer_ids": [
+        "DumbDragon"
+      ],
+      "support_group": "https://t.me/c25series_official",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/even.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/even.webp",
+        "fallback": "https://example.com/even.webp"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/even.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/even.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/even.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/even.md"
+    },
+    {
       "codename": "bitra",
       "name": "Realme GT Neo 2",
       "brand": "realme",

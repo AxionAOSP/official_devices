@@ -347,6 +347,14 @@
         "Pacman",
         "PacmanPro"
       ]
+    },
+    {
+      "id": "DumbDragon",
+      "name": "DumbDragon",
+      "github_username": "Badmaneers",
+      "devices": [
+        "even"
+      ]
     }
   ]
 }
