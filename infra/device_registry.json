@@ -200,6 +200,11 @@
       "id": "Shravan",
       "name": "Shravan",
       "github_username": "DarkDolphin1"
+    },
+    {
+      "id": "DumbDragon",
+      "name": "DumbDragon",
+      "github_username": "Badmaneers"
     }
   ],
   "devices": [
@@ -613,6 +618,15 @@
       ],
       "support_group": "https://t.me/RM6785_Chat",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/realme/realme-6-1.jpg"
+    },
+    {
+      "codename": "even",
+      "name": "Realme C25/S/N50A",
+      "maintainers": [
+        "DumbDragon"
+      ],
+      "support_group": "https://t.me/c25series_official",
+      "image_url": "https://example.com/even.webp"
     },
     {
       "codename": "bitra",

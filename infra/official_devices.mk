@@ -39,6 +39,7 @@ AXION_OFFICIAL_DEVICES := \
     rodin \
     r5x \
     RM6785 \
+    even \
     bitra \
     spartan \
     haydn \
@@ -98,6 +99,7 @@ AXION_OFFICIAL_MAINTAINERS_duchamp := Sai_Krishna
 AXION_OFFICIAL_MAINTAINERS_rodin := SENX|センクス
 AXION_OFFICIAL_MAINTAINERS_r5x := Amrito_Karmokar
 AXION_OFFICIAL_MAINTAINERS_RM6785 := 𝙴𝙻𝙾𝙷𝙸𝙼
+AXION_OFFICIAL_MAINTAINERS_even := DumbDragon
 AXION_OFFICIAL_MAINTAINERS_bitra := Bijoy
 AXION_OFFICIAL_MAINTAINERS_spartan := Bijoy
 AXION_OFFICIAL_MAINTAINERS_haydn := Lucifer

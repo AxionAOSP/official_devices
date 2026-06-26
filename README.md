@@ -42,6 +42,7 @@
 | **POCO X7 Pro 5G** | `rodin` |
 | **Realme 5 series** | `r5x` |
 | **Realme 6/7/Narzo Unified** | `RM6785` |
+| **Realme C25/S/N50A** | `even` |
 | **Realme GT Neo 2** | `bitra` |
 | **Realme GT Neo 3T** | `spartan` |
 | **Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+** | `haydn` |
@@ -94,6 +95,7 @@
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4 (`S666LN`))
 - **[Ido](https://github.com/xyzuniverse)** (Redmi Note 14 4G (`tanzanite`))
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
+- **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
 
 ## 🛠 Maintainer and device registry
 
