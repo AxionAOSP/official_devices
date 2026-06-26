@@ -1,0 +1,5 @@
+AxionOS v2.7_BETA
+Build Date : 26/06/2026
+- Official Device addition
+- Fixed OTG now working
+- Enabled blur by-default
