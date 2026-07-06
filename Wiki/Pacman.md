@@ -34,20 +34,27 @@ fastboot flash boot <drag-&-drop-boot.img>
 ```
 fastboot flash vendor_boot <drag-&-drop-vendor_boot.img>
 ```
-4. Reboot to **recovery** using:
+
+4. if you are flashing from stock ROM , wipe super empty as well 
+
+```
+fastboot wipe-super <drag-&-drop-super_empty.img>
+```
+
+5. Reboot to **recovery** using:
 
 ```
 fastboot reboot recovery
 ```
-5. Select **Factory reset → Format data/factory reset**.
-6. Select **Apply update → Apply from ADB**, then sideload the rom using:
+6. Select **Factory reset → Format data/factory reset**.
+7. Select **Apply update → Apply from ADB**, then sideload the rom using:
 
 ```
 adb sideload <drag-&-drop-rom.zip>
 ```
-7. After sideload completes, select **YES** to reboot if you want extra packages to install and **NO** if you have none.
-8. Select **Factory reset → Format data/factory reset**.
-9. Select **Reboot system now** and **Enjoy**.
+8. After sideload completes, select **YES** to reboot if you want extra packages to install and **NO** if you have none.
+9. Select **Factory reset → Format data/factory reset**.
+10. Select **Reboot system now** and **Enjoy**.
 ---
 
 ## Update (dirty flashing)
