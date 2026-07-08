@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779034557,
-            "filename": "axion-2.6-QUASIS-20260517-OFFICIAL-VANILLA-S666LN.zip",
-            "id": "1a8ac23bcc89dce65f335539f33e1ff1",
+            "datetime": 1783481934,
+            "filename": "axion-2.7-PROXIMA_BETA-20260708034246-OFFICIAL-VANILLA-S666LN.zip",
+            "id": "c75c001123cc4b1fa6650f05e62a39f0",
             "romtype": "OFFICIAL",
-            "size": 1888977307,
-            "url": "https://cdn.axionos.org/S666LN/axion-2.6-QUASIS-20260517-OFFICIAL-VANILLA-S666LN.zip",
-            "version": "2.6"
+            "size": 1891935398,
+            "url": "https://cdn.axionos.org/S666LN/axion-2.7-PROXIMA_BETA-20260708034246-OFFICIAL-VANILLA-S666LN.zip",
+            "version": "2.7"
         }
     ]
 }
