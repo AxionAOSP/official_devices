@@ -18,6 +18,7 @@
 | **Google Pixel 10 Pro** | `blazer` |
 | **Google Pixel 10 Pro XL** | `mustang` |
 | **Google Pixel Fold** | `felix` |
+| **Moto G84 5G** | `bangkk` |
 | **Motorola G34/45 5G** | `fogos` |
 | **Motorola G54** | `cancunf` |
 | **Nothing Phone (2)** | `Pong` |
@@ -96,6 +97,7 @@
 - **[Ido](https://github.com/xyzuniverse)** (Redmi Note 14 4G (`tanzanite`))
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
 - **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
+- **[Zediss](https://github.com/zedisspp)** (Moto G84 5G (`bangkk`))
 
 ## 🛠 Maintainer and device registry
 

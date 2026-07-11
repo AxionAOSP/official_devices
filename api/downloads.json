@@ -338,6 +338,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/tangorpro.md"
     },
     {
+      "codename": "bangkk",
+      "name": "Moto G84 5G",
+      "brand": "motorola",
+      "status": "active",
+      "maintainer_ids": [
+        "Zediss"
+      ],
+      "support_group": "https://t.me/zedissppchat",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/bangkk.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/bangkk.webp",
+        "fallback": "https://wiki.lineageos.org/images/devices/bangkk.png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/bangkk.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/bangkk.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/bangkk.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/bangkk.md"
+    },
+    {
       "codename": "fogos",
       "name": "Motorola G34/45 5G",
       "brand": "motorola",

@@ -15,6 +15,7 @@ AXION_OFFICIAL_DEVICES := \
     blazer \
     mustang \
     felix \
+    bangkk \
     fogos \
     cancunf \
     Pong \
@@ -75,6 +76,7 @@ AXION_OFFICIAL_MAINTAINERS_frankel := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_blazer := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_mustang := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_felix := rmp
+AXION_OFFICIAL_MAINTAINERS_bangkk := Zediss
 AXION_OFFICIAL_MAINTAINERS_fogos := Byben
 AXION_OFFICIAL_MAINTAINERS_cancunf := Ayan
 AXION_OFFICIAL_MAINTAINERS_Pong := hiroshi._(Superuser)
