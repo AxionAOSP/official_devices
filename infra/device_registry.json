@@ -205,6 +205,11 @@
       "id": "DumbDragon",
       "name": "DumbDragon",
       "github_username": "Badmaneers"
+    },
+    {
+      "id": "Zediss",
+      "name": "Zediss",
+      "github_username": "zedisspp"
     }
   ],
   "devices": [
@@ -362,6 +367,15 @@
       "status": "inactive",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/tangorpro.png"
+    },
+    {
+      "codename": "bangkk",
+      "name": "Moto G84 5G",
+      "maintainers": [
+        "Zediss"
+      ],
+      "support_group": "https://t.me/zedissppchat",
+      "image_url": "https://wiki.lineageos.org/images/devices/bangkk.png"
     },
     {
       "codename": "fogos",
