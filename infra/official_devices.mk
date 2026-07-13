@@ -46,6 +46,7 @@ AXION_OFFICIAL_DEVICES := \
     haydn \
     lancelot \
     raphael \
+    xaga \
     lavender \
     violet \
     begonia \
@@ -107,6 +108,7 @@ AXION_OFFICIAL_MAINTAINERS_spartan := Bijoy
 AXION_OFFICIAL_MAINTAINERS_haydn := Lucifer
 AXION_OFFICIAL_MAINTAINERS_lancelot := doissM
 AXION_OFFICIAL_MAINTAINERS_raphael := Muhammad_Al-Arabi
+AXION_OFFICIAL_MAINTAINERS_xaga := Jefino9488
 AXION_OFFICIAL_MAINTAINERS_lavender := Amrito_Karmokar
 AXION_OFFICIAL_MAINTAINERS_violet := Joker-V2
 AXION_OFFICIAL_MAINTAINERS_begonia := Sai_Krishna
