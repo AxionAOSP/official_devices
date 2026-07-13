@@ -49,6 +49,7 @@
 | **Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+** | `haydn` |
 | **Redmi 9** | `lancelot` |
 | **Redmi K20 Pro / Mi 9T Pro** | `raphael` |
+| **Redmi K50i** | `xaga` |
 | **Redmi Note 7/7s** | `lavender` |
 | **Redmi Note 7 Pro** | `violet` |
 | **Redmi Note 8 Pro** | `begonia` |
@@ -98,6 +99,7 @@
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
 - **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
 - **[Zediss](https://github.com/zedisspp)** (Moto G84 5G (`bangkk`))
+- **[Jefino](https://github.com/Jefino9488)** (Redmi K50i (`xaga`))
 
 ## 🛠 Maintainer and device registry
 
