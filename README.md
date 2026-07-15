@@ -54,6 +54,7 @@
 | **Redmi Note 7 Pro** | `violet` |
 | **Redmi Note 8 Pro** | `begonia` |
 | **Redmi Note 9** | `merlinx` |
+| **Redmi Note 10 Pro / Pro Max** | `sweet` |
 | **Redmi Note 12 Pro / Plus / Discovery 5G** | `rubyx` |
 | **Redmi Note 14 4G** | `tanzanite` |
 | **Xiaomi Pad 5** | `nabu` |
@@ -88,6 +89,7 @@
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 2 (`bitra`), Realme GT Neo 3T (`spartan`))
 - **[doissM](https://github.com/mk7x7)** (Redmi 9 (`lancelot`), Redmi Note 9 (`merlinx`))
 - **[Joker-V2](https://github.com/Joker-V2)** (Redmi Note 7 Pro (`violet`))
+- **[therealmharc](https://github.com/therealmharc)** (Redmi Note 10 Pro / Pro Max (`sweet`))
 - **[Casanova.](https://github.com/rajdeep-3305)** (Redmi Note 12 Pro / Plus / Discovery 5G (`rubyx`))
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro (`raphael`))
 - **[Lucifer](https://github.com/Never-Alive)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+ (`haydn`))

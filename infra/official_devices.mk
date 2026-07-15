@@ -51,6 +51,7 @@ AXION_OFFICIAL_DEVICES := \
     violet \
     begonia \
     merlinx \
+    sweet \
     rubyx \
     tanzanite \
     nabu \
@@ -113,6 +114,7 @@ AXION_OFFICIAL_MAINTAINERS_lavender := Amrito_Karmokar
 AXION_OFFICIAL_MAINTAINERS_violet := Joker-V2
 AXION_OFFICIAL_MAINTAINERS_begonia := Sai_Krishna
 AXION_OFFICIAL_MAINTAINERS_merlinx := doissM
+AXION_OFFICIAL_MAINTAINERS_sweet := therealmharc
 AXION_OFFICIAL_MAINTAINERS_rubyx := Casanova.
 AXION_OFFICIAL_MAINTAINERS_tanzanite := ido@rexprjkt°
 AXION_OFFICIAL_MAINTAINERS_nabu := °⊥⋊ɹ∀°
