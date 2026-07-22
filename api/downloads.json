@@ -632,6 +632,48 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/giuliac.md"
     },
     {
+      "codename": "macan",
+      "name": "Oneplus 15R",
+      "brand": "oneplus",
+      "status": "active",
+      "maintainer_ids": [
+        "Paul"
+      ],
+      "support_group": "https://t.me/AxMacanSupport",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/macan.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/macan.webp",
+        "fallback": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-15r-3.jpg"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/macan.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/macan.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/macan.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/macan.md"
+    },
+    {
+      "codename": "macanc",
+      "name": "Oneplus Ace 6T",
+      "brand": "oneplus",
+      "status": "active",
+      "maintainer_ids": [
+        "Paul"
+      ],
+      "support_group": "https://t.me/AxMacancSupport",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/macanc.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/macanc.webp",
+        "fallback": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-15r-3.jpg"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/macanc.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/macanc.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/macanc.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/macanc.md"
+    },
+    {
       "codename": "avicii",
       "name": "Oneplus Nord",
       "brand": "oneplus",

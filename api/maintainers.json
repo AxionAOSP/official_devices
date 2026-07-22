@@ -93,6 +93,15 @@
       ]
     },
     {
+      "id": "Paul",
+      "name": "Paul",
+      "github_username": "paulblazer15",
+      "devices": [
+        "macan",
+        "macanc"
+      ]
+    },
+    {
       "id": "Sreeshankar_K",
       "name": "Sreeshankar K",
       "github_username": "sreeshankark",

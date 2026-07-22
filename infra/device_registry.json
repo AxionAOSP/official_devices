@@ -47,6 +47,11 @@
       "github_username": "genoxci-dev"
     },
     {
+      "id": "Paul",
+      "name": "Paul",
+      "github_username": "paulblazer15"
+    },
+    {
       "id": "Sreeshankar_K",
       "name": "Sreeshankar K",
       "github_username": "sreeshankark"
@@ -504,6 +509,24 @@
       ],
       "support_group": "https://t.me/+AjwuK7p-rJ44ZmU1",
       "image_url": "https://wiki.lineageos.org/images/devices/giuliac.png"
+    },
+    {
+      "codename": "macan",
+      "name": "Oneplus 15R",
+      "maintainers": [
+        "Paul"
+      ],
+      "support_group": "https://t.me/AxMacanSupport",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-15r-3.jpg"
+    },
+    {
+      "codename": "macanc",
+      "name": "Oneplus Ace 6T",
+      "maintainers": [
+        "Paul"
+      ],
+      "support_group": "https://t.me/AxMacanSupport",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-6t-2.jpg"
     },
     {
       "codename": "avicii",
