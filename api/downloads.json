@@ -569,6 +569,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/lemonades.md"
     },
     {
+      "codename": "dodge",
+      "name": "Oneplus 13",
+      "brand": "oneplus",
+      "status": "active",
+      "maintainer_ids": [
+        "Kill3rEz"
+      ],
+      "support_group": "https://t.me/OP13CustomRoms",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/dodge.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/dodge.webp",
+        "fallback": "https://wiki.lineageos.org/images/devices/dodge.png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/dodge.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/dodge.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/dodge.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/dodge.md"
+    },
+    {
       "codename": "giulia",
       "name": "Oneplus 13R",
       "brand": "oneplus",

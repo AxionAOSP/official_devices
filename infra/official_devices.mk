@@ -25,6 +25,7 @@ AXION_OFFICIAL_DEVICES := \
     instantnoodlep \
     kebab \
     lemonades \
+    dodge \
     giulia \
     giuliac \
     avicii \
@@ -88,6 +89,7 @@ AXION_OFFICIAL_MAINTAINERS_instantnoodle := Itachi
 AXION_OFFICIAL_MAINTAINERS_instantnoodlep := Itachi
 AXION_OFFICIAL_MAINTAINERS_kebab := Itachi
 AXION_OFFICIAL_MAINTAINERS_lemonades := Itachi
+AXION_OFFICIAL_MAINTAINERS_dodge := Kill3rEz
 AXION_OFFICIAL_MAINTAINERS_giulia := Genoxci
 AXION_OFFICIAL_MAINTAINERS_giuliac := Genoxci
 AXION_OFFICIAL_MAINTAINERS_avicii := Sreeshankar_K

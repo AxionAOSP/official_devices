@@ -28,6 +28,7 @@
 | **Oneplus 8 Pro** | `instantnoodlep` |
 | **Oneplus 8T** | `kebab` |
 | **Oneplus 9R** | `lemonades` |
+| **Oneplus 13** | `dodge` |
 | **Oneplus 13R** | `giulia` |
 | **Oneplus Ace 5** | `giuliac` |
 | **Oneplus Nord** | `avicii` |
@@ -102,6 +103,7 @@
 - **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
 - **[Zediss](https://github.com/zedisspp)** (Moto G84 5G (`bangkk`))
 - **[Jefino](https://github.com/Jefino9488)** (Redmi K50i (`xaga`))
+- **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
 
 ## 🛠 Maintainer and device registry
 

@@ -215,6 +215,11 @@
       "id": "Jefino9488",
       "name": "Jefino",
       "github_username": "Jefino9488"
+    },
+    {
+      "id": "Kill3rEz",
+      "name": "Kill3rEz",
+      "github_username": "Kill3rEz"
     }
   ],
   "devices": [
@@ -472,6 +477,15 @@
       ],
       "support_group": "https://t.me/ItachiRomSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/lemonades.png"
+    },
+    {
+      "codename": "dodge",
+      "name": "Oneplus 13",
+      "maintainers": [
+        "Kill3rEz"
+      ],
+      "support_group": "https://t.me/OP13CustomRoms",
+      "image_url": "https://wiki.lineageos.org/images/devices/dodge.png"
     },
     {
       "codename": "giulia",
