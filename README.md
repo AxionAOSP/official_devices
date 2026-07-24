@@ -31,6 +31,8 @@
 | **Oneplus 13** | `dodge` |
 | **Oneplus 13R** | `giulia` |
 | **Oneplus Ace 5** | `giuliac` |
+| **Oneplus 15R** | `macan` |
+| **Oneplus Ace 6T** | `macanc` |
 | **Oneplus Nord** | `avicii` |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro` |
 | **POCO F3/Mi 11X/K40** | `alioth` |
@@ -75,6 +77,7 @@
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2) (`Pong`))
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 (`instantnoodle`), Oneplus 8 Pro (`instantnoodlep`), Oneplus 8T (`kebab`), Oneplus 9R (`lemonades`))
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R (`giulia`), Oneplus Ace 5 (`giuliac`), Samsung Galaxy A52s 5G (`a52sxq`))
+- **[Paul](https://github.com/paulblazer15)** (Oneplus 15R (`macan`), Oneplus Ace 6T (`macanc`))
 - **[Sreeshankar K](https://github.com/sreeshankark)** (Oneplus Nord (`avicii`))
 - **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G (`oscaro`))
 - **[Yaseakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40 (`alioth`))

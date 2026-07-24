@@ -28,6 +28,8 @@ AXION_OFFICIAL_DEVICES := \
     dodge \
     giulia \
     giuliac \
+    macan \
+    macanc \
     avicii \
     oscaro \
     alioth \
@@ -92,6 +94,8 @@ AXION_OFFICIAL_MAINTAINERS_lemonades := Itachi
 AXION_OFFICIAL_MAINTAINERS_dodge := Kill3rEz
 AXION_OFFICIAL_MAINTAINERS_giulia := Genoxci
 AXION_OFFICIAL_MAINTAINERS_giuliac := Genoxci
+AXION_OFFICIAL_MAINTAINERS_macan := Paul
+AXION_OFFICIAL_MAINTAINERS_macanc := Paul
 AXION_OFFICIAL_MAINTAINERS_avicii := Sreeshankar_K
 AXION_OFFICIAL_MAINTAINERS_oscaro := Chethan
 AXION_OFFICIAL_MAINTAINERS_alioth := Yaseakun
