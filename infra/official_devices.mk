@@ -15,9 +15,8 @@ AXION_OFFICIAL_DEVICES := \
     blazer \
     mustang \
     felix \
-    bangkk \
     fogos \
-    cancunf \
+    bangkk \
     Pong \
     Pacman \
     PacmanPro \
@@ -27,8 +26,8 @@ AXION_OFFICIAL_DEVICES := \
     lemonades \
     dodge \
     giulia \
-    giuliac \
     macan \
+    giuliac \
     macanc \
     avicii \
     oscaro \
@@ -81,9 +80,8 @@ AXION_OFFICIAL_MAINTAINERS_frankel := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_blazer := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_mustang := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_felix := rmp
-AXION_OFFICIAL_MAINTAINERS_bangkk := Zediss
 AXION_OFFICIAL_MAINTAINERS_fogos := Byben
-AXION_OFFICIAL_MAINTAINERS_cancunf := Ayan
+AXION_OFFICIAL_MAINTAINERS_bangkk := Zediss
 AXION_OFFICIAL_MAINTAINERS_Pong := hiroshi._(Superuser)
 AXION_OFFICIAL_MAINTAINERS_Pacman := Shravan
 AXION_OFFICIAL_MAINTAINERS_PacmanPro := Shravan
@@ -93,8 +91,8 @@ AXION_OFFICIAL_MAINTAINERS_kebab := Itachi
 AXION_OFFICIAL_MAINTAINERS_lemonades := Itachi
 AXION_OFFICIAL_MAINTAINERS_dodge := Kill3rEz
 AXION_OFFICIAL_MAINTAINERS_giulia := Genoxci
-AXION_OFFICIAL_MAINTAINERS_giuliac := Genoxci
 AXION_OFFICIAL_MAINTAINERS_macan := Paul
+AXION_OFFICIAL_MAINTAINERS_giuliac := Genoxci
 AXION_OFFICIAL_MAINTAINERS_macanc := Paul
 AXION_OFFICIAL_MAINTAINERS_avicii := Sreeshankar_K
 AXION_OFFICIAL_MAINTAINERS_oscaro := Chethan

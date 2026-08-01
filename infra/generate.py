@@ -1,5 +1,6 @@
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -344,6 +345,34 @@ def generate_all(registry):
 
 
 def main():
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "drop":
+            if len(sys.argv) < 3:
+                print("Error: Specify a codename to drop.", file=sys.stderr)
+                sys.exit(1)
+            codename = sys.argv[2]
+            registry = load_registry()
+            
+            # Find the device with the given codename
+            found = False
+            for device in registry["devices"]:
+                if device["codename"] == codename:
+                    device["status"] = "inactive"
+                    device.pop("official", None)
+                    found = True
+                    break
+            
+            if not found:
+                print(f"Error: Device codename '{codename}' not found in registry.", file=sys.stderr)
+                sys.exit(1)
+                
+            generate_all(registry)
+            print(f"Successfully marked '{codename}' as inactive and regenerated all files.")
+            return
+        else:
+            print(f"Error: Unknown argument '{sys.argv[1]}'. Did you mean 'drop'?", file=sys.stderr)
+            sys.exit(1)
+
     generate_all(load_registry())
 
 

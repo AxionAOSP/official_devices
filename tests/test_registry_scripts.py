@@ -314,3 +314,70 @@ def test_onboarding_rejects_duplicate_codename(temp_repo, monkeypatch, capsys):
 
     assert maintainer_onboarding.main() == 1
     assert "device alpha already exists" in capsys.readouterr().err
+
+
+def test_generate_drop_subcommand(temp_repo, monkeypatch):
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        [
+            "generate.py",
+            "drop",
+            "alpha",
+        ],
+    )
+
+    generate.main()
+
+    registry = read_json(temp_repo / "infra" / "device_registry.json")
+    alpha = next(device for device in registry["devices"] if device["codename"] == "alpha")
+    assert alpha["status"] == "inactive"
+
+    # Verify that it also regenerated outputs (e.g. alpha is removed from active devices list)
+    assert "alpha" not in (temp_repo / "OTA" / "axion.devices").read_text(encoding="utf-8")
+
+
+def test_generate_drop_invalid_codename(temp_repo, monkeypatch):
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        [
+            "generate.py",
+            "drop",
+            "nonexistent",
+        ],
+    )
+
+    with pytest.raises(SystemExit) as excinfo:
+        generate.main()
+    assert excinfo.value.code == 1
+
+
+def test_generate_drop_missing_codename(temp_repo, monkeypatch):
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        [
+            "generate.py",
+            "drop",
+        ],
+    )
+
+    with pytest.raises(SystemExit) as excinfo:
+        generate.main()
+    assert excinfo.value.code == 1
+
+
+def test_generate_invalid_subcommand(temp_repo, monkeypatch):
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        [
+            "generate.py",
+            "invalid",
+        ],
+    )
+
+    with pytest.raises(SystemExit) as excinfo:
+        generate.main()
+    assert excinfo.value.code == 1

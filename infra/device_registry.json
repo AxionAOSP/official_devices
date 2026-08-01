@@ -384,15 +384,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/tangorpro.png"
     },
     {
-      "codename": "bangkk",
-      "name": "Moto G84 5G",
-      "maintainers": [
-        "Zediss"
-      ],
-      "support_group": "https://t.me/zedissppchat",
-      "image_url": "https://wiki.lineageos.org/images/devices/bangkk.png"
-    },
-    {
       "codename": "fogos",
       "name": "Motorola G34/45 5G",
       "maintainers": [
@@ -407,8 +398,18 @@
       "maintainers": [
         "Ayan"
       ],
+      "status": "inactive",
       "support_group": "https://t.me/stoopid_ayan",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g54.jpg"
+    },
+    {
+      "codename": "bangkk",
+      "name": "Motorola G84 5G",
+      "maintainers": [
+        "Zediss"
+      ],
+      "support_group": "https://t.me/zedissppchat",
+      "image_url": "https://wiki.lineageos.org/images/devices/bangkk.png"
     },
     {
       "codename": "Tetris",
@@ -502,15 +503,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/giulia.png"
     },
     {
-      "codename": "giuliac",
-      "name": "Oneplus Ace 5",
-      "maintainers": [
-        "Genoxci"
-      ],
-      "support_group": "https://t.me/+AjwuK7p-rJ44ZmU1",
-      "image_url": "https://wiki.lineageos.org/images/devices/giuliac.png"
-    },
-    {
       "codename": "macan",
       "name": "Oneplus 15R",
       "maintainers": [
@@ -518,6 +510,15 @@
       ],
       "support_group": "https://t.me/AxMacanSupport",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-15r-3.jpg"
+    },
+    {
+      "codename": "giuliac",
+      "name": "Oneplus Ace 5",
+      "maintainers": [
+        "Genoxci"
+      ],
+      "support_group": "https://t.me/+AjwuK7p-rJ44ZmU1",
+      "image_url": "https://wiki.lineageos.org/images/devices/giuliac.png"
     },
     {
       "codename": "macanc",

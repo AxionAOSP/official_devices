@@ -18,9 +18,8 @@
 | **Google Pixel 10 Pro** | `blazer` |
 | **Google Pixel 10 Pro XL** | `mustang` |
 | **Google Pixel Fold** | `felix` |
-| **Moto G84 5G** | `bangkk` |
 | **Motorola G34/45 5G** | `fogos` |
-| **Motorola G54** | `cancunf` |
+| **Motorola G84 5G** | `bangkk` |
 | **Nothing Phone (2)** | `Pong` |
 | **Nothing Phone 2a** | `Pacman` |
 | **Nothing Phone 2a Plus** | `PacmanPro` |
@@ -30,8 +29,8 @@
 | **Oneplus 9R** | `lemonades` |
 | **Oneplus 13** | `dodge` |
 | **Oneplus 13R** | `giulia` |
-| **Oneplus Ace 5** | `giuliac` |
 | **Oneplus 15R** | `macan` |
+| **Oneplus Ace 5** | `giuliac` |
 | **Oneplus Ace 6T** | `macanc` |
 | **Oneplus Nord** | `avicii` |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro` |
@@ -73,7 +72,6 @@
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Google Pixel 10 (`frankel`), Google Pixel 10 Pro (`blazer`), Google Pixel 10 Pro XL (`mustang`))
 - **[Niv](https://github.com/nivlafx)** (Google Pixel 9 (`tokay`), Google Pixel 9 Pro (`caiman`), Google Pixel 9 Pro XL (`komodo`))
 - **[Byben](https://github.com/heybyben)** (Motorola G34/45 5G (`fogos`))
-- **[Ayan](https://github.com/not-ayan)** (Motorola G54 (`cancunf`))
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2) (`Pong`))
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 (`instantnoodle`), Oneplus 8 Pro (`instantnoodlep`), Oneplus 8T (`kebab`), Oneplus 9R (`lemonades`))
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R (`giulia`), Oneplus Ace 5 (`giuliac`), Samsung Galaxy A52s 5G (`a52sxq`))
@@ -104,7 +102,7 @@
 - **[Ido](https://github.com/xyzuniverse)** (Redmi Note 14 4G (`tanzanite`))
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
 - **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
-- **[Zediss](https://github.com/zedisspp)** (Moto G84 5G (`bangkk`))
+- **[Zediss](https://github.com/zedisspp)** (Motorola G84 5G (`bangkk`))
 - **[Jefino](https://github.com/Jefino9488)** (Redmi K50i (`xaga`))
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
 

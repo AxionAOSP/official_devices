@@ -338,27 +338,6 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/tangorpro.md"
     },
     {
-      "codename": "bangkk",
-      "name": "Moto G84 5G",
-      "brand": "motorola",
-      "status": "active",
-      "maintainer_ids": [
-        "Zediss"
-      ],
-      "support_group": "https://t.me/zedissppchat",
-      "images": {
-        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/bangkk.webp",
-        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/bangkk.webp",
-        "fallback": "https://wiki.lineageos.org/images/devices/bangkk.png"
-      },
-      "ota": {
-        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/bangkk.json",
-        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/bangkk.json"
-      },
-      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/bangkk.txt",
-      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/bangkk.md"
-    },
-    {
       "codename": "fogos",
       "name": "Motorola G34/45 5G",
       "brand": "motorola",
@@ -383,7 +362,7 @@
       "codename": "cancunf",
       "name": "Motorola G54",
       "brand": "motorola",
-      "status": "active",
+      "status": "inactive",
       "maintainer_ids": [
         "Ayan"
       ],
@@ -399,6 +378,27 @@
       },
       "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/cancunf.txt",
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/cancunf.md"
+    },
+    {
+      "codename": "bangkk",
+      "name": "Motorola G84 5G",
+      "brand": "motorola",
+      "status": "active",
+      "maintainer_ids": [
+        "Zediss"
+      ],
+      "support_group": "https://t.me/zedissppchat",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/bangkk.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/bangkk.webp",
+        "fallback": "https://wiki.lineageos.org/images/devices/bangkk.png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/bangkk.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/bangkk.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/bangkk.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/bangkk.md"
     },
     {
       "codename": "Tetris",
@@ -611,27 +611,6 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/giulia.md"
     },
     {
-      "codename": "giuliac",
-      "name": "Oneplus Ace 5",
-      "brand": "oneplus",
-      "status": "active",
-      "maintainer_ids": [
-        "Genoxci"
-      ],
-      "support_group": "https://t.me/+AjwuK7p-rJ44ZmU1",
-      "images": {
-        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/giuliac.webp",
-        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/giuliac.webp",
-        "fallback": "https://wiki.lineageos.org/images/devices/giuliac.png"
-      },
-      "ota": {
-        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/giuliac.json",
-        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/giuliac.json"
-      },
-      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/giuliac.txt",
-      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/giuliac.md"
-    },
-    {
       "codename": "macan",
       "name": "Oneplus 15R",
       "brand": "oneplus",
@@ -653,6 +632,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/macan.md"
     },
     {
+      "codename": "giuliac",
+      "name": "Oneplus Ace 5",
+      "brand": "oneplus",
+      "status": "active",
+      "maintainer_ids": [
+        "Genoxci"
+      ],
+      "support_group": "https://t.me/+AjwuK7p-rJ44ZmU1",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/giuliac.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/giuliac.webp",
+        "fallback": "https://wiki.lineageos.org/images/devices/giuliac.png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/giuliac.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/giuliac.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/giuliac.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/giuliac.md"
+    },
+    {
       "codename": "macanc",
       "name": "Oneplus Ace 6T",
       "brand": "oneplus",
@@ -660,11 +660,11 @@
       "maintainer_ids": [
         "Paul"
       ],
-      "support_group": "https://t.me/AxMacancSupport",
+      "support_group": "https://t.me/AxMacanSupport",
       "images": {
         "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/macanc.webp",
         "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/macanc.webp",
-        "fallback": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-15r-3.jpg"
+        "fallback": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-6t-2.jpg"
       },
       "ota": {
         "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/macanc.json",
