@@ -380,6 +380,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/cancunf.md"
     },
     {
+      "codename": "mumba",
+      "name": "Motorola G57 Power",
+      "brand": "motorola",
+      "status": "active",
+      "maintainer_ids": [
+        "n0escape_exe"
+      ],
+      "support_group": "https://t.me/noescape_aosp",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/mumba.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/mumba.webp",
+        "fallback": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g57-power-.jpg"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/mumba.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/mumba.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/mumba.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/mumba.md"
+    },
+    {
       "codename": "bangkk",
       "name": "Motorola G84 5G",
       "brand": "motorola",
@@ -1495,7 +1516,7 @@
     {
       "codename": "X01BD",
       "name": "ASUS ZenFone Max Pro M2",
-      "brand": "asus",
+      "brand": "other",
       "status": "active",
       "maintainer_ids": [
         "Debayan_Kar"

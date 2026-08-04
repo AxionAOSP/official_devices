@@ -388,6 +388,14 @@
       "devices": [
         "dodge"
       ]
+    },
+    {
+      "id": "n0escape_exe",
+      "name": "Viaan",
+      "github_username": "n0escape-exe",
+      "devices": [
+        "mumba"
+      ]
     }
   ]
 }

@@ -225,6 +225,11 @@
       "id": "Kill3rEz",
       "name": "Kill3rEz",
       "github_username": "Kill3rEz"
+    },
+    {
+      "id": "n0escape_exe",
+      "name": "Viaan",
+      "github_username": "n0escape-exe"
     }
   ],
   "devices": [
@@ -401,6 +406,15 @@
       "status": "inactive",
       "support_group": "https://t.me/stoopid_ayan",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g54.jpg"
+    },
+    {
+      "codename": "mumba",
+      "name": "Motorola G57 Power",
+      "maintainers": [
+        "n0escape_exe"
+      ],
+      "support_group": "https://t.me/noescape_aosp",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g57-power-.jpg"
     },
     {
       "codename": "bangkk",
