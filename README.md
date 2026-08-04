@@ -19,6 +19,7 @@
 | **Google Pixel 10 Pro XL** | `mustang` |
 | **Google Pixel Fold** | `felix` |
 | **Motorola G34/45 5G** | `fogos` |
+| **Motorola G57 Power** | `mumba` |
 | **Motorola G84 5G** | `bangkk` |
 | **Nothing Phone (2)** | `Pong` |
 | **Nothing Phone 2a** | `Pacman` |
@@ -105,6 +106,7 @@
 - **[Zediss](https://github.com/zedisspp)** (Motorola G84 5G (`bangkk`))
 - **[Jefino](https://github.com/Jefino9488)** (Redmi K50i (`xaga`))
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
+- **[Viaan](https://github.com/n0escape-exe)** (Motorola G57 Power (`mumba`))
 
 ## 🛠 Maintainer and device registry
 

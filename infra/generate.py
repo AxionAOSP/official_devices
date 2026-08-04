@@ -9,6 +9,7 @@ REGISTRY_FILE = ROOT / "infra" / "device_registry.json"
 README_FILE = ROOT / "README.md"
 README_REGISTRY_HEADING = "## 🛠 Maintainer and device registry"
 BRAND_ORDER = (
+    "asus",
     "google",
     "motorola",
     "nothing",

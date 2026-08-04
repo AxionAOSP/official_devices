@@ -16,6 +16,7 @@ AXION_OFFICIAL_DEVICES := \
     mustang \
     felix \
     fogos \
+    mumba \
     bangkk \
     Pong \
     Pacman \
@@ -81,6 +82,7 @@ AXION_OFFICIAL_MAINTAINERS_blazer := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_mustang := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_felix := rmp
 AXION_OFFICIAL_MAINTAINERS_fogos := Byben
+AXION_OFFICIAL_MAINTAINERS_mumba := Viaan
 AXION_OFFICIAL_MAINTAINERS_bangkk := Zediss
 AXION_OFFICIAL_MAINTAINERS_Pong := hiroshi._(Superuser)
 AXION_OFFICIAL_MAINTAINERS_Pacman := Shravan
