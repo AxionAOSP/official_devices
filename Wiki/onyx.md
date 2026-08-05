@@ -22,13 +22,22 @@
 
 1. Download the latest **axion-*-onyx.zip** from the [website](https://cdn.axionos.org/#onyx).
 2. Connect your phone to PC and reboot to **fastboot** by holding both power button and volume down keys.
-3. Flash the following partitions **one by one** through powershell/terminal using:
+3. Flash the downloaded image files **one by one** through powershell/terminal using:
 
 ```
-fastboot flash vendor_boot <drag-&-drop-vendor_boot.img>
+fastboot flash boot <drag-&-drop-boot.img>
+```
+```
+fastboot flash dtbo <drag-&-drop-dtbo.img>
+```
+```
+fastboot flash init_boot <drag-&-drop-init_boot.img>
 ```
 ```
 fastboot flash recovery <drag-&-drop-recovery.img>
+```
+```
+fastboot flash vendor_boot <drag-&-drop-vendor_boot.img>
 ```
 4. Reboot to **recovery** using:
 
