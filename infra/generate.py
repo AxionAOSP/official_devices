@@ -82,6 +82,7 @@ def read_registry_section():
 
 def brand_for(name):
     brands = [
+        ("asus", r"ASUS|Asus|Zenfone|ZenFone"),
         ("google", r"Google Pixel"),
         ("samsung", r"Galaxy|Samsung"),
         ("poco", r"POCO"),
