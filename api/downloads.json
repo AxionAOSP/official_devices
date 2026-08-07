@@ -824,7 +824,7 @@
       "codename": "marble",
       "name": "POCO F5",
       "brand": "poco",
-      "status": "active",
+      "status": "inactive",
       "maintainer_ids": [
         "PabloEscobar"
       ],

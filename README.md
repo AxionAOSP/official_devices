@@ -38,7 +38,6 @@
 | **Oneplus Nord CE2 Lite 5G** | `oscaro` |
 | **POCO F3/Mi 11X/K40** | `alioth` |
 | **POCO F4/K40S** | `munch` |
-| **POCO F5** | `marble` |
 | **POCO F6** | `peridot` |
 | **POCO F7** | `onyx` |
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite** | `miatoll` |
@@ -81,7 +80,6 @@
 - **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G (`oscaro`))
 - **[Yaseakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40 (`alioth`))
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S (`munch`), POCO X7 Pro 5G (`rodin`))
-- **[PabloEscobar](https://github.com/pabloescobar-reborn)** (POCO F5 (`marble`))
 - **[zenin1504](https://github.com/zenin1504)** (POCO F6 (`peridot`))
 - **[Zarathos_Ghost_Rider](https://github.com/Zarathos30)** (POCO F7 (`onyx`))
 - **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite (`miatoll`))
