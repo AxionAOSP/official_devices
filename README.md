@@ -42,6 +42,7 @@
 | **POCO F7** | `onyx` |
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite** | `miatoll` |
 | **POCO X3 / POCO X3 NFC** | `surya` |
+| **POCO X4 GT / Redmi Note 11T Pro (+) / K50i** | `xaga` |
 | **POCO X6 Pro 5G** | `duchamp` |
 | **POCO X7 Pro 5G** | `rodin` |
 | **Realme 5 series** | `r5x` |
@@ -52,7 +53,6 @@
 | **Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+** | `haydn` |
 | **Redmi 9** | `lancelot` |
 | **Redmi K20 Pro / Mi 9T Pro** | `raphael` |
-| **Redmi K50i** | `xaga` |
 | **Redmi Note 7/7s** | `lavender` |
 | **Redmi Note 7 Pro** | `violet` |
 | **Redmi Note 8 Pro** | `begonia` |
@@ -102,7 +102,7 @@
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
 - **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
 - **[Zediss](https://github.com/zedisspp)** (Motorola G84 5G (`bangkk`))
-- **[Jefino](https://github.com/Jefino9488)** (Redmi K50i (`xaga`))
+- **[Jefino](https://github.com/Jefino9488)** (POCO X4 GT / Redmi Note 11T Pro (+) / K50i (`xaga`))
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
 - **[Viaan](https://github.com/n0escape-exe)** (Motorola G57 Power (`mumba`))
 

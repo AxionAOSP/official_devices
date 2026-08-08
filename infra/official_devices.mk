@@ -39,6 +39,7 @@ AXION_OFFICIAL_DEVICES := \
     onyx \
     miatoll \
     surya \
+    xaga \
     duchamp \
     rodin \
     r5x \
@@ -49,7 +50,6 @@ AXION_OFFICIAL_DEVICES := \
     haydn \
     lancelot \
     raphael \
-    xaga \
     lavender \
     violet \
     begonia \
@@ -104,6 +104,7 @@ AXION_OFFICIAL_MAINTAINERS_peridot := zenin1504
 AXION_OFFICIAL_MAINTAINERS_onyx := Zarathos_Ghost_Rider
 AXION_OFFICIAL_MAINTAINERS_miatoll := RiteshSahany
 AXION_OFFICIAL_MAINTAINERS_surya := Debayan_Kar
+AXION_OFFICIAL_MAINTAINERS_xaga := Jefino9488
 AXION_OFFICIAL_MAINTAINERS_duchamp := Sai_Krishna
 AXION_OFFICIAL_MAINTAINERS_rodin := SENX|センクス
 AXION_OFFICIAL_MAINTAINERS_r5x := Amrito_Karmokar
@@ -114,7 +115,6 @@ AXION_OFFICIAL_MAINTAINERS_spartan := Bijoy
 AXION_OFFICIAL_MAINTAINERS_haydn := Lucifer
 AXION_OFFICIAL_MAINTAINERS_lancelot := doissM
 AXION_OFFICIAL_MAINTAINERS_raphael := Muhammad_Al-Arabi
-AXION_OFFICIAL_MAINTAINERS_xaga := Jefino9488
 AXION_OFFICIAL_MAINTAINERS_lavender := Amrito_Karmokar
 AXION_OFFICIAL_MAINTAINERS_violet := Joker-V2
 AXION_OFFICIAL_MAINTAINERS_begonia := Sai_Krishna
