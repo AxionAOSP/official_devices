@@ -655,6 +655,14 @@
       "image_url": "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png"
     },
     {
+      "codename": "xaga",
+      "name": "POCO X4 GT / Redmi Note 11T Pro (+) / K50i",
+      "maintainers": [
+        "Jefino9488"
+      ],
+      "support_group": "https://t.me/XAGASupport"
+    },
+    {
       "codename": "redwood",
       "name": "POCO X5 Pro 5G",
       "maintainers": [
@@ -773,14 +781,6 @@
       ],
       "support_group": "https://t.me/Al_Arabis_Support",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k20pro-5.jpg"
-    },
-    {
-      "codename": "xaga",
-      "name": "Redmi K50i",
-      "maintainers": [
-        "Jefino9488"
-      ],
-      "support_group": "https://t.me/XAGASupport"
     },
     {
       "codename": "lavender",

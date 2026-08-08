@@ -947,6 +947,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/surya.md"
     },
     {
+      "codename": "xaga",
+      "name": "POCO X4 GT / Redmi Note 11T Pro (+) / K50i",
+      "brand": "poco",
+      "status": "active",
+      "maintainer_ids": [
+        "Jefino9488"
+      ],
+      "support_group": "https://t.me/XAGASupport",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/xaga.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/xaga.webp",
+        "fallback": ""
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/xaga.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/xaga.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/xaga.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/xaga.md"
+    },
+    {
       "codename": "redwood",
       "name": "POCO X5 Pro 5G",
       "brand": "poco",
@@ -1218,27 +1239,6 @@
       },
       "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/raphael.txt",
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/raphael.md"
-    },
-    {
-      "codename": "xaga",
-      "name": "Redmi K50i",
-      "brand": "xiaomi",
-      "status": "active",
-      "maintainer_ids": [
-        "Jefino9488"
-      ],
-      "support_group": "https://t.me/XAGASupport",
-      "images": {
-        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/xaga.webp",
-        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/xaga.webp",
-        "fallback": ""
-      },
-      "ota": {
-        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/xaga.json",
-        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/xaga.json"
-      },
-      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/xaga.txt",
-      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/xaga.md"
     },
     {
       "codename": "lavender",
