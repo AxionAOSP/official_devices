@@ -230,6 +230,11 @@
       "id": "n0escape_exe",
       "name": "Viaan",
       "github_username": "n0escape-exe"
+    },
+    {
+      "id": "🔻neural0x🔻",
+      "name": "M.Nabeel",
+      "github_username": "neural0x"
     }
   ],
   "devices": [
@@ -854,6 +859,15 @@
       "status": "inactive",
       "support_group": "https://t.me/+d9Y_N7yuDpxkMmE1",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11t-pro.jpg"
+    },
+    {
+      "codename": "fuxi",
+      "name": "Xiaomi 13",
+      "maintainers": [
+        "🔻neural0x🔻"
+      ],
+      "support_group": "https://t.me/xiaomi13roms",
+      "image_url": "https://i.imgur.com/ikrkK8y.png"
     },
     {
       "codename": "nabu",

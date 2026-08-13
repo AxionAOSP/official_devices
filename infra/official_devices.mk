@@ -57,6 +57,7 @@ AXION_OFFICIAL_DEVICES := \
     sweet \
     rubyx \
     tanzanite \
+    fuxi \
     nabu \
     pipa \
     a52sxq \
@@ -122,6 +123,7 @@ AXION_OFFICIAL_MAINTAINERS_merlinx := doissM
 AXION_OFFICIAL_MAINTAINERS_sweet := therealmharc
 AXION_OFFICIAL_MAINTAINERS_rubyx := Casanova.
 AXION_OFFICIAL_MAINTAINERS_tanzanite := ido@rexprjkt°
+AXION_OFFICIAL_MAINTAINERS_fuxi := 🔻neural0x🔻
 AXION_OFFICIAL_MAINTAINERS_nabu := °⊥⋊ɹ∀°
 AXION_OFFICIAL_MAINTAINERS_pipa := Null_Pointer
 AXION_OFFICIAL_MAINTAINERS_a52sxq := Genoxci
