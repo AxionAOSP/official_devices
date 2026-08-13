@@ -60,6 +60,7 @@
 | **Redmi Note 10 Pro / Pro Max** | `sweet` |
 | **Redmi Note 12 Pro / Plus / Discovery 5G** | `rubyx` |
 | **Redmi Note 14 4G** | `tanzanite` |
+| **Xiaomi 13** | `fuxi` |
 | **Xiaomi Pad 5** | `nabu` |
 | **Xiaomi Pad 6** | `pipa` |
 | **Samsung Galaxy A52s 5G** | `a52sxq` |
@@ -105,6 +106,7 @@
 - **[Jefino](https://github.com/Jefino9488)** (POCO X4 GT / Redmi Note 11T Pro (+) / K50i (`xaga`))
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
 - **[Viaan](https://github.com/n0escape-exe)** (Motorola G57 Power (`mumba`))
+- **[M.Nabeel](https://github.com/neural0x)** (Xiaomi 13 (`fuxi`))
 
 ## 🛠 Maintainer and device registry
 

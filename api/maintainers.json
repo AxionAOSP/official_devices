@@ -396,6 +396,14 @@
       "devices": [
         "mumba"
       ]
+    },
+    {
+      "id": "🔻neural0x🔻",
+      "name": "M.Nabeel",
+      "github_username": "neural0x",
+      "devices": [
+        "fuxi"
+      ]
     }
   ]
 }

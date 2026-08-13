@@ -1409,6 +1409,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/vili.md"
     },
     {
+      "codename": "fuxi",
+      "name": "Xiaomi 13",
+      "brand": "xiaomi",
+      "status": "active",
+      "maintainer_ids": [
+        "🔻neural0x🔻"
+      ],
+      "support_group": "https://t.me/xiaomi13roms",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/fuxi.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/fuxi.webp",
+        "fallback": "https://i.imgur.com/ikrkK8y.png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/fuxi.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/fuxi.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/fuxi.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/fuxi.md"
+    },
+    {
       "codename": "nabu",
       "name": "Xiaomi Pad 5",
       "brand": "xiaomi",
