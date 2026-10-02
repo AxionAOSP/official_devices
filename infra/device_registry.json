@@ -235,6 +235,11 @@
       "id": "🔻neural0x🔻",
       "name": "M.Nabeel",
       "github_username": "neural0x"
+    },
+    {
+      "id": "ZetyaWyn",
+      "name": "Flying Squirrel",
+      "github_username": "ZetyaWyn"
     }
   ],
   "devices": [
@@ -840,6 +845,15 @@
       ],
       "support_group": "https://t.me/casanovas_cult",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg"
+    },
+    {
+      "codename": "garnet",
+      "name": "Redmi Note 13 Pro 5G / Poco X6 5G",
+      "maintainers": [
+        "ZetyaWyn"
+      ],
+      "support_group": "https://t.me/Garnet_Axion_Support",
+      "image_url": "https://wiki.lineageos.org/images/devices/garnet.png"
     },
     {
       "codename": "tanzanite",

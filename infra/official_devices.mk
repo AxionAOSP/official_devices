@@ -56,6 +56,7 @@ AXION_OFFICIAL_DEVICES := \
     merlinx \
     sweet \
     rubyx \
+    garnet \
     tanzanite \
     fuxi \
     nabu \
@@ -122,6 +123,7 @@ AXION_OFFICIAL_MAINTAINERS_begonia := Sai_Krishna
 AXION_OFFICIAL_MAINTAINERS_merlinx := doissM
 AXION_OFFICIAL_MAINTAINERS_sweet := therealmharc
 AXION_OFFICIAL_MAINTAINERS_rubyx := Casanova.
+AXION_OFFICIAL_MAINTAINERS_garnet := ZetyaWyn
 AXION_OFFICIAL_MAINTAINERS_tanzanite := ido@rexprjkt°
 AXION_OFFICIAL_MAINTAINERS_fuxi := 🔻neural0x🔻
 AXION_OFFICIAL_MAINTAINERS_nabu := °⊥⋊ɹ∀°

@@ -404,6 +404,14 @@
       "devices": [
         "fuxi"
       ]
+    },
+    {
+      "id": "ZetyaWyn",
+      "name": "Flying Squirrel",
+      "github_username": "ZetyaWyn",
+      "devices": [
+        "garnet"
+      ]
     }
   ]
 }
