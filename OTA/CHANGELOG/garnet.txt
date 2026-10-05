@@ -1,43 +1,26 @@
-AxionOS v1.6 Final
-Build Date : 20/06/2025
-- Switch to source built kernel,dtb and dtbo 
-- Added support for single click gesture 
-- Added XiaomiParts
-- Added Dolby Atmos
-- New implement bypass charging
-- Dropped a bunch of 32 bit blobs
-- Dropped ViperFX
-
-Notes:
-- Use global latest fw
-- Always include Miuicamera
-- Don't use custom kernel
-- Cleanflash recomended
-
-================================
-
-AxionOS v1.5
-Build Date : 12/06/2025
-- Update blobs from OS2.0.10.0.VNRMIXM
-- Drop TARGET_RECOVERY_DEVICE_MODULES
-- Bringback to QTI health aidl service
-- Enable compress voip audio feature
-- switch to common AIDL IR service
-- Add support bypass charging
-- Define node fastcharging oem
-
-Notes:
-- Use global latest fw
-- Include Micam and ViperFX
-
-=================================
-
-AxionOS v1.4
-Build Date : 28/05/2025
-- Initial official release
-- Include Micam and ViperFX
-- Use fw global latest
+AxionOS v2.8
+Build Date: 05/10/2026
+- Initial build for new maintainer
+- Clean flash mandatory
+- Added KProfiles by default
+- Included Lunaris Dolby and Leica Camera
+- init: Read camera sensor for proper About Phone camera description
+- Set base SurfaceFlinger work-duration props from stock
+- Wired up per-FPS SurfaceFlinger durations
+- Optimized RAM management
+- Fixed flashlight strength
+- Added hardware-accelerated audio effects
+- Switched Garnet to ARM64-only
+- Disabled unnecessary logging
+- rootdir: Use foreground uclamp for HWC
+- rootdir: Use foreground cpuset/uclamp for gralloc
+- Set default GPU power level to 8
+- Imported Qualcomm audio effects from OnePlus 9R
+- Switched default I/O scheduler to mq-deadline
+- Fixed broken dax.xml configuration
+- Disabled IPv6 NAT support
 
 Credit :
 Thanks to @grewal for all resource
-Thanks to LumineDroid team
+Thanks to @jotanh for the Leica camera
+Thanks to @ZylhdrXP Kernel upstrem fixes
