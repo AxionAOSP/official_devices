@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1780671728,
-            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-alioth.zip",
-            "id": "237e4fad807dcf538f78fa3054efbe87",
+            "datetime": 1791227683,
+            "filename": "axion-2.8-ONEIRA_FINAL-20261005-OFFICIAL-VANILLA-alioth.zip",
+            "id": "1caec156554238ae386cdf78d7dc53a9",
             "romtype": "OFFICIAL",
-            "size": 2050989674,
-            "url": "https://cdn.axionos.org/alioth/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-alioth.zip",
-            "version": "2.7"
+            "size": 2135385317,
+            "url": "https://cdn.axionos.org/alioth/axion-2.8-ONEIRA_FINAL-20261005-OFFICIAL-VANILLA-alioth.zip",
+            "version": "2.8"
         }
     ]
 }

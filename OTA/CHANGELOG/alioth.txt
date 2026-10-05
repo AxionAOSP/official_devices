@@ -1,3 +1,40 @@
+AxionOS v2.8
+Build Date : 06/10/2026
+- RvKernel 2.2
+- Add bypass charging toggle
+- parts: Adapt Material U design in some configs
+- overlay: Set IWLAN data service package name
+- sepolicy: Allow init to mount the public FastRPC shell copy
+- increase audio offload buffer size from 32KB to 64KB
+- audio: Fix dynamic USB channel mask declarations
+- Enable speaker protection
+- sepolicy: Add rule for qtidataservices_app
+- dolby: Redesign UI with Material 3 Expressive colors
+- dolby: Add per-band fine tuner to equalizer
+- dolby: Add AutoEQ headphone correction profiles contributor entry
+- dolby: Add persian translations
+- dolby: Redesign main card banner with Dolby logo
+- dolby: fix headphone surround slider stuck at 35
+- dolby: Simplify translation contributor definitions
+- dolby: Add stacked animated avatars with multi-contributor support
+- dolby: Fetch contributor profile pictures from GitHub
+- dolby: Use 2-column grid for translation contributors
+- dolby: Add callout to contribute translations in Credits dialog
+- dolby: Add translation contributors to Credits dialog
+- init: Set media XML codecs variant to _kona
+- overlay: Drop deprecated config_dynamic_bind_ims
+- wlan: Disable RX wakelock feature
+- overlay: Don't let any carrier default WFC mode to IMS Preferred
+- Use foreground cpuset/uclamp for gralloc
+- Use foreground uclamp for hwcomposer
+- Move runtime cpuset configuration after post_boot completed
+- Set dex2oat thread count and cpuset
+- Do not allow foreground tasks to run on CPU7
+- overlay: Use the new auto network selection UI
+- overlay: Set max network scan search time to 254
+- overlay: Overlay the config_network_selection_list_aggregation_enabled
+- switch to Kawase2 render engine blur algorithm
+
 AxionOS v2.7-Beta
 Build Date : 05/06/2026
 - Rebase device tree dropped some commit
@@ -9,7 +46,7 @@ Build Date : 05/06/2026
 - dolby: Add support for Dolby Vision
 - dolby: Import dax-default's from Motorola
 - dolby: Forcefully Enable bass-enhancer
--  dolby: Move Spatial props to vendor
+- dolby: Move Spatial props to vendor
 - dolby: Update dax-default from MIUI
 
 AxionOS v2.6
