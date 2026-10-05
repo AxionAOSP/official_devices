@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1780592816,
-            "filename": "axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-GMS-nabu.zip",
-            "id": "77938d37a56e7118044b56a9628b2beb",
+            "datetime": 1791217385,
+            "filename": "axion-2.8-ONEIRA_FINAL-20261005-OFFICIAL-GMS-nabu.zip",
+            "id": "e50f75767e8744a79d13329366e9f44a",
             "romtype": "OFFICIAL",
-            "size": 2568400042,
-            "url": "https://cdn.axionos.org/nabu/axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-GMS-nabu.zip",
-            "version": "2.7"
+            "size": 2409535733,
+            "url": "https://cdn.axionos.org/nabu/axion-2.8-ONEIRA_FINAL-20261005-OFFICIAL-GMS-nabu.zip",
+            "version": "2.8"
         }
     ]
 }

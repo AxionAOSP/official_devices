@@ -1,3 +1,9 @@
+AxionOS v2.8 ONEIRA - Build Date: 05/10/2026
+-----------------------------------------------------
+- Synced with latest source
+- Fixed video playback artifacts in social media apps
+- Dropped AxionFX to rely solely on ViperFX
+
 AxionOS v2.7 PROXIMA (BETA) - Build Date: 04/06/2026
 -----------------------------------------------------
 - Tuned rendering props for smoother system experience
