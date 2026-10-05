@@ -1,0 +1,28 @@
+Device: Motorola G84
+Device code name: bangkk
+Device maintainer: Zediss
+
+Axion v2.8
+Date - 05/10/2026
+- Fix lag during screen recording
+- Fix black screen while screen sharing
+- Set heavy app scrolling optimization to mode 1
+- Reduce ZRAM to 60%
+- Add battery cycle count in Settings > Battery > Battery information
+- Add torch strength support
+- Add GameBar performance overlay
+- Add Moto Charger, Moto Camera 4 and AxionFx
+- Add Dolby Atmos Lunaris with spatial audio
+- Screen recorder up to 120 FPS
+- Add keyboard portrait padding
+- Update fogos_g to V1UGS35H.75-14-3-9
+- Move system partitions from EXT4 to EROFS
+- Disable game framerate limit by default
+- Disable slow blur and high-performance transitions for smoother blur
+- Set default peak refresh rate to 90 Hz (120 Hz still available in Settings)
+- Cut INTERACTION boost from 3s to 0.5s
+- Lower INTERACTION min CPU freqs (silver 1190 MHz, gold 1017 MHz)
+- Lower top-app uclamp.min from 100 to 50
+- Disable SSC QMI sensors, CNE QXDM and WLAN firmware logging
+- Remove ViPER4FX, Aperture Camera and LiveDisplay
+- misc changes
