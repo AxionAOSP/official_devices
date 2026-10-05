@@ -1,3 +1,10 @@
+AxionOS v2.8
+Build Date : 05/10/2026
+- Synced with latest source
+- Added Flashlight strength control
+- Introduce BORE scheduler
+- Switch to stock BT stack
+
 AxionOS v2.7
 Build Date : 07/06/2026 (HOTFIX)
 - Synced with latest source

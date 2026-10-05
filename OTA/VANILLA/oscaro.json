@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1780847610,
-            "filename": "axion-2.7-PROXIMA_BETA-20260607155709-OFFICIAL-VANILLA-oscaro.zip",
-            "id": "2362b6cbad82c1136013397669be7056",
+            "datetime": 1791217851,
+            "filename": "axion-2.8-ONEIRA_FINAL-20261005163332-OFFICIAL-VANILLA-oscaro.zip",
+            "id": "138b9e583a541ad2b78312246ae16cb0",
             "romtype": "OFFICIAL",
-            "size": 2172873369,
-            "url": "https://cdn.axionos.org/oscaro/axion-2.7-PROXIMA_BETA-20260607155709-OFFICIAL-VANILLA-oscaro.zip",
-            "version": "2.7"
+            "size": 2166583383,
+            "url": "https://cdn.axionos.org/oscaro/axion-2.8-ONEIRA_FINAL-20261005163332-OFFICIAL-VANILLA-oscaro.zip",
+            "version": "2.8"
         }
     ]
 }
