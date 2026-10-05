@@ -1,0 +1,33 @@
+Fixes
+- Lag during screen recording
+- Black screen while screen sharing
+- Heavy app scrolling optimization set to mode 1
+- ZRAM reduced to 60%
+
+Additions
+- Battery cycle count in Settings > Battery > Battery information
+- Torch strength support
+- GameBar performance overlay
+- Moto Charger, Moto Camera 4 and AxionFx
+- Dolby Atmos Lunaris with spatial audio
+- Screen recorder up to 120 FPS
+- Keyboard portrait padding
+- fogos_g updated to V1UGS35H.75-14-3-9
+- System partitions moved from EXT4 to EROFS
+
+Improvements
+- Game framerate limit disabled by default
+- Slow blur and high-performance transitions disabled for smoother blur
+- Default peak refresh rate set to 90 Hz (120 Hz still available in Settings)
+
+Power
+- INTERACTION boost cut from 3s to 0.5s
+- Lower INTERACTION min CPU freqs (silver 1190 MHz, gold 1017 MHz)
+- top-app uclamp.min lowered from 100 to 50
+- Launch boost unchanged
+
+Logging
+- Disabled SSC QMI sensors, CNE QXDM and WLAN firmware logging
+
+Removed
+- ViPER4FX, Aperture Camera, LiveDisplay
