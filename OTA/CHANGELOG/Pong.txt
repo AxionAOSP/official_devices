@@ -60,3 +60,21 @@ AxionOS v2.6 - 19/05/2026
 AxionOS v2.7 (BETA) - 13/06/2026
 ----
 - Initial Build, no device changes
+
+AxionOS v2.8 - 05/10/2026
+----
+- Replace Dolby with AxionFx (Dolby spatial decoder still included!)
+- Glyph: Fix initial state of top-level flip to glyph toggle
+- Glyph: Fix flip to glyph not changing ringer mode if animation is disabled
+- Glyph: Fix music visualizer conflicting with Pulse visualizer
+- Glyph: Fix some potential crash conditions
+- Glyph: Add notes for custom csv animations
+- Pass touch coordinates to single tap gesture (for improved wake animation)
+- Disable aptx voice codec (Fixes issue with bluetooth audio routing in calls)
+- Make screen-off fingerprint unlock more reliable
+- Update firmware/vendor from NOS B4.1-260618-1026
+
+Notes for this build (READ BEFORE INSTALLING):
+- Flashing from 2.7 will result in your home screen layout getting erased! Do not be alarmed if it's blank!
+--- Clear data of the app (Pulse) to restore the default layout!
+- Glyph interface doesn't have a settings shortcut, add the QS tile and hold it!
