@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1780811582,
-            "filename": "axion-2.7-PROXIMA_BETA-20260607-OFFICIAL-GMS-avicii.zip",
-            "id": "0ebcb1ef9dfac2dcd43d2120e6d4cbc7",
+            "datetime": 1791274153,
+            "filename": "axion-2.8-ONEIRA_FINAL-20261006-OFFICIAL-GMS-avicii.zip",
+            "id": "5e5f48ec2ad7bab0ff23d636ae05af44",
             "romtype": "OFFICIAL",
-            "size": 2348685074,
-            "url": "https://cdn.axionos.org/avicii/axion-2.7-PROXIMA_BETA-20260607-OFFICIAL-GMS-avicii.zip",
-            "version": "2.7"
+            "size": 2225462782,
+            "url": "https://cdn.axionos.org/avicii/axion-2.8-ONEIRA_FINAL-20261006-OFFICIAL-GMS-avicii.zip",
+            "version": "2.8"
         }
     ]
 }

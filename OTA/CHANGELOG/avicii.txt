@@ -1,3 +1,13 @@
+AxionOS v2.8
+Build Date: 06/10/2026
+- Switched to pure 64 bit ROM
+- Update media C2 stack and configs from barbet
+- Update WFD vendor stack from salami
+- Switch to libperfmgr
+- Added Dolby vision support (Upto 4K 60fps)
+- Fixed 32.3 MP resolution output in OnePlus Camera
+- Added torch control functionality for alert slider
+
 AxionOS v2.7
 Build Date: 07/06/2026
 - CFI & LTO enabled kernel

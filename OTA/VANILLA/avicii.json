@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1780812297,
-            "filename": "axion-2.7-PROXIMA_BETA-20260607-OFFICIAL-VANILLA-avicii.zip",
-            "id": "afe92c8e2d393da887056ddd2d3561b2",
+            "datetime": 1791289211,
+            "filename": "axion-2.8-ONEIRA_FINAL-20261006-OFFICIAL-VANILLA-avicii.zip",
+            "id": "c635783a1db751ec0163473c18482df9",
             "romtype": "OFFICIAL",
-            "size": 1936529700,
-            "url": "https://cdn.axionos.org/avicii/axion-2.7-PROXIMA_BETA-20260607-OFFICIAL-VANILLA-avicii.zip",
-            "version": "2.7"
+            "size": 1813511048,
+            "url": "https://cdn.axionos.org/avicii/axion-2.8-ONEIRA_FINAL-20261006-OFFICIAL-VANILLA-avicii.zip",
+            "version": "2.8"
         }
     ]
 }
