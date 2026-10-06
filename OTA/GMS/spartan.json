@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1781412399,
-            "filename": "axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-CORE-spartan.zip",
-            "id": "106a9929b1db30ecc7baad875a694912",
+            "datetime": 1791272635,
+            "filename": "axion-2.8-ONEIRA_FINAL-20261006-OFFICIAL-CORE-spartan.zip",
+            "id": "e4db84a47736603a5165fe3afd3d20dd",
             "romtype": "OFFICIAL",
-            "size": 2504035611,
-            "url": "https://cdn.axionos.org/spartan/axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-CORE-spartan.zip",
-            "version": "2.7"
+            "size": 2506459569,
+            "url": "https://cdn.axionos.org/spartan/axion-2.8-ONEIRA_FINAL-20261006-OFFICIAL-CORE-spartan.zip",
+            "version": "2.8"
         }
     ]
 }
