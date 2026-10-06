@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1791210936,
-            "filename": "axion-2.8-ONEIRA_FINAL-20261005143732-OFFICIAL-CORE-oscaro.zip",
-            "id": "e728866f0de2784d625d40144794bbf8",
+            "datetime": 1791247011,
+            "filename": "axion-2.8-ONEIRA_FINAL-20261006003656-OFFICIAL-CORE-oscaro.zip",
+            "id": "a973c93a0028b512736fb758cce12f28",
             "romtype": "OFFICIAL",
-            "size": 2361884919,
-            "url": "https://cdn.axionos.org/oscaro/axion-2.8-ONEIRA_FINAL-20261005143732-OFFICIAL-CORE-oscaro.zip",
+            "size": 2361883223,
+            "url": "https://cdn.axionos.org/oscaro/axion-2.8-ONEIRA_FINAL-20261006003656-OFFICIAL-CORE-oscaro.zip",
             "version": "2.8"
         }
     ]
