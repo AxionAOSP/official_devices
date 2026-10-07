@@ -2,9 +2,10 @@ Device: Redmi Note 7 Pro
 Device code name : violet
 Device maintainer: Joker-V2
 
-Date - 10/06/2026
+Date - 06/10/2026
 =================
-- Lineage device resources
 - Dirty flashable over previous build
-- Production build
+- Nik core is suggested for vanilla build
 - Signed with axion private keys
+- Added Miui Camera
+- Kernel optimizations
