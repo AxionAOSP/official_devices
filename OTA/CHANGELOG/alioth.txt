@@ -1,3 +1,7 @@
+AxionOS v2.9
+Build Date : 09/10/2026
+- Upstream kernel to lates qcom_sm8250
+
 AxionOS v2.8
 Build Date : 06/10/2026
 - RvKernel 2.2
