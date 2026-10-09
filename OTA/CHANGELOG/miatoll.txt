@@ -1,3 +1,12 @@
+AxionOS v2.9
+Build Date : 09/10/2026
+- Updated Media stack from V816.0.6.0.TKXMIXM
+- Switched to Moto AIDL Dolby
+- Updated Carrier Configs to LA.QISI.16.0.r2-00900-qssi.0
+- Updated keymaster blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
+- Bumped FCM level to 7
+- Various kernel improvements and performance optimizations
+
 AxionOS v2.7
 Build Date : 08/06/2026
 - Switched to AIDL camera provider
