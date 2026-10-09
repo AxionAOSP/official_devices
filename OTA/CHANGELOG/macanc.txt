@@ -1,0 +1,17 @@
+AxionOS v2.9
+Build Date : 2026/10/09
+
+Changelog:
+- Initial official build
+- Synced with the latest source and Chandu's device tree changes
+- Updated blobs and firmware to 16.0.10.500
+- Added OReality Audio
+- Enable multiple vibration strength levels support
+- Added lift-to-wake gestures
+- Improved AOD handling with brightness levels
+- Add boost AOD brightness on pickup
+- Added a bypass charging Quick Settings tile
+- Changed the charging status to display "SuperVOOC charging" instead of "Charging rapidly"
+- Fixed audio when recording depth videos with the OnePlus Camera
+- Enabled the RKPD URL configuration
+- Added various other fixes and improvements
