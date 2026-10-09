@@ -1,0 +1,10 @@
+AxionOS v2.9
+Build Date : 09/10/2026
+- Initial Official Release
+- October 2026 security patch
+- Synced with latest ROM's source and Device trees
+- OnePlus Settings added: haptic profiles, AOD brightness (auto/high/low), sunlight boost, bypass/fast/night charging, alert slider actions
+- OOS camera: Synced latest OOS camera patches; Added video recording up to 120fps, fixed blue tint on temp photos, added gallery selection, improved stability and more minor fixes...
+- Added LTPO (on by default)
+- Added Fusionlight (Auto Brightness)
+- Added Dolby Atmos and AxionFX
