@@ -7,3 +7,24 @@ Date - 24/06/2026
 - Initial release
 - Switch to Vulkan renderer 
 - Implement AxBurstEngine
+
+Axion v2.9
+Date - 10/10/2026
+- Fix raise to wake
+- Increase transitionPoint (now matches stock)
+- Increase rounded corners radius
+- Enable BT sw offload (will switch to hw offload soon)
+- Switch to prebuilt Wifi HAL
+- Swithc to source built IMS jars
+- Switch to AVC 3.1 for better screen recording
+- Switch EROFS compression to lz4hc
+- Set SF min uclamo to 180
+- Update proprietary blobs and firmware to Pacman-B4.1-260813-0941 
+- Swithc to my own kernel
+- Misc changes
+- Sync to latest dt changes from lineage
+- kernel : upstream to 5.15.211
+           upstreamed module sources to latest NothingOSS release
+           implement Capacity-Aware Scheduling
+           Enable 6GHZ wifi band
+           implement BORE sched 
