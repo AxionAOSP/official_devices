@@ -2,37 +2,159 @@ Device: POCO F7
 Device code name: onyx
 Device maintainer: Zarathos_Ghost_Rider
 
-Axion v2.7
-Date - 23/06/2026
-- Fix AxionFx effects config loading
-- Panic to recovery, not bootloader
-- Set HQ mode as default
-- Disable USAGE_VIDEO_ENCODE ImageReader flag
-- Setup DeviceAsWebcam
-- Fix VoIP volume control during calls and VoIP apps (WhatsApp, etc.)
-- Add nodes to hide Magisk in banking apps
-- Use HintManager for HWUI
-- Restrict mi_thermald from CPU hotplugging
-- Allow camera to skip high frame rate checks
-- Restore surfaceflinger min uclamp value to default (revert previous reduction)
-- Ship KmInstallKeybox
-- Reduce system server verbosity
-- Set ART debug to release mode
-- Allow HFR for Miui Camera
-- Disable FRP
-- Allow hal_power_default to write to WALT cpufreq nodes
-- Include MiuiCamera
-- Patch blobs to allocate GraphicBuffer with new size
-- Move device identifier props to system
-- Add missing camera sensor blobs from OS3.0.7.0.WOLCNXM
-- Allow camera hal to call intentaware service
-- Disable lazy rcu via cmdline
-- Fix window_service denial
-- Fix TWS+ bluetooth property and camera MLS denial
-- Fix runtime denials for thermal, bluetooth, and proc_vm
-- Fix neverallow violations
-- Dontaudit untrusted_app filesystem scans
-- Fix AVC denials for sensors, kernel tunables, Xiaomi devices, and camera HAL
-- Exempt system_server from treble data neverallow
-- Dontaudit gmscore_app adbd_prop read
-- Grant system_server access to vendor display data
+Axion v2.9
+Date - 10/10/2026
+- Source upstream
+- Switch to OSS Kernel
+- Kill fod_status
+- Setup permissions for fod_longpress_gesture_enabled node
+- Stop reading whole struct at once
+- Switch fodPressStatusPoll to unique_fd
+- Stop selecting touch id on fingerdown over and over
+- Switch to kernel provider xiaomi touch header
+- Use correct mode naming for report rate
+- Switch to kernel provider xiaomi touch header
+- Switch GAME mode setup ioctl
+- Switch select touch to unique_fd
+- Drop touch sampling rate setup
+- Disable THP down on Acquired
+- Drop fod_press_status listening
+- Switch to unique fd and shared pointer to avoid memory leaks
+- Send FingerUp on Authentication Failed/Succeeded
+- Move to Xiaomi IR AIDL
+- Switch to common AIDL IR service
+- Load modules list from system_dlkm/lib/modules/modules.load
+- Workaround onFingerDown() race
+- Drop init.qcom.factory.rc
+- Move init.qcrild.sh to vendor
+- Checkout rootdir scripts to LA.VENDOR.15.4.0.r1-21200-pakala
+- Add support for mbnota in init.qcom.sh
+- Import xiaomi uevent changes to a separate file
+- Import xiaomi changes to a separate file
+- Fix battery and USB OTG detection
+- Load adsp_loader_dlkm for battery status in recovery
+- Set force_sysfs_fallback=1 sysctl via cmdline
+- Drop unused touch_report_debug
+- Wire up touch in recovery
+- Wait for battery and ssr
+- Drop cpu.shares setup
+- Setup walt zone_max_util_pct
+- Drop power_key boost
+- Drop Xiaomi memory changes
+- Import init.qti.kernel.rc and init.qti.kernel.sh to tree
+- Drop Xiaomi changes from init.qti.kernel
+- Enable AptX voice power management prop
+- Disable aptX voice codec
+- Support stub mode from vendor HAL
+- Redo corner/cutout overlays
+- Bring back THP_FOD_DOWNUP_CTL
+- Call onFingerUp on cancel too
+- Build all possible soundfx modules from sources
+- Enable deps for audio blobs as much as possible
+- Remove libqtigefar from dependency check again
+- Build libvmmem from source
+- Blob out more audio libs
+- Clean up audio blob rules
+- Enable single_tap sensor
+- Move to double tap sensor
+- Make nv_mac service oneshot
+- Bring back prebuilt soundfx blobs
+- Setup lights AIDL
+- Set LED overlays only for CN hwc
+- Remap some haptics effects
+- Add MONO layout for voip_playback
+- Add DIRECT flag for voip_playback
+- Bump active count for voip_playback to 2
+- Relax RSSI thresholds
+- Add ARCore camera support
+- Fix syntax error in genfs_contexts
+- Enable frame pacing for smoother visual performance
+- Switch to dot product CPU variant
+- Drop I/O prefetcher
+- Build ANGLE app
+- Enable Optimized Power Management
+- Define supported display refresh rates
+- Enable Axion Performance Mode
+- Fix GPU sysfs genfscon paths
+- Set VENDOR_SECURITY_PATCH to PLATFORM_SECURITY_PATCH
+- Set BOOT_SECURITY_PATCH
+- Add proper README
+- Enable QPower and Deep sleep at the same time
+- Include NotGameTurbo app
+- Update Axion flags
+- Update blobs from OS3.0.302.0.WOLMIXM
+- Enable Optimized Power Management (renamed config)
+- Tune BMPS listening interval for idle power savings
+- Add missing proc_vm type
+- Set PRODUCT_ENABLE_UFFD_GC to true
+- Apply dex2oat optimizations
+- Utilize task_profiles.json + cgroups.json
+- Enable R8 optimizations for system_server and SystemUI
+- Build gapps by default
+- Add erofs compress hints
+- Guard erofs hints for erofs build
+- Enable LZ4KD by default
+- Set target high frame rate of 120
+- Bump min refresh rate to 10hz
+- Add proper dalvik configs for 12GB RAM
+- Drop hotword and pin some camera sensors
+- Remove obsolete SurfaceFlinger properties
+- Drop debug.sf.latch_unsignaled property
+- Register vendor media_codecs.xml under canonical filename to expose QTI hardware codecs
+- Don't configure zram in QCOM's init post boot script
+- Nuke irsc_util
+- Update Skia tracing properties
+- Fix connecting BLE (BT 5.x) devices (smartwatches, etc.)
+- Disable fpsop game effect
+- Remove old Axion flags
+- Rename processor string to Snapdragon 8s Gen 4
+- Re-enable fpsop game effect (change reverted)
+- Restore original media_codecs.xml registration (change reverted)
+- Add media.settings prop to fix some issues
+- Keep 5G icon visible during idle states
+- Restore previous min refresh rate (change reverted)
+- Restore previous high frame rate target (change reverted)
+- Fix processor string spacing for proper display
+- Update blobs from OS3.0.303.0.WOLMIXM/WOLCNXM
+- Restore previous frame pacing (change reverted)
+- Set swappiness to 60
+- Restore debug.sf.latch_unsignaled property (change reverted)
+- Bump dEQP levels to 2024-03-01
+- Disable Google Telecom
+- Drop debug.sf.latch_unsignaled property again
+- Don't explicitly set as an AB target
+- Expose VoWiFi for all networks
+- Add clang-format with symlink
+- Include app debloater
+- Remove media.settings prop (change reverted)
+- Define vendor_sysfs_kgsl_max_gpuclk
+- Rm package cache on early boot
+- Fix persist.vendor.nfc prop denial
+- Restore debug.sf.latch_unsignaled property again (change reverted)
+- Enable CameraX extensions support
+- Increase media volume steps from 15 to 25
+- Opt into legacy UDFPS enroll UI
+- Disable FW roaming when in idle mode
+- Explicitly build wcn7750 qcacld module
+- Drop mem-offline module
+- Restore default vsync work durations (undo gs201 sync)
+- Wire up per-fps SurfaceFlinger durations
+- Remove PASR userspace hooks
+- Enable NR data RAT UNKNOWN workaround in FrameworkOverlay
+- Set default Wi-Fi country code to '00'
+- Use vendor_sysfs_battery_supply for qcom-battery
+- Disable qcom_rx_wakelock
+- Fix static noise in games
+- Add Google Setup
+- Add Axion custom power hints for AxDragonite
+- Drop USB mics from compress_in route
+- MiuiCamera: Drop shortcut icons patch
+- MiuiCamera: Update patches and blobs to OS3.0.303.0.WOLMIXM
+- Import LZ4KD compression algorithm from HUAWEI
+- Fix stddef error in LZ4KD
+- Add missing headers for LZ4KD
+- Enable LZ4KD in kernel config
+- Fix videodev2 build by using linux/time.h for struct timespec
+- Drop obsolete mem-offline DT binding
+- Remove mem-offline driver source and Kconfig
+- Import remaining MCA charging changes from OS3.0.303.0.WOLMIXM
