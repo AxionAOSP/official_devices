@@ -101,7 +101,7 @@
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4 (`S666LN`))
 - **[Ido](https://github.com/xyzuniverse)** (Redmi Note 14 4G (`tanzanite`))
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
-- **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
+- **[Heliactyl](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
 - **[Zediss](https://github.com/zedisspp)** (Motorola G84 5G (`bangkk`))
 - **[Jefino](https://github.com/Jefino9488)** (POCO X4 GT / Redmi Note 11T Pro (+) / K50i (`xaga`))
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))

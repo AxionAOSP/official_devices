@@ -207,8 +207,8 @@
       "github_username": "DarkDolphin1"
     },
     {
-      "id": "DumbDragon",
-      "name": "DumbDragon",
+      "id": "Heliactyl",
+      "name": "Heliactyl",
       "github_username": "Badmaneers"
     },
     {
@@ -723,7 +723,7 @@
       "codename": "even",
       "name": "Realme C25/S/N50A",
       "maintainers": [
-        "DumbDragon"
+        "Heliactyl"
       ],
       "support_group": "https://t.me/c25series_official",
       "image_url": "https://example.com/even.webp"
