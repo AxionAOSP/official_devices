@@ -1,3 +1,17 @@
+Axion v2.9
+Build Date: 11/10/2026
+- Switch read-only partitions to EROFS
+- Switch EROFS compression to LZ4HC, level 12
+- Increase zRAM size to 75%
+- Implement torch light strength control
+- Fix Bluetooth audio issues after disconnecting headset
+- Fix hardware codec issues
+- Switch screen recording to AVC 3.1
+- Rewrite Lights AIDL HAL in Rust
+- Build WLAN Assistant daemon from source
+- Build stub MediaTek Common framework
+- Build stub AEE libraries
+
 Axion v2.7
 Build Date: 14/06/2026
 - Ship kaeru patched lk
@@ -37,7 +51,7 @@ Build Date : 06/02/2026
 AxionOS v2.3
 Build Date : 18/01/2026
 - Initial QPR1 Update
-- Downscale task snapshots to 70% 
+- Downscale task snapshots to 70%
 - Bring back BesLoudness
 - Disable debug logging
 - Drop Blur support for 4GB variant
@@ -46,7 +60,7 @@ Build Date : 18/01/2026
 AxionOS v2.2.1
 Build Date : 25/11/2025
 - Final QPR0 Update
-- Enabled Zram writeback 
+- Enabled Zram writeback
 - Tweak activity open/close animations
 - Reduced memory pressure (Less random reboots)
 - Kang phase offsets duration from Pixels

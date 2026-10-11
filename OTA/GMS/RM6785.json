@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1781416972,
-            "filename": "axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-CORE-RM6785.zip",
-            "id": "065e151c88dab1373940bafa467de593",
+            "datetime": 1791707835,
+            "filename": "axion-2.9-NOESIS-20261011-OFFICIAL-CORE-RM6785.zip",
+            "id": "01edbe70ebf4251964e58b19f5294da7",
             "romtype": "OFFICIAL",
-            "size": 2209180726,
-            "url": "https://cdn.axionos.org/RM6785/axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-CORE-RM6785.zip",
-            "version": "2.7"
+            "size": 2329591369,
+            "url": "https://cdn.axionos.org/RM6785/axion-2.9-NOESIS-20261011-OFFICIAL-CORE-RM6785.zip",
+            "version": "2.9"
         }
     ]
 }
