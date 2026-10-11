@@ -1,3 +1,18 @@
+AxionOS 2.9
+Build Date: 11/10/2-26
+- Enable Blur by default
+- Drop GAMEBAR
+- UPDATE WFD Blobs to dadaOS3.0.303.0.WOCMIXM
+- Fixed some denials
+- Stop 32-bit zygote from shipping
+- Switched to skiaglthreaded as backend
+- Prevent ratelimit to be configured by init scripts
+- COnvert all overlays to RRO
+- Build audio hals from source
+- Use correct usb string
+- Take different approch to disable NFC on haydn_in
+- Update firmware to V816.0.19.0.UKKMIXM
+
 AxionOS 2.7
 Build Date : 05/06/2026
 - Some Kernel optimisation
