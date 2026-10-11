@@ -2,6 +2,27 @@ Device: Redmi Note 12 Pro / Plus / Discovery 5G
 Device code name : rubyx
 Device maintainer: Casanova.
 
+AxionOS v2.9
+Date :- 11/10/26
+=================
+- Update blobs to OS2.0.16.0.UMOMIXM
+- Switch wlan_assistant to source-built daemon
+- Fix wpa_supplicant NULL pointer dereference in set_country
+- Add custom power mode hints for AxDragonite
+- Address Health HAL SELinux denials; label Axion sepolicy rules
+- Scheduler/perf tuning (schedutil, CFS, mq-deadline, TCP buffers)
+- Memory/props tuning (MGLRU, VSYNC idle, HWUI, Dalvik, AOT, SQLite)
+- Overlay tweaks (JobScheduler deep sleep, blur reductions)
+- Audio routing (USB deep_buffer, spatializer PCM profiles)
+- Miscellaneous power fixes (uclamp/cgroup) 
+- Disable statsd on boot, FUSE passthrough
+- Kernel: Merge CIP stable up to v4.19.325-cip136
+- Kernel: Backport Google BBRv3 & TCP PLB; enable SCSI-MQ + BBR default
+- Kernel: MediaTek DRM/display fixes (OVL, LK handoff, addon removal)
+- Kernel: UFS/SCSI-MQ fixes, zram lzo-rle, disable MTK debug drivers
+- Kernel: Security fixes (SELinux/ged panic, fuse UAF, f2fs, evdev, BPF)
+- Multiple under-the-hood improvements
+
 AxionOS v2.7 BETA [hotfix]
 Date :- 21/06/26
 =================
