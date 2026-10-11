@@ -34,7 +34,6 @@ AXION_OFFICIAL_DEVICES := \
     oscaro \
     alioth \
     munch \
-    peridot \
     onyx \
     miatoll \
     surya \
@@ -100,7 +99,6 @@ AXION_OFFICIAL_MAINTAINERS_avicii := Sreeshankar_K
 AXION_OFFICIAL_MAINTAINERS_oscaro := Chethan
 AXION_OFFICIAL_MAINTAINERS_alioth := Yaseakun
 AXION_OFFICIAL_MAINTAINERS_munch := SENX|センクス
-AXION_OFFICIAL_MAINTAINERS_peridot := zenin1504
 AXION_OFFICIAL_MAINTAINERS_onyx := Zarathos_Ghost_Rider
 AXION_OFFICIAL_MAINTAINERS_miatoll := RiteshSahany
 AXION_OFFICIAL_MAINTAINERS_surya := Debayan_Kar

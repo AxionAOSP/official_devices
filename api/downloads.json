@@ -866,7 +866,7 @@
       "codename": "peridot",
       "name": "POCO F6",
       "brand": "poco",
-      "status": "active",
+      "status": "inactive",
       "maintainer_ids": [
         "zenin1504"
       ],
