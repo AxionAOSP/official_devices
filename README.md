@@ -58,7 +58,6 @@
 | **Redmi Note 10 Pro / Pro Max** | `sweet` |
 | **Redmi Note 12 Pro / Plus / Discovery 5G** | `rubyx` |
 | **Redmi Note 13 Pro 5G / Poco X6 5G** | `garnet` |
-| **Redmi Note 14 4G** | `tanzanite` |
 | **Xiaomi 13** | `fuxi` |
 | **Xiaomi Pad 5** | `nabu` |
 | **Xiaomi Pad 6** | `pipa` |
@@ -97,7 +96,6 @@
 - **[Null_Pointer](https://github.com/nullpointer1101)** (Xiaomi Pad 6 (`pipa`))
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro (`LG8n`), TECNO POVA 5 (`LH7n`))
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4 (`S666LN`))
-- **[Ido](https://github.com/xyzuniverse)** (Redmi Note 14 4G (`tanzanite`))
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
 - **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
 - **[Zediss](https://github.com/zedisspp)** (Motorola G84 5G (`bangkk`))
