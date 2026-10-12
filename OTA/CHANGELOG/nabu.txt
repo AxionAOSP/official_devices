@@ -1,3 +1,7 @@
+AxionOS v2.9 NOESIS - Build Date: 12/10/2026
+-----------------------------------------------------
+- Synced with latest source
+
 AxionOS v2.8 ONEIRA - Build Date: 05/10/2026
 -----------------------------------------------------
 - Synced with latest source
