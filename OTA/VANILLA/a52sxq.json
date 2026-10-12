@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1780681029,
-            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-a52sxq.zip",
-            "id": "f4e65a15c3ad8a5dc3c6bff1772a3e7f",
+            "datetime": 1791768988,
+            "filename": "axion-2.9-NOESIS-20261012-OFFICIAL-VANILLA-a52sxq.zip",
+            "id": "3c45b4b101f52fb0a7b3e36e5d57fdb6",
             "romtype": "OFFICIAL",
-            "size": 1863572859,
-            "url": "https://cdn.axionos.org/a52sxq/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-VANILLA-a52sxq.zip",
-            "version": "2.7"
+            "size": 1767050785,
+            "url": "https://cdn.axionos.org/a52sxq/axion-2.9-NOESIS-20261012-OFFICIAL-VANILLA-a52sxq.zip",
+            "version": "2.9"
         }
     ]
 }
