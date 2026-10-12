@@ -78,3 +78,12 @@ Notes for this build (READ BEFORE INSTALLING):
 - Flashing from 2.7 will result in your home screen layout getting erased! Do not be alarmed if it's blank!
 --- Clear data of the app (Pulse) to restore the default layout!
 - Glyph interface doesn't have a settings shortcut, add the QS tile and hold it!
+
+AxionOS v2.9 [A16 FINAL] - 11/10/2026
+-------------
+- Drop dolby entirely (broken unfortunately)
+---- Also avoids a background crash that was occuring with it
+- Fix fingerprint dimlayer at lowest brightness
+- Fix AxionFx being re-enabled while disabled on audio changes
+- Implement NothingNrEnabler (to fix *certain* networks not switching to 5G Standalone)
+- Move Glyph interface shortcut back to System settings category
