@@ -31,7 +31,6 @@ AXION_OFFICIAL_DEVICES := \
     giuliac \
     macanc \
     avicii \
-    oscaro \
     alioth \
     munch \
     onyx \
@@ -95,7 +94,6 @@ AXION_OFFICIAL_MAINTAINERS_macan := Paul
 AXION_OFFICIAL_MAINTAINERS_giuliac := Genoxci
 AXION_OFFICIAL_MAINTAINERS_macanc := Paul
 AXION_OFFICIAL_MAINTAINERS_avicii := Sreeshankar_K
-AXION_OFFICIAL_MAINTAINERS_oscaro := Chethan
 AXION_OFFICIAL_MAINTAINERS_alioth := Yaseakun
 AXION_OFFICIAL_MAINTAINERS_munch := SENX|センクス
 AXION_OFFICIAL_MAINTAINERS_onyx := Zarathos_Ghost_Rider

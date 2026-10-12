@@ -34,7 +34,6 @@
 | **Oneplus Ace 5** | `giuliac` |
 | **Oneplus Ace 6T** | `macanc` |
 | **Oneplus Nord** | `avicii` |
-| **Oneplus Nord CE2 Lite 5G** | `oscaro` |
 | **POCO F3/Mi 11X/K40** | `alioth` |
 | **POCO F4/K40S** | `munch` |
 | **POCO F7** | `onyx` |
@@ -76,7 +75,6 @@
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R (`giulia`), Oneplus Ace 5 (`giuliac`), Samsung Galaxy A52s 5G (`a52sxq`))
 - **[Paul](https://github.com/paulblazer15)** (Oneplus 15R (`macan`), Oneplus Ace 6T (`macanc`))
 - **[Sreeshankar K](https://github.com/sreeshankark)** (Oneplus Nord (`avicii`))
-- **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G (`oscaro`))
 - **[Yaseakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40 (`alioth`))
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S (`munch`), POCO X7 Pro 5G (`rodin`))
 - **[Zarathos_Ghost_Rider](https://github.com/Zarathos30)** (POCO F7 (`onyx`))
