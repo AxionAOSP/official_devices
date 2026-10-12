@@ -240,6 +240,11 @@
       "id": "ZetyaWyn",
       "name": "Flying Squirrel",
       "github_username": "ZetyaWyn"
+    },
+    {
+      "id": "ー々hans.",
+      "name": "gutssnv",
+      "github_username": "gutssnv"
     }
   ],
   "devices": [
@@ -940,6 +945,14 @@
       ],
       "support_group": "https://t.me/itel_rs4",
       "image_url": "https://github.com/KimelaZX/official_devices/blob/main/OTA/Banners/devices/S666LN.webp?raw=true"
+    },
+    {
+      "codename": "X6882",
+      "name": "Infinix Hot 50 4G",
+      "maintainers": [
+        "ー々hans."
+      ],
+      "support_group": "https://t.me/hanssnv"
     }
   ]
 }
