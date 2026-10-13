@@ -1,3 +1,9 @@
+AxionOS v2.9
+Build Date : 13/10/2026
+- Revert liboemcrypto (fixed video glitch)
+- There's nothing special
+- Etc.
+
 AxionOS v2.7
 Build Date : 04/06/2026
 - Fixed mic delay during VoIP calls
