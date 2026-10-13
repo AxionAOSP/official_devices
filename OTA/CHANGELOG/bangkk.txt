@@ -2,6 +2,9 @@ Device: Motorola G84
 Device code name: bangkk
 Device maintainer: Zediss
 
+Axion v2.9
+Date - 13/10/2026
+
 Axion v2.8
 Date - 05/10/2026
 - Fix lag during screen recording
