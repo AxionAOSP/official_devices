@@ -87,3 +87,8 @@ AxionOS v2.9 [A16 FINAL] - 11/10/2026
 - Fix AxionFx being re-enabled while disabled on audio changes
 - Implement NothingNrEnabler (to fix *certain* networks not switching to 5G Standalone)
 - Move Glyph interface shortcut back to System settings category
+
+AxionOS v2.9 [A16 HOTFIX] - 11/10/2026
+-------------
+- Includes source-side fix for root access issues
+- No device changes
