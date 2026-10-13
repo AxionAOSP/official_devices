@@ -64,6 +64,7 @@
 | **TECNO POVA 4 Pro** | `LG8n` |
 | **TECNO POVA 5** | `LH7n` |
 | **Itel RS4** | `S666LN` |
+| **Infinix Hot 50 4G** | `X6882` |
 
 ## 👤 Maintainers
 - **[rmp22](https://github.com/rmp22)** (Google Pixel 6 (`oriole`), Google Pixel 6a (`bluejay`), Google Pixel 6 Pro (`raven`), Google Pixel 7 (`panther`), Google Pixel 7a (`lynx`), Google Pixel 7 Pro (`cheetah`), Google Pixel 8 (`shiba`), Google Pixel 8a (`akita`), Google Pixel 8 Pro (`husky`), Google Pixel Fold (`felix`))
@@ -101,6 +102,7 @@
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
 - **[M.Nabeel](https://github.com/neural0x)** (Xiaomi 13 (`fuxi`))
 - **[Flying Squirrel](https://github.com/ZetyaWyn)** (Redmi Note 13 Pro 5G / Poco X6 5G (`garnet`))
+- **[gutssnv](https://github.com/gutssnv)** (Infinix Hot 50 4G (`X6882`))
 
 ## 🛠 Maintainer and device registry
 
