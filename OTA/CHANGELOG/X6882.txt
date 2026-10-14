@@ -1,0 +1,5 @@
+AxionOS 2.9
+Build Date: 14/10/26
+- Initial Release
+- Fenrir Shipped
+- 64bit ROM
