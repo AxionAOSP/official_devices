@@ -1,3 +1,7 @@
+AxionOS v2.9
+Build Date: 14/10/2026
+- Update adreno graphics drivers from hollywood
+
 AxionOS v2.8
 Build Date: 06/10/2026
 - Switched to pure 64 bit ROM
