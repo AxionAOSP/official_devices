@@ -1,3 +1,10 @@
+AxionOS v2.9 EOL
+Buid Date : 15/10/2026
+- Final Android 16 (A16) build
+- Audio: Removed the direct VoIP output, which was causing an issue during WhatsApp/Telegram calls. When a notification arrived during a call, the call audio would be interrupted for a few seconds. (Thanks to ergdev for fixing this ancient bug)
+- Many more improvements and bug fixes!
+- Clean flash is MANDATORY for this release
+
 AxionOS v2.5
 Build Date : 08/04/2026
 - Initial QPR2 build
