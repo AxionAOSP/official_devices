@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769198345,
-            "filename": "axion-2.3-TELOS-20260123-OFFICIAL-VANILLA-sweet.zip",
-            "id": "f6782d6c038910a079226f2ef3cc416c",
+            "datetime": 1792146419,
+            "filename": "axion-2.9-NOESIS-20261016-OFFICIAL-VANILLA-sweet.zip",
+            "id": "d39a0c5dc399c5aacba5dee139f25e94",
             "romtype": "OFFICIAL",
-            "size": 1716289413,
-            "url": "https://oneportal-ecv.pages.dev/api/raw?path=/trm/axion/20260123/VANILLA/axion-2.3-TELOS-20260123-OFFICIAL-VANILLA-sweet.zip",
-            "version": "2.3"
+            "size": 1926607261,
+            "url": "https://cdn.axionos.org/sweet/axion-2.9-NOESIS-20261016-OFFICIAL-VANILLA-sweet.zip",
+            "version": "2.9"
         }
     ]
 }

@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769200621,
-            "filename": "axion-2.3-TELOS-20260123-OFFICIAL-GMS-sweet.zip",
-            "id": "15ddb864c38f16189c078ec393faa007",
+            "datetime": 1792144804,
+            "filename": "axion-2.9-NOESIS-20261016-OFFICIAL-GMS-sweet.zip",
+            "id": "bfda59f0d6f141aeaa8eaac4c7e8cb7b",
             "romtype": "OFFICIAL",
-            "size": 2396480901,
-            "url": "https://oneportal-ecv.pages.dev/api/raw?path=/trm/axion/20260123/GMS/axion-2.3-TELOS-20260123-OFFICIAL-GMS-sweet.zip",
-            "version": "2.3"
+            "size": 2671711658,
+            "url": "https://cdn.axionos.org/sweet/axion-2.9-NOESIS-20261016-OFFICIAL-GMS-sweet.zip",
+            "version": "2.9"
         }
     ]
 }
