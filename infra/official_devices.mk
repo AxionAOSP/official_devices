@@ -21,6 +21,7 @@ AXION_OFFICIAL_DEVICES := \
     Pong \
     Pacman \
     PacmanPro \
+    Galaxian \
     instantnoodle \
     instantnoodlep \
     kebab \
@@ -85,6 +86,7 @@ AXION_OFFICIAL_MAINTAINERS_bangkk := Zediss
 AXION_OFFICIAL_MAINTAINERS_Pong := hiroshi._(Superuser)
 AXION_OFFICIAL_MAINTAINERS_Pacman := Shravan
 AXION_OFFICIAL_MAINTAINERS_PacmanPro := Shravan
+AXION_OFFICIAL_MAINTAINERS_Galaxian := CRAZY_JOKER67
 AXION_OFFICIAL_MAINTAINERS_instantnoodle := Itachi
 AXION_OFFICIAL_MAINTAINERS_instantnoodlep := Itachi
 AXION_OFFICIAL_MAINTAINERS_kebab := Itachi

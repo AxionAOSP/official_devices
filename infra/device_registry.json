@@ -245,6 +245,11 @@
       "id": "ー々hans.",
       "name": "gutssnv",
       "github_username": "gutssnv"
+    },
+    {
+      "id": "CRAZY_JOKER67",
+      "name": "CRAZY_JOKER67",
+      "github_username": "Andreyka445"
     }
   ],
   "devices": [
@@ -486,6 +491,14 @@
       ],
       "support_group": "https://t.me/exediscuss",
       "image_url": "https://cdn.shopify.com/s/files/1/0585/2479/5086/products/black-1.png?v=1709369706"
+    },
+    {
+      "codename": "Galaxian",
+      "name": "Nothing Phone 3a Lite",
+      "maintainers": [
+        "CRAZY_JOKER67"
+      ],
+      "image_url": "https://raw.githubusercontent.com/AxionAOSP/official_devices/main/OTA/Banners/devices/Galaxian.webp"
     },
     {
       "codename": "instantnoodle",

@@ -24,6 +24,7 @@
 | **Nothing Phone (2)** | `Pong` |
 | **Nothing Phone 2a** | `Pacman` |
 | **Nothing Phone 2a Plus** | `PacmanPro` |
+| **Nothing Phone 3a Lite** | `Galaxian` |
 | **Oneplus 8** | `instantnoodle` |
 | **Oneplus 8 Pro** | `instantnoodlep` |
 | **Oneplus 8T** | `kebab` |
@@ -103,6 +104,7 @@
 - **[M.Nabeel](https://github.com/neural0x)** (Xiaomi 13 (`fuxi`))
 - **[Flying Squirrel](https://github.com/ZetyaWyn)** (Redmi Note 13 Pro 5G / Poco X6 5G (`garnet`))
 - **[gutssnv](https://github.com/gutssnv)** (Infinix Hot 50 4G (`X6882`))
+- **[CRAZY_JOKER67](https://github.com/Andreyka445)** (Nothing Phone 3a Lite (`Galaxian`))
 
 ## 🛠 Maintainer and device registry
 
