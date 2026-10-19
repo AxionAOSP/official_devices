@@ -1,3 +1,18 @@
+AxionAOSP v2.9
+Build Date: 19/10/2026
+- Synced to the latest AxionAOSP sources
+- Restrict apps access to /proc/net/unix
+- Enable display smooth motion
+- rro_overlays: Drop COLOR_MODE_AUTOMATIC
+- Enable TWS plus feature using persist property
+- AAC frame control enabled for hal implementation
+- Drop debug.sf.latch_unsignaled property
+- Enable debug.sf.auto_latch_unsignaled property
+- Add formattable flag for /data fstab entry
+- fix vold_prepare_subdirs denials
+- Switch to Kawase2 render engine blur algorithm
+- Use skiagl threaded
+
 AxionAOSP v2.3
 Build Date: 23/01/2026
 - Synced latest AxionAOSP sources (QPR1)
