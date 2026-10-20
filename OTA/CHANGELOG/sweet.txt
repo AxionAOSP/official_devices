@@ -1,4 +1,8 @@
 AxionAOSP v2.9
+Build Date: 20/10/2026
+- Synced to the latest AxionAOSP sources (Freezing Fixes)
+
+AxionAOSP v2.9
 Build Date: 19/10/2026
 - Synced to the latest AxionAOSP sources
 - Restrict apps access to /proc/net/unix
