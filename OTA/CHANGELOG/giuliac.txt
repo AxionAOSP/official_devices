@@ -1,3 +1,14 @@
+AxionOS v2.9
+Build Date: 2026/10/21
+- Updated blobs to 16.0.10.500
+- Updated kernel to 6.1.176
+- Reimplemented dolby vision
+- More device side changes
+- May android security bulletin
+- A whole lot of source side changes
+  https://github.com/AxionAOSP/axion_changelogs
+- This ROM ships with OOS 16.0.10.500 firmware (ARB 1)
+
 AxionOS v2.7
 Build Date: 2026/06/05
 - Kernel upstream to 6.1.170
