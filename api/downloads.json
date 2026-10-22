@@ -1304,6 +1304,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/violet.md"
     },
     {
+      "codename": "ginkgo",
+      "name": "Redmi Note 8",
+      "brand": "xiaomi",
+      "status": "active",
+      "maintainer_ids": [
+        "herunpam"
+      ],
+      "support_group": "",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/ginkgo.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/ginkgo.webp",
+        "fallback": ""
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/ginkgo.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/ginkgo.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/ginkgo.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/ginkgo.md"
+    },
+    {
       "codename": "begonia",
       "name": "Redmi Note 8 Pro",
       "brand": "xiaomi",

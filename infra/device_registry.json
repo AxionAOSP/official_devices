@@ -250,6 +250,11 @@
       "id": "CRAZY_JOKER67",
       "name": "CRAZY_JOKER67",
       "github_username": "Andreyka445"
+    },
+    {
+      "id": "herunpam",
+      "name": "herunpam",
+      "github_username": "herunpam-alt"
     }
   ],
   "devices": [
@@ -830,6 +835,14 @@
       ],
       "support_group": "https://t.me/Joker_viomeme",
       "image_url": "https://wiki.lineageos.org/images/devices/violet.png"
+    },
+    {
+      "codename": "ginkgo",
+      "name": "Redmi Note 8",
+      "maintainers": [
+        "herunpam"
+      ],
+      "official": false
     },
     {
       "codename": "begonia",

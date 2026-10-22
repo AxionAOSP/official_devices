@@ -428,6 +428,14 @@
       "devices": [
         "Galaxian"
       ]
+    },
+    {
+      "id": "herunpam",
+      "name": "herunpam",
+      "github_username": "herunpam-alt",
+      "devices": [
+        "ginkgo"
+      ]
     }
   ]
 }
