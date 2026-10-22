@@ -1,3 +1,13 @@
+AxionOS v2.9 - EOL
+Build Date : 22/10/2026
+- Imported Stock MiuiCamera
+- Fixed VoWifi / Vilte 
+- Fixed HDR playback
+- Fixed Notification LED timer
+- Ported C2 from S vendor rosemary (u dont need to flash playback fix anymore)
+- Improved Scrolling Smoothness
+- Included Kaeru modified lk (Spoofs bl as locked by default | Open settings > Personalize > Essential > pif > fetch pif ..u will get Basic + Device integrity )
+
 AxionOS v2.7_BETA
 Build Date : 06/06/2026
 - Fixed EngineerMode
