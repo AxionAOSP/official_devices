@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1791272635,
-            "filename": "axion-2.8-ONEIRA_FINAL-20261006-OFFICIAL-CORE-spartan.zip",
-            "id": "e4db84a47736603a5165fe3afd3d20dd",
+            "datetime": 1792649130,
+            "filename": "axion-2.9-NOESIS-20261022-OFFICIAL-CORE-spartan.zip",
+            "id": "28db246d56cd4f3202eb441a229ea731",
             "romtype": "OFFICIAL",
-            "size": 2506459569,
-            "url": "https://cdn.axionos.org/spartan/axion-2.8-ONEIRA_FINAL-20261006-OFFICIAL-CORE-spartan.zip",
-            "version": "2.8"
+            "size": 2465567159,
+            "url": "https://cdn.axionos.org/spartan/axion-2.9-NOESIS-20261022-OFFICIAL-CORE-spartan.zip",
+            "version": "2.9"
         }
     ]
 }
