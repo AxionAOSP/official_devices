@@ -1,4 +1,8 @@
 AxionOS v2.9
+Build Date : 23/10/2026
+- Various bug and issue fixes reported by users
+
+AxionOS v2.9
 Build Date : 10/10/2026
 Changelog:
 - Dolby added
