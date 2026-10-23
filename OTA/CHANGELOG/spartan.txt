@@ -74,3 +74,9 @@ AxionOS v2.8
 Build Date : 06/10/2026
 - Removed RealmeAddons
 - Ships with Entropy 1.6 kernel
+
+AxionOS v2.9
+
+Build Date : 22/10/2026
+- Latest Security Patch
+- Ships with Entropy 1.7 kernel
