@@ -2,6 +2,11 @@ Device: Motorola G84
 Device code name: bangkk
 Device maintainer: Zediss
 
+AxionAOSP v2.9
+Build Date: 23/10/2026
+- Synced to the latest AxionAOSP sources
+- Fixes and improvements
+
 Axion v2.9
 Date - 13/10/2026
 
