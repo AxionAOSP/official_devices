@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1781420555,
-            "filename": "axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-CORE-bitra.zip",
-            "id": "3366ae7be847fc1b592a931ebec27d1e",
+            "datetime": 1792757729,
+            "filename": "axion-2.9-NOESIS-20261023-OFFICIAL-CORE-bitra.zip",
+            "id": "f9f75fcf7a523ba95ed97fc98c520c72",
             "romtype": "OFFICIAL",
-            "size": 2808405714,
-            "url": "https://cdn.axionos.org/bitra/axion-2.7-PROXIMA_BETA-20260614-OFFICIAL-CORE-bitra.zip",
-            "version": "2.7"
+            "size": 2762374935,
+            "url": "https://cdn.axionos.org/bitra/axion-2.9-NOESIS-20261023-OFFICIAL-CORE-bitra.zip",
+            "version": "2.9"
         }
     ]
 }
