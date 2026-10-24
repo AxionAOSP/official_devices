@@ -1,3 +1,25 @@
+Axion v2.9
+Build Date : 24/10/2026
+- Latest Security Patch
+- Enabled AOSP SurfaceFlinger
+- Improved CPU task placement and background scheduling
+- Restricted foreground tasks from running on CPU7
+- Optimized background and restricted CPU sets
+- Improved battery backup
+- Reduced unnecessary system, camera and sensor logging
+- Updated Power HAL permissions
+- Removed PowerProfile POWER_NONE overlay
+- Removed bypass charging
+- Enabled predictive back gestures
+- Refined Parts UI with expressive design
+- Improved GameBar resources and translations
+- Updated SELinux policies for power, storage and ZRAM
+- Fixed Bluetooth LE connectivity with BT 5.x devices
+- Updated fingerprint HAL permissions
+- Reverted Qualcomm power hint configuration
+- Added Hyperos Gallery Editor
+- Kernel Upstream 272
+
 AxionOS v2.9
 Build Date : 10/10/2026
 - Disable QCOM system daemon
@@ -31,4 +53,5 @@ Build Date: 05/10/2026
 Credit :
 Thanks to @grewal for all resource
 Thanks to @jotanh for the Leica camera
-Thanks to @ZylhdrXP Kernel upstrem fixes
+Thanks to @ZylhdrXP for the Kernel upstrem fixes
+Thanks to @montfort_1607 for the Hyperos Gallery Editor
