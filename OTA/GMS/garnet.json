@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1791646647,
-            "filename": "axion-2.9-NOESIS-20261010-OFFICIAL-CORE-garnet.zip",
-            "id": "8495b4e9fefbf64956167a5cc01216cb",
+            "datetime": 1792823155,
+            "filename": "axion-2.9-NOESIS-20261024-OFFICIAL-CORE-garnet.zip",
+            "id": "9778fc264ea851007e3c313285dae7da",
             "romtype": "OFFICIAL",
-            "size": 2493886010,
-            "url": "https://cdn.axionos.org/garnet/axion-2.9-NOESIS-20261010-OFFICIAL-CORE-garnet.zip",
+            "size": 2755265605,
+            "url": "https://cdn.axionos.org/garnet/axion-2.9-NOESIS-20261024-OFFICIAL-CORE-garnet.zip",
             "version": "2.9"
         }
     ]
 }
-
