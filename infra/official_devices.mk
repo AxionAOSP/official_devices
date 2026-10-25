@@ -45,7 +45,6 @@ AXION_OFFICIAL_DEVICES := \
     even \
     bitra \
     spartan \
-    haydn \
     lancelot \
     raphael \
     lavender \
@@ -110,7 +109,6 @@ AXION_OFFICIAL_MAINTAINERS_RM6785 := 𝙴𝙻𝙾𝙷𝙸𝙼
 AXION_OFFICIAL_MAINTAINERS_even := Heliactyl
 AXION_OFFICIAL_MAINTAINERS_bitra := Bijoy
 AXION_OFFICIAL_MAINTAINERS_spartan := Bijoy
-AXION_OFFICIAL_MAINTAINERS_haydn := Lucifer
 AXION_OFFICIAL_MAINTAINERS_lancelot := doissM
 AXION_OFFICIAL_MAINTAINERS_raphael := Muhammad_Al-Arabi
 AXION_OFFICIAL_MAINTAINERS_lavender := Amrito_Karmokar
