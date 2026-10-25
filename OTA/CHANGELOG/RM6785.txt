@@ -1,4 +1,10 @@
 Axion v2.9
+Build Date: 25/10/2026
+- Sync with latest source
+- Switch to Codec2 stack from rosemary
+- Include stock oppo cam
+
+Axion v2.9
 Build Date: 11/10/2026
 - Switch read-only partitions to EROFS
 - Switch EROFS compression to LZ4HC, level 12

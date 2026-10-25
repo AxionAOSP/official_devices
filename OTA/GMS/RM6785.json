@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1791707835,
-            "filename": "axion-2.9-NOESIS-20261011-OFFICIAL-CORE-RM6785.zip",
-            "id": "01edbe70ebf4251964e58b19f5294da7",
+            "datetime": 1792921741,
+            "filename": "axion-2.9-NOESIS-20261025-OFFICIAL-CORE-RM6785.zip",
+            "id": "bb52078a4afa86e89d5e5b64b2235eb1",
             "romtype": "OFFICIAL",
-            "size": 2329591369,
-            "url": "https://cdn.axionos.org/RM6785/axion-2.9-NOESIS-20261011-OFFICIAL-CORE-RM6785.zip",
+            "size": 2448450250,
+            "url": "https://cdn.axionos.org/RM6785/axion-2.9-NOESIS-20261025-OFFICIAL-CORE-RM6785.zip",
             "version": "2.9"
         }
     ]
