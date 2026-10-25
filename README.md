@@ -48,7 +48,6 @@
 | **Realme C25/S/N50A** | `even` |
 | **Realme GT Neo 2** | `bitra` |
 | **Realme GT Neo 3T** | `spartan` |
-| **Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+** | `haydn` |
 | **Redmi 9** | `lancelot` |
 | **Redmi K20 Pro / Mi 9T Pro** | `raphael` |
 | **Redmi Note 7/7s** | `lavender` |
@@ -91,7 +90,6 @@
 - **[therealmharc](https://github.com/therealmharc)** (Redmi Note 10 Pro / Pro Max (`sweet`))
 - **[Casanova.](https://github.com/rajdeep-3305)** (Redmi Note 12 Pro / Plus / Discovery 5G (`rubyx`))
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro (`raphael`))
-- **[Lucifer](https://github.com/Never-Alive)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+ (`haydn`))
 - **[°⊥⋊ɹ∀°](https://github.com/ArKT-7)** (Xiaomi Pad 5 (`nabu`))
 - **[Null_Pointer](https://github.com/nullpointer1101)** (Xiaomi Pad 6 (`pipa`))
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro (`LG8n`), TECNO POVA 5 (`LH7n`))

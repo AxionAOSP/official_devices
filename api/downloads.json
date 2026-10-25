@@ -1160,7 +1160,7 @@
       "codename": "haydn",
       "name": "Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+",
       "brand": "xiaomi",
-      "status": "active",
+      "status": "inactive",
       "maintainer_ids": [
         "Lucifer"
       ],
