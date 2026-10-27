@@ -2,6 +2,26 @@ Device: Redmi Note 12 Pro / Plus / Discovery 5G
 Device code name : rubyx
 Device maintainer: Casanova.
 
+AxionOS v2.9 Hotfix
+Date :- 27/10/26
+=================
+- Rework powerhint
+- Drop zram writeback and enforce swappiness to 100
+- Tune SurfaceFlinger latency and switch blur algorithm to kawase2
+- Tune schedutil rate limits and align foreground uclamp cpusets
+- Address SELinux denials (campostproc, Dolby Vision, fingerprint/spi, system_app)
+- Stop enforcing mq-deadline at boot
+- Drop obsolete telephony vendor_init props
+- Kernel: Introduce BORE scheduler
+- Kernel: Enable ThinLTO with machine function split optimizations
+- Kernel: Optimized memory functions (memcpy, memmove, memset, memcmp)
+- Kernel: Add driver to control MediaTek sched boosts from userspace
+- Kernel: Scheduler optimizations and ttwu fixes
+- Kernel: Extensively purge MTK driver logging and debug spam
+- Kernel: Upstream filesystem stability fixes for F2FS and FUSE
+- Kernel: BPF, networking, blk-mq, and memory management fixes
+- Multiple under-the-hood improvements
+
 AxionOS v2.9
 Date :- 11/10/26
 =================
