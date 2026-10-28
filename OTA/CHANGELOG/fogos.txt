@@ -1,4 +1,8 @@
 AxionOS v2.9
+Build Date : 28/10/2026
+- Just sync latest source
+
+AxionOS v2.9
 Build Date : 13/10/2026
 - Revert liboemcrypto (fixed video glitch)
 - There's nothing special
