@@ -1,3 +1,16 @@
+AxionOS v2.9 [Hotfix]
+Build Date: 30/10/2026
+- Added Vanilla build
+- Fixed freezing and SurfaceFlinger jank issues
+- Fixed voLTE / ims
+- Included Dolby Lunaris
+- Enabled Vulkan
+- Switched to schedutil governor
+- Improved dexopt and zRAM
+- non-AOSP recovery supported
+- Tune up hwui
+- Switch blur algorithm to kawase2
+
 AxionOS 2.9
 Build Date: 14/10/26
 - Initial Release

@@ -101,7 +101,7 @@
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
 - **[M.Nabeel](https://github.com/neural0x)** (Xiaomi 13 (`fuxi`))
 - **[Flying Squirrel](https://github.com/ZetyaWyn)** (Redmi Note 13 Pro 5G / Poco X6 5G (`garnet`))
-- **[gutssnv](https://github.com/gutssnv)** (Infinix Hot 50 4G (`X6882`))
+- **[Hans.](https://github.com/gutssnv)** (Infinix Hot 50 4G (`X6882`))
 - **[CRAZY_JOKER67](https://github.com/Andreyka445)** (Nothing Phone 3a Lite (`Galaxian`))
 
 ## 🛠 Maintainer and device registry
