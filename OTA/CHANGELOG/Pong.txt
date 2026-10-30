@@ -92,3 +92,11 @@ AxionOS v2.9 [A16 HOTFIX] - 11/10/2026
 -------------
 - Includes source-side fix for root access issues
 - No device changes
+
+AxionOS v2.9 - 29/10/2026
+-------------
+- Includes source-side fix for Play integrity fix
+- Glyph: Implement basic rule-based essential notifications
+- Glyph: Allow setting animations based on notification channel
+- Glyph: Cache applications to allow for faster launching
+- Glyph: Fix initial state of animation preference when disabled on load
