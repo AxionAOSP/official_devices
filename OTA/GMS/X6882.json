@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1791973488,
-            "filename": "axion-2.9-NOESIS-20261014102456-OFFICIAL-CORE-X6882.zip",
-            "id": "9d006b0c196bba6235d3dc2a3760d940",
+            "datetime": 1793380466,
+            "filename": "axion-2.9-NOESIS-20261030171524-OFFICIAL-CORE-X6882.zip",
+            "id": "34b210523fc69a45691b1f6575a749ed",
             "romtype": "OFFICIAL",
-            "size": 2267258674,
-            "url": "https://cdn.axionos.org/X6882/axion-2.9-NOESIS-20261014102456-OFFICIAL-CORE-X6882.zip",
+            "size": 2248575571,
+            "url": "https://cdn.axionos.org/X6882/axion-2.9-NOESIS-20261030171524-OFFICIAL-CORE-X6882.zip",
             "version": "2.9"
         }
     ]
