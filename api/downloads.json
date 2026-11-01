@@ -1617,6 +1617,27 @@
       },
       "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/X6882.txt",
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/X6882.md"
+    },
+    {
+      "codename": "X6880",
+      "name": "Infinix Hot 50 Pro+ 4G",
+      "brand": "other",
+      "status": "active",
+      "maintainer_ids": [
+        "ーケrayannn."
+      ],
+      "support_group": "https://t.me/rayaaannnnnnnnn",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/X6880.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/x6880.webp",
+        "fallback": "https://fdn2.gsmarena.com/vv/pics/infinix/infinix-hot-50-pro-plus-4g-1.jpg"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/X6880.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/X6880.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/X6880.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/X6880.md"
     }
   ]
 }
