@@ -1,0 +1,10 @@
+AxionOS 2.9
+Build Date - 02/11/2026
+================
+- Initial Release
+- Fenrir Shipped
+- 64bit ROM
+- Included Dolby Lunaris
+- Signed Builds
+- NFC Fixed
+- FOD Fixed
