@@ -1,0 +1,9 @@
+AxionOS 2.9
+Build Date - 04/11/2026
+================
+- Initial Release
+- Based on OS3.0.304.0.WOZMIXM
+- Fixed Dolby Atmos and Quad Speakers
+- Fixed Focus Pen Pro buttons and gestures
+- Added Stylus Settings and Stylus Panel
+- Signed Builds
