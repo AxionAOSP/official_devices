@@ -1514,6 +1514,27 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/pipa.md"
     },
     {
+      "codename": "uke",
+      "name": "Xiaomi Pad 7/POCO Pad X1",
+      "brand": "xiaomi",
+      "status": "active",
+      "maintainer_ids": [
+        "delano-git"
+      ],
+      "support_group": "https://t.me/axion_uke",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/uke.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/uke.webp",
+        "fallback": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-7-pro-1.jpg"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/uke.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/uke.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/uke.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/uke.md"
+    },
+    {
       "codename": "a52sxq",
       "name": "Samsung Galaxy A52s 5G",
       "brand": "samsung",

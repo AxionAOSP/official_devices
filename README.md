@@ -60,6 +60,7 @@
 | **Xiaomi 13** | `fuxi` |
 | **Xiaomi Pad 5** | `nabu` |
 | **Xiaomi Pad 6** | `pipa` |
+| **Xiaomi Pad 7/POCO Pad X1** | `uke` |
 | **Samsung Galaxy A52s 5G** | `a52sxq` |
 | **TECNO POVA 4 Pro** | `LG8n` |
 | **TECNO POVA 5** | `LH7n` |
@@ -105,6 +106,7 @@
 - **[Hans.](https://github.com/gutssnv)** (Infinix Hot 50 4G (`X6882`))
 - **[CRAZY_JOKER67](https://github.com/Andreyka445)** (Nothing Phone 3a Lite (`Galaxian`))
 - **[rayann](https://github.com/rayannnzz)** (Infinix Hot 50 Pro+ 4G (`X6880`))
+- **[delano](https://github.com/delano-git)** (Xiaomi Pad 7/POCO Pad X1 (`uke`))
 
 ## 🛠 Maintainer and device registry
 
