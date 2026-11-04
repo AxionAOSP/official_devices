@@ -255,6 +255,11 @@
       "id": "ーケrayannn.",
       "name": "rayann",
       "github_username": "rayannnzz"
+    },
+    {
+      "id": "delano-git",
+      "name": "delano",
+      "github_username": "delano-git"
     }
   ],
   "devices": [
@@ -928,6 +933,16 @@
       ],
       "support_group": "https://t.me/the_usual_suspects_777",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad6-1.jpg"
+    },
+    {
+      "codename": "uke",
+      "name": "Xiaomi Pad 7/POCO Pad X1",
+      "maintainers": [
+        "delano-git"
+      ],
+      "brand": "xiaomi",
+      "support_group": "https://t.me/axion_uke",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-7-pro-1.jpg"
     },
     {
       "codename": "a52sxq",

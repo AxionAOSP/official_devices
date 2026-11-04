@@ -436,6 +436,14 @@
       "devices": [
         "X6880"
       ]
+    },
+    {
+      "id": "delano-git",
+      "name": "delano",
+      "github_username": "delano-git",
+      "devices": [
+        "uke"
+      ]
     }
   ]
 }

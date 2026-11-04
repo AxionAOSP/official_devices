@@ -57,6 +57,7 @@ AXION_OFFICIAL_DEVICES := \
     fuxi \
     nabu \
     pipa \
+    uke \
     a52sxq \
     LG8n \
     LH7n \
@@ -122,6 +123,7 @@ AXION_OFFICIAL_MAINTAINERS_garnet := ZetyaWyn
 AXION_OFFICIAL_MAINTAINERS_fuxi := 🔻neural0x🔻
 AXION_OFFICIAL_MAINTAINERS_nabu := °⊥⋊ɹ∀°
 AXION_OFFICIAL_MAINTAINERS_pipa := Null_Pointer
+AXION_OFFICIAL_MAINTAINERS_uke := delano-git
 AXION_OFFICIAL_MAINTAINERS_a52sxq := Genoxci
 AXION_OFFICIAL_MAINTAINERS_LG8n := Shirayuki39
 AXION_OFFICIAL_MAINTAINERS_LH7n := Shirayuki39
