@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1780946133,
-            "filename": "axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-PICO-lavender.zip",
-            "id": "71b255d9b6e5c05379453d24eccabb84",
+            "datetime": 1793651097,
+            "filename": "axion-2.9-NOESIS-20261102-OFFICIAL-CORE-lavender.zip",
+            "id": "094b87a547b6b5f98009de6405117b38",
             "romtype": "OFFICIAL",
-            "size": 1803037482,
-            "url": "https://cdn.axionos.org/lavender/axion-2.7-PROXIMA_BETA-20260608-OFFICIAL-PICO-lavender.zip",
-            "version": "2.7"
+            "size": 1910748049,
+            "url": "https://cdn.axionos.org/lavender/axion-2.9-NOESIS-20261102-OFFICIAL-CORE-lavender.zip",
+            "version": "2.9"
         }
     ]
 }
-

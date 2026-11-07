@@ -1,3 +1,16 @@
+Axion v2.9
+Build Date : 08/11/2026
+
+- Fix USB audio output
+- Fix charging control
+- powerhint: adapt adpf, uclamp and HeuristicBoost from raphael
+- Kang lmkd prop from rmx2020
+- Import uclamp sysctl tunings
+- Enable dynamic_ecns audio feature
+- Explicitly disable GL comp backpressure for better blur handle
+- lmkd set prop for kill heaviest task instead of any eligible task
+- bring back dolby atmos
+
 Axion v2.7
 Build Date : 10/06/2026
 
