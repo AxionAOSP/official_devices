@@ -3,6 +3,11 @@ Device code name: bangkk
 Device maintainer: Zediss
 
 AxionAOSP v2.9
+Build Date: 07/11/2026
+- Synced to the latest AxionAOSP sources
+- Fix apps that are inactive and preventing you from receiving messages
+
+AxionAOSP v2.9
 Build Date: 23/10/2026
 - Synced to the latest AxionAOSP sources
 - Fixes and improvements
