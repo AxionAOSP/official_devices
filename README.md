@@ -20,7 +20,6 @@
 | **Google Pixel 10 Pro XL** | `mustang` |
 | **Google Pixel Fold** | `felix` |
 | **Motorola G34/45 5G** | `fogos` |
-| **Motorola G84 5G** | `bangkk` |
 | **Nothing Phone (2)** | `Pong` |
 | **Nothing Phone 2a** | `Pacman` |
 | **Nothing Phone 2a Plus** | `PacmanPro` |
@@ -98,7 +97,6 @@
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4 (`S666LN`))
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
 - **[Heliactyl](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
-- **[Zediss](https://github.com/zedisspp)** (Motorola G84 5G (`bangkk`))
 - **[Jefino](https://github.com/Jefino9488)** (POCO X4 GT / Redmi Note 11T Pro (+) / K50i (`xaga`))
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
 - **[M.Nabeel](https://github.com/neural0x)** (Xiaomi 13 (`fuxi`))
