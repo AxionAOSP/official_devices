@@ -1,4 +1,15 @@
 AxionOS v2.9
+Build Date : 17/11/2026
+- Synced with latest ROM source(built-in integrity fixed)
+- Updated device trees
+- Updated firmware and blobs to OxygenOS 11.F.94
+- Updated kernel to 6.6.144
+- LTPO: idle refresh rate is now driven by the kernel
+- Removed AxionFX(no more random buzz), Dolby Atmos stays
+- Clean flash recommended. Dirty flash over the previous build is supported
+- Note: the first boot after updating can take 10-20 minutes while apps are optimized
+
+AxionOS v2.9
 Build Date : 09/10/2026
 - Initial Official Release
 - October 2026 security patch
