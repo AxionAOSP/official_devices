@@ -611,6 +611,48 @@
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/kebab.md"
     },
     {
+      "codename": "lemonade",
+      "name": "OnePlus 9",
+      "brand": "oneplus",
+      "status": "active",
+      "maintainer_ids": [
+        "T๏иy"
+      ],
+      "support_group": "https://t.me/axionos_op9",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/lemonade.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/lemonade.webp",
+        "fallback": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9/Astralblack_9-min.png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/lemonade.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/lemonade.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/lemonade.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/lemonade.md"
+    },
+    {
+      "codename": "lemonadep",
+      "name": "OnePlus 9 Pro",
+      "brand": "oneplus",
+      "status": "active",
+      "maintainer_ids": [
+        "T๏иy"
+      ],
+      "support_group": "https://t.me/axionos_op9",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/lemonadep.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/lemonadep.webp",
+        "fallback": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Stellar%20Black-gallery..png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/lemonadep.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/lemonadep.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/lemonadep.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/lemonadep.md"
+    },
+    {
       "codename": "lemonades",
       "name": "Oneplus 9R",
       "brand": "oneplus",

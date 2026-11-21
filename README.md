@@ -27,6 +27,8 @@
 | **Oneplus 8** | `instantnoodle` |
 | **Oneplus 8 Pro** | `instantnoodlep` |
 | **Oneplus 8T** | `kebab` |
+| **OnePlus 9** | `lemonade` |
+| **OnePlus 9 Pro** | `lemonadep` |
 | **Oneplus 9R** | `lemonades` |
 | **Oneplus 13** | `dodge` |
 | **Oneplus 13R** | `giulia` |
@@ -105,6 +107,7 @@
 - **[CRAZY_JOKER67](https://github.com/Andreyka445)** (Nothing Phone 3a Lite (`Galaxian`))
 - **[rayann](https://github.com/rayannnzz)** (Infinix Hot 50 Pro+ 4G (`X6880`))
 - **[delano](https://github.com/delano-git)** (Xiaomi Pad 7/POCO Pad X1 (`uke`))
+- **[T๏иy](https://github.com/varakumar02)** (OnePlus 9 (`lemonade`), OnePlus 9 Pro (`lemonadep`))
 
 ## 🛠 Maintainer and device registry
 
