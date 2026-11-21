@@ -260,6 +260,11 @@
       "id": "delano-git",
       "name": "delano",
       "github_username": "delano-git"
+    },
+    {
+      "id": "T๏иy",
+      "name": "T๏иy",
+      "github_username": "varakumar02"
     }
   ],
   "devices": [
@@ -537,6 +542,24 @@
       ],
       "support_group": "https://t.me/ItachiRomSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/kebab.png"
+    },
+    {
+      "codename": "lemonade",
+      "name": "OnePlus 9",
+      "maintainers": [
+        "T๏иy"
+      ],
+      "support_group": "https://t.me/axionos_op9",
+      "image_url": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9/Astralblack_9-min.png"
+    },
+    {
+      "codename": "lemonadep",
+      "name": "OnePlus 9 Pro",
+      "maintainers": [
+        "T๏иy"
+      ],
+      "support_group": "https://t.me/axionos_op9",
+      "image_url": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Stellar%20Black-gallery..png"
     },
     {
       "codename": "lemonades",
