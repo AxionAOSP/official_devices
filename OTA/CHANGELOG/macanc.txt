@@ -1,4 +1,30 @@
 AxionOS v2.9
+Build Date: 2026/11/23
+
+Changelog:
+Sync with latest source changes
+Switch to LOS kernel (OSS)
+Add Dolby Atmos and Dolby Vision support
+Fix DT2W and touch gestures
+Fix blur preview on oneplus camera
+Fix landscape status bar height
+Draw the real rounded corners in SystemUI
+Size the status bar to the camera hole
+Move corner clearance to the framework dimen
+Update display cutout from stock
+Update color modes from stock
+Enable refresh rate synchronization
+Configure auto brightness from stock
+Enable spatial audio
+Enable WLAN scan request in ULL mode
+Update WifiResTarget overlays from OOS 11.A.51
+Disable duplicate XTRA daemon startup
+Generate thermal-engine.conf from stock policies
+Build common ALS correction wrapper
+Add dcp partition image
+Added various other fixes and improvements
+
+AxionOS v2.9
 Build Date : 2026/10/09
 
 Changelog:
