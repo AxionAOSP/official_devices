@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1793817526,
-            "filename": "axion-2.9-NOESIS-20261104-OFFICIAL-VANILLA-uke-fastboot.zip",
-            "id": "fbf5282a9e52ef9a2a510c6d602336dc",
+            "datetime": 1795452660,
+            "filename": "axion-2.9-NOESIS-20261123-OFFICIAL-VANILLA-uke.zip",
+            "id": "e7e6d3a3f35c07f4cd18c306c5220b9f",
             "romtype": "OFFICIAL",
-            "size": 3258217290,
-            "url": "https://cdn.axionos.org/uke/axion-2.9-NOESIS-20261104-OFFICIAL-VANILLA-uke-fastboot.zip",
+            "size": 2725315364,
+            "url": "https://cdn.axionos.org/uke/axion-2.9-NOESIS-20261123-OFFICIAL-VANILLA-uke.zip",
             "version": "2.9"
         }
     ]

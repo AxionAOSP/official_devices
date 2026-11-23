@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1793817526,
-            "filename": "axion-2.9-NOESIS-20261104-OFFICIAL-GMS-uke-fastboot.zip",
-            "id": "1d1b3b35f5043d6b8ed475b94fe24e69",
+            "datetime": 1795451557,
+            "filename": "axion-2.9-NOESIS-20261123-OFFICIAL-GMS-uke.zip",
+            "id": "5f42cb65f175b8df394d1f698cdf7be4",
             "romtype": "OFFICIAL",
-            "size": 3687252901,
-            "url": "https://cdn.axionos.org/uke/axion-2.9-NOESIS-20261104-OFFICIAL-GMS-uke-fastboot.zip",
+            "size": 3055189713,
+            "url": "https://cdn.axionos.org/uke/axion-2.9-NOESIS-20261123-OFFICIAL-GMS-uke.zip",
             "version": "2.9"
         }
     ]

@@ -18,15 +18,40 @@
 
 ## Clean Installation
 
-1. Download the latest **fastboot ROM** zip (`axion-...-uke-fastboot.zip`) and verify its `.sha256sum`.
-2. Reboot to fastboot: `adb reboot fastboot`
-3. Flash the ROM:
+1. Download the latest **axion-*-uke.zip** from the [website](https://cdn.axionos.org/#uke) and verify its SHA-256.
+2. Extract the zip's `payload.bin` with a payload dumper (for example [payload-dumper-go](https://github.com/ssut/payload-dumper-go)) and grab the **boot, dtbo, init_boot, recovery and vendor_boot** images.
+3. Reboot to **fastboot** by holding **Power + Volume Down**, or with `adb reboot bootloader`.
+4. Flash the following partitions **one by one**:
 
 ```
-fastboot update <drag-&-drop-rom.zip>
+fastboot flash boot <drag-&-drop-boot.img>
 ```
+```
+fastboot flash dtbo <drag-&-drop-dtbo.img>
+```
+```
+fastboot flash init_boot <drag-&-drop-init_boot.img>
+```
+```
+fastboot flash recovery <drag-&-drop-recovery.img>
+```
+```
+fastboot flash vendor_boot <drag-&-drop-vendor_boot.img>
+```
+5. Reboot to **recovery**:
 
-4. When it finishes, **format data** from recovery (**Factory reset** -> **Format data/factory reset**), then reboot to **System**.
+```
+fastboot reboot recovery
+```
+6. Select **Factory reset → Format data/factory reset**.
+7. Select **Apply update → Apply from ADB**, then sideload the ROM:
+
+```
+adb sideload <drag-&-drop-rom.zip>
+```
+8. After the sideload completes, select **YES** to reboot to recovery if you have extra packages (i.e., GApps) to install and **NO** if you have none.
+9. Select **Factory reset → Format data/factory reset** again.
+10. Select **Reboot system now**.
 
 ---
 
@@ -36,14 +61,16 @@ fastboot update <drag-&-drop-rom.zip>
 > Dirty flashing **will not work** for major Android version upgrades
 > (example: **1.x → 2.x**).
 
-1. Reboot to fastboot: `adb reboot fastboot`
-2. Flash the new ROM zip over the old one:
+Install the update with the built-in updater (**System update** in Settings), or sideload it:
+
+1. Reboot to recovery: `adb reboot recovery`
+2. Select **Apply update → Apply from ADB**, then sideload the new ROM zip:
 
 ```
-fastboot update <drag-&-drop-rom.zip>
+adb sideload <drag-&-drop-rom.zip>
 ```
 
-3. Reboot to **System**.
+3. Select **Reboot system now**.
 
 ---
 

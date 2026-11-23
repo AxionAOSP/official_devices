@@ -1,9 +1,36 @@
 AxionOS 2.9
-Build Date - 04/11/2026
+Build Date - 23/11/2026
 ================
-- Initial Release
-- Based on OS3.0.304.0.WOZMIXM
-- Fixed Dolby Atmos and Quad Speakers
-- Fixed Focus Pen Pro buttons and gestures
-- Added Stylus Settings and Stylus Panel
+- Kernel now built from source: 6.1.182 (was prebuilt 6.1.138), ThinLTO + O3, BBR TCP
+- Merged Android 6.1 LTS and Qualcomm KERNEL.PLATFORM.3.0.r1-13600
+- Kernel named like stock GKI (android14-11), compiler shown in About > Kernel version
+- Fixed tablet freezing after locking (only a long power press brought it back)
+- Fixed laggy app open and close animations (GPU now reports Adreno 732 with ACD, like stock)
+- Fixed USB-C video output (HDMI / DisplayPort adapters and monitors)
+- Fixed USB-C digital headsets and enabled the USB-C audio switch
+- Fixed no incoming audio in WhatsApp and other VoIP calls
+- Fixed echo on VoIP calls through the speakers
+- Fixed Mi Turbo Charge status
+- Fixed Wi-Fi using a default MAC address instead of the device's own
+- Fixed Wi-Fi falling back to world mode; the country code is now learned from nearby networks
+- Fixed constant Wi-Fi scanning that caused ping spikes in games
+- Matched stock network buffer sizes for faster downloads and streaming
+- Fixed turning off double tap to wake having no effect
+- Touch is ready about 3 s sooner at boot and in recovery
+- Fixed accessibility services and app lockers crashing (faketouch feature declared)
+- Fixed Bluetooth keyboard touchpads and some Bluetooth LE mice not showing a cursor
+- Fixed installing APKs copied into Download with Files
+- Fixed the camera boost holding the CPU latency request forever
+- Turned off subsystem ramdumps (faster DSP recovery, no dumps filling storage)
+- Added desktop mode on the tablet screen with a keyboard and touchpad (opt-in)
+- Added an option to ignore the smart cover (folded behind or used as a stand)
+- Added Lift to check tablet gesture (off by default)
+- Added throttling curve settings in AxionParts > Performance
+- Stylus: new pen key daemon with remappable keys for Focus Pen Pro, Focus Pen and POCO Focus Pen
+- Stylus: pen status popup (connected, charging, low battery) and pen battery in settings
+- Stylus: find my pen for the Focus Pen Pro
+- Stylus: Circle to Search and take picture actions, more action pie actions
+- Stylus: pen apps such as StarNote no longer get every gesture twice
+- Stylus: fixed pen strokes lagging from phantom pen key events
+- Reports the stock OS3.0.304.0.WOZMIXM fingerprint
 - Signed Builds
