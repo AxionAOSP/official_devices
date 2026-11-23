@@ -92,4 +92,4 @@ adb sideload <drag-&-drop-rom.zip>
 
 ## Support / Bug Reports
 
-📢 **[Telegram Group](https://t.me/AxMacanSupport)**
+📢 **[Telegram Group](https://t.me/blazemacansupport)**
