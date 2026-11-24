@@ -1,0 +1,24 @@
+AxionOS v2.9
+Build Date: 24/11/2026
+
+- AxionOS is now official for the OnePlus 9 and 9 Pro
+- Fixed display color modes (Settings > Display > Colors)
+- Fixed Prime Video / Netflix not playing
+- Removed the DRM systemID spoof
+- Fixed the fingerprint ring UI bug in the setup wizard
+
+Kernel:
+- Updated DIAG, BBR, SSG and mq-deadline
+- Camera security fix (CRs-Fixed 4070467)
+
+Initial Features:
+- Oplus Camera v7: Dolby Vision, 4K 120 fps, Night Mode, 10-bit color
+- Extra Bluetooth codecs: LE Audio, aptX Adaptive
+- Dolby Atmos: v3.8
+- Oplus Gallery
+- Audio Sharing
+- Network Band Locking
+- USB 2.0 Fast Charging
+- Ultra-high Video Resolution
+- Vibrant Color Effect
+- Levion Kernel: NetHunter drivers included, quick, responsive and battery-saving
