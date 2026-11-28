@@ -1,3 +1,12 @@
+AxionOS v2.9
+Build Date : 28/11/2026
+- Fixed Netflix L1 
+- Fixed LDAC Support
+- Added MuuiCamera V6
+- Added New EngineerMode App
+- Updated blobs to OS3.0.10.0.WNLMIXM
+- Few More Misc changes
+
 AxionOS v2.8
 Build Date : 05/10/2026
 - Clean flash mandatory
